@@ -8,17 +8,23 @@ import sys
 
 
 
+
+
+fp = webdriver.FirefoxProfile()
+
+
+fp.set_preference("browser.download.folderList", 2)
+fp.set_preference("browser.download.manager.showWhenStarting", False)
+fp.set_preference("browser.download.dir", os.getcwd() + "/midi")
+fp.set_preference("browser.helperApps.neverAsk.saveToDisk", "audio/midi")
+
+
 def threadThatMovesFiles():
     global threadRunning
     failureCounter = 0
     while threadRunning:
         time.sleep(10)
         for gameTitleToMidiFileDictionary in dictionaryList:
-
-            if gameTitleToMidiFileDictionary.isEmpty():
-                failureCounter += 1
-                if failureCounter >= 10:
-                    threadRunning = False
 
             while not gameTitleToMidiFileDictionary.isEmpty():
                 node = gameTitleToMidiFileDictionary.pop()
@@ -103,13 +109,7 @@ for i in range(numOfThreads):
 
 
 
-fp = webdriver.FirefoxProfile()
 
-
-fp.set_preference("browser.download.folderList", 2)
-fp.set_preference("browser.download.manager.showWhenStarting", False)
-fp.set_preference("browser.download.dir", os.getcwd() + "/midi")
-fp.set_preference("browser.helperApps.neverAsk.saveToDisk", "audio/midi")
 
 
 driver = webdriver.Firefox(firefox_profile=fp)
