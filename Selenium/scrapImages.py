@@ -7,19 +7,25 @@ from LinkedList import LinkedList
 import sys
 
 
+class PathInfo:
 
+    def __init__(self, absolutePath, name) -> None:
+        self.absolutePath = absolutePath
+        self.name = name
 
 
 fp = webdriver.FirefoxProfile()
-
+threadRunning = True
 
 fp.set_preference("browser.download.folderList", 2)
 fp.set_preference("browser.download.manager.showWhenStarting", False)
 fp.set_preference("browser.download.dir", os.getcwd() + "/midi")
-fp.set_preference("browser.helperApps.neverAsk.saveToDisk", "audio/midi")
+fp.set_preference("browser.helperApps.neverAsk.saveToDisk", "image/png")
+fp.set_preference("browser.helperApps.neverAsk.saveToDisk", "image/jpg")
+fp.set_preference("browser.helperApps.neverAsk.saveToDisk", "image/jpeg")
 
 
-def threadThatMovesFiles():
+def threadThatMovesFiles(dictionaryList, rootDirectory):
     global threadRunning
     failureCounter = 0
     while threadRunning:
@@ -28,122 +34,90 @@ def threadThatMovesFiles():
 
             while not gameTitleToMidiFileDictionary.isEmpty():
                 node = gameTitleToMidiFileDictionary.pop()
-                print("moving: " + rootDirectory + "/" + node.value + " to: " + rootDirectory + "/" + node.key + "/" + node.value)
+                print("moving: " + rootDirectory[:len(rootDirectory)-5] + "/" +
+                      node.value + " to: " + rootDirectory + "/" + node.key + "/" + node.value)
                 try:
-                    os.replace(rootDirectory + "/" + node.value, rootDirectory + "/" + node.key + "/" + node.value)
+                    os.replace(rootDirectory[:len(
+                        rootDirectory)-5] + "/" + node.value, rootDirectory + "/" + node.key + "/" + node.value)
                 except(OSError) as e:
                     print("FAILED TO MOVE")
                     print(e)
                     with open("errors.log", "a") as errorFile:
-                        errorFile.write("FAILED TO MOVE: " + rootDirectory + "/" + node.value + " to: " + rootDirectory + "/" + node.key + "/" + node.value + "\n")
-                    
-            
+                        errorFile.write("FAILED TO MOVE: " + rootDirectory[:len(
+                            rootDirectory)-5] + "/" + node.value + " to: " + rootDirectory + "/" + node.key + "/" + node.value + "\n")
 
 
-def threadThatScrapes(gameTitleToMidiFileDictionary, urls):
+def getHighQualityImage(image, songName, gameTitleToMidiFileDictionary):
+    newDriver = webdriver.Firefox(firefox_profile=fp)
+
+    newDriver.get(image.find_element_by_tag_name("a").get_property("href"))
+    time.sleep(2)
+    newDriver.find_element_by_tag_name("img").screenshot(
+        gameName.name + " - " + songName[:len(songName)-4] + str(i) + ".png")
+    gameTitleToMidiFileDictionary.add2(
+        gameName.name, gameName.name + " - " + songName[:len(songName)-4] + str(i) + ".png")
+    newDriver.close()
+
+
+def threadThatScrapes(gameTitleToMidiFileDictionary, gameNames):
     global fp
     driver = webdriver.Firefox(firefox_profile=fp)
-    for url in urls:
-        driver.get(url)
-        newElements = driver.find_elements("tag name", "a")
-        gameTitle = None
-        previousLink = newElements[2]
-        for downloadLink in newElements[2:]:
-            print(downloadLink.text)
-            if "Comment" not in downloadLink.text and "Comment" not in previousLink.text:
-                gameTitle = previousLink.text
-                if "/" in gameTitle:
-                    gameTitle = gameTitle.replace('/', ' ')
-                if "." in gameTitle:
-                    gameTitle = gameTitle.replace('.', ' ')
-                    
-                try:
-                    os.mkdir(rootDirectory + "/" + gameTitle)
-                except:
-                    print("folder " + rootDirectory + "/" + gameTitle + " already exists")
+    for gameName in gameNames:
+        # driver.get("https://www.giantbomb.com/search/?q=" +
+        #            gameName.name + " " + songName[:len(songName)-4])
+        driver.get("https://www.giantbomb.com/search/?q=" +
+                   gameName.name)
+        gameLink = driver.find_element_by_class_name("media")
+        gameLink.click()
+        driver.get(driver.current_url + "images/")
+        time.sleep(2)
 
-            previousLink = downloadLink
-            if "Comment" not in downloadLink.text:
-                fileName = downloadLink.get_property("href").split('/')[-1]
-                if fileName =="":
-                    continue
-                if "%" in fileName:
-                    tokens = fileName.split('%')
-                    fileName = tokens[0]
-                    print("TOKENS: ", tokens)
+        images = driver.find_elements("tag name", "figure")
 
-                    for i in range(1, len(tokens)):
-                        token = tokens[i]
-                        print("TOKEN", token, len(token))
-                        tempValue = tokens[i]=bytearray.fromhex(token[0:2]).decode()
-                        fileName += tempValue + token[2:]
-                
-                print("adding: " + fileName)
-                downloadLink.click()
-                gameTitleToMidiFileDictionary.add2(gameTitle, fileName)
+        for i in range(len(images)):
+            image = images[i]
+            image.screenshot(
+                gameName.name  + " - square" + str(i) + ".png")
+            gameTitleToMidiFileDictionary.add2(
+                gameName.name, gameName.name + " - square" + str(i) + ".png")
+            #getHighQualityImage(image, songName, gameTitleToMidiFileDictionary)
+
+    driver.close()
     print("THREAD DONE!")
 
+def start(rootDirectory, urls, numOfThreads):
+    
+
+    if os.path.exists("errors.log"):
+        os.remove("errors.log")
+    else:
+        print("errors.log does not exist, generating")
+
+    
+
+    dictionaryList = [None] * numOfThreads
+    for i in range(numOfThreads):
+        dictionaryList[i] = LinkedList()
 
 
+    increment = len(urls) // numOfThreads
+    number = increment
+    lastNumber = 0
+    for i in range(numOfThreads):
+        thread = threading.Thread(target=threadThatScrapes, args=(
+            dictionaryList[i], urls[lastNumber:number]))
+        lastNumber = number
+        number += increment
+        thread.start()
+        time.sleep(2)
 
-
-rootDirectory = os.getcwd() + "/midi"
-
-try:
-    os.mkdir(rootDirectory)
-except:
-    print("folder midi already exists")
-
-if os.path.exists("errors.log"):
-  os.remove("errors.log")
-else:
-  print("errors.log does not exist, generating")
-
-threadRunning = True
-
-numOfThreads = int(sys.argv[1])
-
-dictionaryList = [None] * numOfThreads
-for i in range(numOfThreads):
-    dictionaryList[i] = LinkedList()
-
-
-
-
-
-
-driver = webdriver.Firefox(firefox_profile=fp)
-driver.get("https://www.vgmusic.com/")
-listOfElements = driver.find_elements("tag name", "a")
-foundTheElements = False
-urls = []
-for element in listOfElements:
-    print(element.text)
-    if element.text == "NES":
-        foundTheElements = True
-    if element.text == "Comedy & Memes":
-        break
-    if foundTheElements:
-        urls.append(element.get_property("href"))
-
-
-with open("urls.txt", "w") as file:
-    for line in urls:
-        file.write(line+"\n")
-
-
-driver.close()
-
-
-increment = len(urls) // numOfThreads
-number = increment
-lastNumber = 0
-for i in range(numOfThreads):
-    thread = threading.Thread(target=threadThatScrapes, args=(dictionaryList[i], urls[lastNumber:number]))    
-    lastNumber = number
-    number+= increment
+    thread = threading.Thread(target=threadThatMovesFiles, args=(dictionaryList, rootDirectory))
     thread.start()
-    time.sleep(2)
 
-thread =threading.Thread(target=threadThatMovesFiles)
-thread.start()
+if __name__ == "__main__":
+    rootDirectory = os.getcwd() + "/midi"
+    urls = []
+    numOfThreads = int(sys.argv[1])
+    for gameName in os.listdir(rootDirectory):
+        urls.append(PathInfo(rootDirectory + "/" + gameName, gameName))
+    start(rootDirectory, urls, numOfThreads)
