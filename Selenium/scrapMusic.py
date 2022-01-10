@@ -63,23 +63,24 @@ def threadThatScrapes(gameTitleToMidiFileDictionary, gameNames):
     global fp
     driver = webdriver.Firefox(firefox_profile=fp)
     for gameName in gameNames:
-        for songName in os.listdir(gameName.absolutePath):
-            driver.get("https://www.giantbomb.com/search/?q=" +
-                       gameName.name + " " + songName[:len(songName)-4])
-            gameLink = driver.find_element_by_class_name("media")
-            gameLink.click()
-            driver.get(driver.current_url + "images/")
-            time.sleep(2)
+        # driver.get("https://www.giantbomb.com/search/?q=" +
+        #            gameName.name + " " + songName[:len(songName)-4])
+        driver.get("https://www.giantbomb.com/search/?q=" +
+                   gameName.name)
+        gameLink = driver.find_element_by_class_name("media")
+        gameLink.click()
+        driver.get(driver.current_url + "images/")
+        time.sleep(2)
 
-            images = driver.find_elements("tag name", "figure")
+        images = driver.find_elements("tag name", "figure")
 
-            for i in range(len(images)):
-                image = images[i]
-                image.screenshot(
-                    gameName.name + " - " + songName[:len(songName)-4] + " - square" + str(i) + ".png")
-                gameTitleToMidiFileDictionary.add2(
-                    gameName.name, gameName.name + " - " + songName[:len(songName)-4] + " - square" + str(i) + ".png")
-                #getHighQualityImage(image, songName, gameTitleToMidiFileDictionary)
+        for i in range(len(images)):
+            image = images[i]
+            image.screenshot(
+                gameName.name  + " - square" + str(i) + ".png")
+            gameTitleToMidiFileDictionary.add2(
+                gameName.name, gameName.name + " - square" + str(i) + ".png")
+            #getHighQualityImage(image, songName, gameTitleToMidiFileDictionary)
 
     driver.close()
     print("THREAD DONE!")
