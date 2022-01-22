@@ -127,4 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+data/
+data2/
+data3/
+data4/
+data5/
 Selenium/midi

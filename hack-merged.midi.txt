@@ -1,0 +1,23 @@
+0, 0, Header, 0, 1, 960
+1, 0, Start_track
+1, 0, Sequencer_specific, 0D, 05, 0F, 1C, 32, 30, 30, 33, 2E, 30, 31, 2E, 30, 33
+1, 0, Sequencer_specific, 08, 05, 0F, 12, 00, 00, 7F, 7F, 00
+1, 0, Key_signature, 0, "major"
+1, 0, Title_t, "Track 0"
+1, 0, Tempo, 750000
+1, 0, Sequencer_specific, 05, 05, 0F, 09, 40, 48
+1, 0, Sequencer_specific, 0F, 05, 0F, 06, 47, 65, 6E, 65, 72, 61, 6C, 20, 4D, 49, 44, 49
+1, 0, Program_c, 0, 79
+1, 0, Channel_prefix, 0
+1, 0, Note_on_c, 0, 72, 127
+1, 120, Note_off_c, 0, 72, 0
+1, 120, Note_on_c, 0, 74, 127
+1, 240, Note_off_c, 0, 74, 0
+1, 240, Note_on_c, 0, 76, 127
+1, 360, Note_off_c, 0, 76, 0
+1, 360, Note_on_c, 0, 84, 127
+1, 480, Note_off_c, 0, 84, 0
+1, 480, Note_on_c, 0, 79, 127
+1, 2400, Note_off_c, 0, 79, 0
+1, 2400, End_track
+0, 0, End_of_file
