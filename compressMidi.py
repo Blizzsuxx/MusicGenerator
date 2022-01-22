@@ -38,13 +38,16 @@ class PriorityLinkedList:
             else:
                 currentNode = self.tail
                 previousNode = currentNode
-                while currentNode.key > node.key:
+                while (not currentNode is None) and currentNode.key > node.key:
                     previousNode = currentNode
                     currentNode = currentNode._next
                 previousNode._next = node
                 node._previous = previousNode
                 node._next = currentNode
-                currentNode._previous = node
+                if not currentNode is None:
+                    currentNode._previous = node
+                else:
+                    self.head = node
 
         else:
             self.head = node

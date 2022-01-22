@@ -10,6 +10,7 @@ REGULAT_NOTE_MIDI_DELIMETER = "\n"
 
 def compress(fin, fout):
     wholeAssFile = []
+    print("AAAA")
     with open(fin, "r") as fajl:
         channelInstrumentDictionary = {}
         
@@ -33,7 +34,7 @@ def compress(fin, fout):
                             noteTokens.append(int(tokens[1]) - int(noteTokens[0]))
                         wholeAssFile[i] = DELIMETER.join(noteTokens)
                         break
-
+    print("AAAA")
     with open(fout, "w") as fajl:
         fajl.write(NOTE_DELIMETER.join(wholeAssFile))
 
@@ -45,8 +46,9 @@ def uncompress(fin, fout):
         wholeAssFile = fajl.read()
         for line in wholeAssFile.split(NOTE_DELIMETER):
             tokens = line.split(DELIMETER)
+            print(tokens)
 
-            if tokens[4] != "NONE":
+            if len(tokens) >= 5 and tokens[4] != "NONE":
                 priorityList.add2(int(tokens[0]), "1" + REGULAR_MIDI_DELIMETER + tokens[0] + REGULAR_MIDI_DELIMETER + "Program_c" + REGULAR_MIDI_DELIMETER +
                 tokens[1] + REGULAR_MIDI_DELIMETER + tokens[4])
 
@@ -54,20 +56,23 @@ def uncompress(fin, fout):
             "Note_on_c" + REGULAR_MIDI_DELIMETER + tokens[1] + REGULAR_MIDI_DELIMETER + tokens[2] + REGULAR_MIDI_DELIMETER +
             tokens[3])
 
-            lastTimestamp = tokens[0]
 
             if len(tokens) == 6:
-                priorityList.add2(int(tokens[0] + int(tokens[5])), "1" + REGULAR_MIDI_DELIMETER + str(int(tokens[0]) + int(tokens[5]))
+                priorityList.add2(int(tokens[0]) + int(tokens[5]), "1" + REGULAR_MIDI_DELIMETER + str(int(tokens[0]) + int(tokens[5]))
                  + REGULAR_MIDI_DELIMETER +
                 "Note_on_c" + REGULAR_MIDI_DELIMETER + tokens[1] + REGULAR_MIDI_DELIMETER + tokens[2] + REGULAR_MIDI_DELIMETER +
                 "0")
-                lastTimestamp = str(int(tokens[0]) + int(tokens[5]))
 
     with open(fout, "w") as fajl:
         fajl.write(compressMidi.BEGINNING_OF_THE_FILE)
         currentNode = priorityList.pop()
+        firstTimestamp = int(currentNode.value.split(REGULAR_MIDI_DELIMETER)[1])
         while currentNode != None:
-            fajl.write(currentNode.value + REGULAT_NOTE_MIDI_DELIMETER)
+            noteSplit = currentNode.value.split(REGULAR_MIDI_DELIMETER)
+
+            noteSplit[1] = str(int(noteSplit[1]) - firstTimestamp)
+            lastTimestamp = noteSplit[1]
+            fajl.write(REGULAR_MIDI_DELIMETER.join(noteSplit) + REGULAT_NOTE_MIDI_DELIMETER)
             currentNode = priorityList.pop()
         fajl.write("1" + REGULAR_MIDI_DELIMETER + lastTimestamp + REGULAR_MIDI_DELIMETER + "End_track\n" )
         fajl.write(compressMidi.END_OF_THE_FILE)
@@ -87,8 +92,9 @@ if __name__ == "__main__":
     fin = sys.argv[1]
     fout = sys.argv[2]
     mode = sys.argv[3]
-
+    print("AAAAAAA")
     if mode == "c":
+        print("AAAAAAA")
         compress(fin, fout)
     elif mode == "u":
         uncompress(fin, fout)
