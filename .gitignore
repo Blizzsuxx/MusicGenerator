@@ -139,4 +139,5 @@ gpt-2simple/checkpoint/
 gpt-2simple/models/
 gpt-2simple/run1/
 gpt-2simple/archive-name.tar.gz
-
+all_of_the_data/
+gpt-2simple/music_generator_checkpoint.tar

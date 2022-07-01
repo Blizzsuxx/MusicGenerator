@@ -10,14 +10,14 @@ REGULAT_NOTE_MIDI_DELIMETER = "\n"
 
 def compress(fin, fout):
     wholeAssFile = []
-    print("AAAA")
+    # print("AAAA")
     with open(fin, "r") as fajl:
         channelInstrumentDictionary = {}
         lastTimestamp = 0
         currentTimestamp = 0
         for line in fajl.readlines():
             tokens = line.split(",")
-            print(tokens)
+            # print(tokens)
             lastTimestamp = currentTimestamp
             currentTimestamp = int(tokens[1])
             if currentTimestamp > lastTimestamp:
@@ -40,7 +40,7 @@ def compress(fin, fout):
                             noteTokens[4] = str(int(tokens[1]) - int(noteTokens[0]))
                         wholeAssFile[i] = DELIMETER.join(noteTokens)
                         break
-    print("AAAA")
+    # print("AAAA")
     with open(fout, "w") as fajl:
         fajl.write(NOTE_DELIMETER.join(wholeAssFile))
 
@@ -56,13 +56,13 @@ def uncompress(fin, fout):
             if line.endswith('-'):
                 line = line[:-1]
             tokens = line.split(DELIMETER)
-            print(tokens)
+            # print(tokens)
             if len(tokens) == 2:
                 lastTimestamp += int(tokens[1])
                 continue
             if "wait" in tokens or len(tokens)!=5 or int(tokens[1]) >128: #error
                 continue
-            print(tokens)
+            # print(tokens)
 
 
 
