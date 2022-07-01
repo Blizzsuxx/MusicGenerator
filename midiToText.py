@@ -43,3 +43,5 @@ elif(mode == "folder"):
     convertMidiFolder(midiName)
 elif(mode == "ffolder"):
     convertMidiFolderOfFolders(midiName)
+
+print("fin mode")
