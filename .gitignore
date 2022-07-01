@@ -135,3 +135,8 @@ data5/
 Selenium/midi
 smallTestDatabase/
 data5.tar.gz
+gpt-2simple/checkpoint/
+gpt-2simple/models/
+gpt-2simple/run1/
+gpt-2simple/archive-name.tar.gz
+
