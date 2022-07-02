@@ -11,10 +11,13 @@ where n is the number of threads that you want to use
 before scrapping images please run the scrapMusic script first
 
 CreatingTrainingData.ipynb, makingTxtWithFirstNotes.ipynb, and resize_image.ipynb -> are for preprocessing images, makeing tct documents with notes 
+
 ImageToTextGenerator.ipynb -> this is model for generatint text based on image 
 
 test_slika.ipynb  -> this is code for testing model 
 
 https://drive.google.com/file/d/14bGsH7MxTKydOdOxNM4sU8XnLr6Rdk77/view?usp=sharing -> on this link are images for resizing
+
 https://drive.google.com/file/d/1HccziZkT3A_6PFW_7lRcqwkv6ZbXJROH/view?usp=sharing -> on this link are resized images with programm
+
 https://drive.google.com/file/d/14bGsH7MxTKydOdOxNM4sU8XnLr6Rdk77/view?usp=sharing -> on this link are images for testing
