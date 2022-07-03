@@ -1,0 +1,1109 @@
+Fighting Force(FF1Eriestg2).mid 6-70-55-31-d 6-78-55-31-d 6-88-55-31-d 6-60-55-31-d 6-69-55-31-d
+Sonic the Hedgehog 3STH3_Hydro_City_2-KMv1-1.mid 0-36-102-36-d 1-36-102-34-d 2-65-72-62-d 2-58-72-62-d 2-63-72-62-d
+Resident Evil 2Ada's_Theme.mid 0-73-22-89-d 0-64-24-89-d 0-49-35-89-d 0-57-35-89-d wait-909
+Mega Man IIIMM3_Gemini_MCM.mid 0-72-127-11-d 1-79-64-66-d 2-48-64-48-d 9-33-64-n-d wait-131
+Darius TwinDTwinRilair.mid 9-43-71-0-d wait-42 9-43-0-0-d wait-7 9-43-71-0-d
+Wonder Boy in Monster WorldWB5-Begonia.mid 1-63-100-80-d wait-104 1-63-0-80-d 1-65-100-80-d wait-105
+Star ForceNES__Star_Force__Power_Up_2.mid 0-64-0-7-d 0-64-96-7-d 0-67-0-7-d 0-67-96-7-d 1-48-0-32-d
+Castlevania Dracula XDX-_Richter's_Theme.mid 1-60-92-36-d 5-63-46-48-d 11-36-92-48-d wait-209 1-60-0-36-d
+Perfect DarkalienC.mid 9-43-65-n-d 0-64-50-52-d 1-28-64-56-d 11-52-75-14-d 12-40-50-18-d
+Mega Man IIIMM3-Stage_Select.mid 0-68-76-81-d 2-56-82-7-d 3-44-75-38-d 3-32-75-38-d 4-68-71-90-d
+Super Mario All-Starssmas10.mid 3-77-103-10-d wait-48 3-77-0-10-d wait-31 3-78-103-10-d
+Seiken Densetsu 3 (Japan)sd3_boss.mid wait-929 9-36-87-24-d wait-93 9-36-0-24-d 9-36-87-24-d
+Advance Wars: Dual Strikeawdskindle.mid 1-53-84-107-d 9-30-78-0-d wait-120 1-53-0-107-d 1-53-56-107-d
+Mega Man 2JDC_RW2Metalv13.mid 0-69-100-87-d 1-53-100-87-d 6-50-100-38-d 9-40-76-16-d wait-99
+Kirby Tilt 'n' TumbleKirbyTNT_Underground.mid 0-36-110-33-d 9-42-60-n-d wait-123 9-42-0-n-d wait-6
+Dragon ViewDV_-_Distraught.mid 0-69-64-73-d wait-180 0-69-0-73-d 0-71-64-73-d wait-180
+Kirby's Block Ballkbb-credits.mid 8-31-79-34-d 9-57-63-0-d 9-44-71-0-d 9-35-79-0-d wait-96
+Paper Mario: The Thousand-Year DoorPit_of_100_trials.mid 0-72-64-74-d 2-72-27-74-d wait-45 2-72-27-74-d wait-45
+Legend of Zelda, The: A Link to the Past   Four Swordsloz-fsTalusCave.mid 1-72-36-48-d 1-84-36-48-d 0-43-64-57-d 6-43-64-58-d 6-48-64-58-d
+AsterixAsterix-Mountain.mid 0-67-79-80-d 1-83-87-80-d 2-71-87-80-d 9-44-79-0-d wait-48
+Sonic Advance 2SA2_Boss-KM-GM.mid 2-76-71-50-d 12-76-61-44-d wait-472 2-82-71-50-d 12-82-61-44-d
+Earth Defense ForceEDF-first-encounter.mid wait-99 9-42-80-0-d 9-44-80-0-d 9-42-0-0-d 9-44-0-0-d
+Phantasy Star 4ps420.mid 0-30-63-34-d 1-54-69-13-d 9-36-100-0-d wait-145 0-30-0-34-d
+GyrussGyruss_Disk.mid 0-68-80-80-d 1-68-80-81-d 3-68-47-80-d 4-68-47-81-d 5-65-80-81-d
+Knight's QuestKnight's_Quest_Map_Theme.mid 0-57-110-0-d 0-64-110-0-d 1-45-110-0-d wait-188 0-57-0-0-d
+F-Zero XFZX_Big_Blue-KM.mid 0-35-102-34-d 1-35-102-34-d 2-59-87-30-d 2-54-87-30-d 2-47-87-30-d
+Super Bomberman 2Super_Bomberman_2_Big_Boss.mid 0-66-108-55-d 1-38-92-7-d 2-57-92-81-d 3-66-92-62-d 6-66-92-60-d
+Phantasy Star 2PS2-Overworld2.mid 0-51-59-38-d 1-70-83-59-d 2-70-67-74-d 3-66-67-74-d 4-63-67-74-d
+Hamtaro, Ham-Hams Unite!H-park.mid 0-46-61-71-d 1-74-110-0-d 9-38-61-0-d wait-107 0-46-0-71-d
+Little Nemo: The Dream MasterNemoHouse3.mid 0-60-76-22-d 2-41-77-33-d wait-139 1-60-70-71-d wait-135
+Dragon Ball GT: Final Boutdbgtfbplayerselect.mid 9-63-94-0-d wait-87 9-63-0-0-d 9-63-94-0-d wait-88
+Super Mario GalaxySMG_DangersAfoot.mid 0-52-91-48-d 1-28-72-38-d 12-28-98-35-d 3-28-100-0-d 3-40-100-0-d
+Lunar: Silver Star Story CompleteLSSSC_Towards_The_Horizon.mid wait-130 2-72-110-18-d wait-124 2-72-0-18-d wait-5
+Soul BlazerSoulBlazer_LeosBasement.mid wait-461 0-36-110-49-d 1-60-79-57-d 3-84-74-48-d 3-72-74-48-d
+Final Fantasy TacticsFFTALMA.mid 0-74-64-49-d 0-79-64-49-d wait-107 0-79-0-49-d 0-74-0-49-d
+Tales of Destiny IITalesofEternia_EasyGoing.mid 0-64-110-46-d 2-64-71-26-d wait-172 0-64-0-46-d 2-64-0-26-d
+Tetristetrisuberrock.mid 3-72-100-81-d 9-35-93-n-d 9-42-93-n-d wait-285 9-35-0-n-d
+Final Fantasy IIHey,_Cid!.mid 1-41-89-33-d 9-38-68-0-d wait-110 9-38-0-0-d wait-110
+Super Monkey Ball 2bubblywashingmachine.mid wait-1382 9-40-79-0-d wait-53 9-40-0-0-d wait-120
+Super Mario 64M64SLDMX_v2.mid 2-75-127-80-d 2-70-127-80-d 2-77-127-80-d wait-53 2-75-0-80-d
+Secret of ManaSeiken_Densetsu_2_-_Happenings_on_a_Moonlit_Night.mid wait-5 9-75-67-0-d 1-72-50-57-d 2-72-50-68-d 3-48-50-12-d
+Seiken Densetsu 3 (Japan)SD3_-_High_Tension_Wire.mid 0-57-104-61-d 0-45-104-61-d 2-45-98-37-d 5-33-98-37-d wait-78
+BrigandineIscalio.mid 0-28-100-33-d 1-52-100-30-d 2-76-60-48-d 3-88-60-48-d 11-40-100-99-d
+Advance WarsSonja.mid 11-33-110-39-d 11-45-110-39-d 12-57-110-89-d 13-69-75-7-d 2-57-110-73-d
+Castlevania 3CV3-_Clockwork2.mid 0-43-108-26-d 2-86-92-16-d 4-82-92-16-d wait-116 2-86-0-16-d
+Combatribescombatribes-lvl3.mid 0-52-97-29-d 0-45-97-29-d 3-33-102-33-d 9-38-99-0-d wait-327
+Sonic Advance 3SonicAdvance3_OceanBase1.mid wait-384 0-36-115-39-d 1-36-115-80-d 2-46-63-16-d 2-51-63-16-d
+Land of IllusionLaoI-Castle1.mid 0-95-100-80-d 1-59-82-80-d 2-78-90-80-d wait-430 0-95-0-80-d
+Shin Megami Tensei II (Japan)SMT_II_PSX_Common_Battle.mid wait-132 3-76-0-83-d 3-68-0-83-d 3-71-0-83-d wait-9
+Super Bombermansbm-level2.mid 0-21-100-33-d 1-57-100-1-d 2-81-104-74-d 9-35-100-0-d wait-185
+Tech RomancerTech_Romancer-_Intro.mid wait-768 wait-16 wait-16 wait-16 wait-16
+Legend Of Zelda, The: A Link To The PastZlttP_-_Rabbit.mid 2-50-100-57-d 3-50-100-60-d 2-43-79-57-d 3-43-63-60-d wait-81
+Madou Monogatari 1-2-3MadouMonogatari123GG_Labyrinth2_GM.mid wait-847 9-35-100-24-d 9-40-100-24-d wait-40 9-35-0-24-d
+Mario TennisMT_Tournament_Round_2-KM.mid 0-28-67-34-d 1-28-82-36-d 2-64-71-56-d 3-64-102-61-d 5-64-71-48-d
+Banjo-Kazooiebk_grunty-lair_10_Gruntys_Furnace_Fun.mid 0-36-109-33-d 9-36-76-0-d 9-46-78-0-d 9-49-78-0-d wait-148
+Sonic CDSCD_Super_Sneakers-KM.mid 1-29-102-39-d 0-41-114-30-d 3-70-71-50-d 3-65-71-50-d 5-65-51-8-d
+Final Fantasy 7Ghost.mid 0-72-110-50-d 0-77-110-50-d 1-72-110-50-d 1-77-110-50-d 9-57-82-19-d
+Star Soldier: Vanishing Earthjrlepage_-_XG_-_star_soldier_vanishing_earth_-_scar.mid wait-770 wait-4 wait-4 wait-4 wait-4
+LemmingsLemBashRemix.mid 0-57-127-0-d wait-288 0-57-0-0-d 0-57-127-0-d wait-288
+Final Fantasytown2.mid wait-270 0-72-94-48-d wait-3 1-65-113-44-d wait-1
+Incredible Hulkincrediblehulkboss2-kenji.mid 1-33-83-33-d 2-52-73-87-d 2-45-73-87-d 3-45-73-29-d 3-52-73-29-d
+Love Hina AdvanceT_LoveHinaAdvance_Theme05.mid 0-62-86-81-d 0-74-86-81-d 2-46-78-24-d 3-46-78-35-d 4-74-54-62-d
+Kirby's Block Ballkbb-select.mid 0-71-71-3-d 2-71-51-26-d 8-41-79-32-d 9-36-79-0-d wait-6
+Final Fantasy 7ff7_boss.mid wait-345 3-45-94-30-d 14-45-63-84-d 4-45-112-34-d 9-49-80-16-d
+LegendLegend-Intro.mid 0-52-127-55-d 0-40-127-55-d 0-64-127-55-d 5-59-102-99-d 6-59-102-50-d
+Cave StoryBreakdown.mid 1-53-63-42-d 2-65-16-41-d wait-1 wait-208 2-65-0-41-d
+Persona 4 Arena UltimaxYukiko_Amagi_Theme.mid wait-189 0-88-55-106-d wait-40 0-88-0-106-d wait-95
+Castlevania 3c3stg5.mid 2-38-100-32-d wait-1150 1-52-100-46-d wait-130 1-52-0-46-d
+Sonic Advance 3SA3_Options-KM.mid 0-32-72-38-d 1-32-102-81-d 2-79-92-80-d 4-67-61-63-d 4-60-61-63-d
+Klonoa: Door To Phantomilesave.mid wait-1082 0-86-46-98-d 1-73-33-4-d 1-74-33-4-d 1-78-33-4-d
+Final Fantasy IIIFF6_Overture_Xg.mid wait-552 wait-23 wait-23 wait-22 wait-23
+F-Zerowhiteland1.mid wait-1213 0-76-83-4-d 1-62-59-4-d 9-44-87-n-d wait-17
+Slayers RoyalT_SEGASlayersRoyal_Promo01v103.mid 2-38-94-38-d 3-38-94-36-d 6-88-77-48-d 6-83-77-48-d 6-78-77-48-d
+Live A Live (Japan)KungFuChaptersongII.mid wait-1819 0-68-127-72-d wait-303 0-71-127-72-d 0-68-0-72-d
+Sonic the Hedgehog 3stranger_in_the_hidden_palace.mid 0-51-67-52-d wait-3840 0-51-0-52-d 0-49-67-52-d wait-3840
+Super Hang-OnSuperHangon_Genesis3.mid wait-768 0-44-119-24-d 2-44-114-25-d wait-16 1-44-127-37-d
+Battletoads and Double DragonBtddlevcomplete.mid 0-48-69-30-d 2-48-102-35-d 9-69-127-0-d 9-38-127-0-d wait-77
+Sonic the HedgehogSTH-Boss_Battle_XG.mid 0-30-105-33-d 1-30-127-36-d 3-42-85-38-d 9-31-93-48-d 9-34-93-48-d
+Mega Man Zero 3MMZ3_Introduction_Stage-KM.mid 0-26-102-34-d 1-50-102-30-d 1-45-102-30-d 3-50-102-89-d 3-45-102-89-d
+Legend of the Mystical Ninjamn-Awaji.mid 0-71-85-77-d 1-59-63-107-d 3-40-115-116-d 4-35-72-35-d 9-36-80-0-d
+Final Fantasy 7Seto2.mid 1-70-80-11-d 1-75-80-11-d 1-66-80-11-d 2-75-110-105-d 10-70-90-5-d
+CrystalisCrysoceaV2.0.mid wait-1486 1-45-100-62-d 2-57-100-87-d 4-44-100-33-d 9-36-100-2-d
+StriderStrider-Beginning.mid 0-61-100-80-d 1-85-90-80-d 2-85-78-80-d wait-230 2-85-0-80-d
+Super Mario Bros Castle-1.mid 0-70-82-80-d 0-74-82-80-d 1-51-82-80-d wait-80 0-70-0-80-d
+Wonderboy In Monster Worldbiomecha.mid 0-70-100-30-d 9-41-87-n-d 2-55-87-50-d 2-67-87-50-d 3-43-87-34-d
+RistarRistar-Boss1.mid 9-46-83-0-d 9-35-83-0-d wait-10 5-60-79-127-d wait-38
+Jelly BoyBarmyArmy.mid 0-60-127-25-d 1-48-102-3-d 2-36-105-2-d 9-35-81-0-d wait-111
+Legend of Zelda, The: Twilight Princesstp_bride_fire.mid 9-40-53-48-d 4-38-75-47-d wait-51 4-38-0-47-d 4-38-75-47-d
+Legend of Zelda, The: Twilight Princesstwilight_princess_boss_diababa_pt2.mid 2-75-76-56-d 3-58-75-57-d 3-68-75-57-d 4-63-76-60-d 4-70-76-60-d
+Super BonkSuperBonk_Juice.mid wait-501 0-38-115-34-d 9-49-90-24-d 9-42-90-24-d 9-36-90-24-d
+Battle of OlympusPhrygia_-_Searching_the_Moon_Ball.mid 13-83-100-46-d 14-52-79-47-d 0-71-127-46-d 1-64-90-8-d 2-52-87-43-d
+Castlevania: Lament of InnocenceCV_House_of_Sacred_Remains.mid wait-1 wait-1439 0-67-74-19-d wait-100 15-67-55-19-d
+Street Fighter IIXkyGuile.mid 3-70-71-96-d 3-65-71-96-d 3-62-71-96-d 9-40-20-16-d wait-28
+Puyo Puyo 2Puyo_Puyo_2_-_BGM03.mid wait-292 0-0-0-81-d 0-0-0-81-d 1-0-0-24-d 1-0-0-24-d
+Sonic Advance 3CyberTrack_Act1.mid 0-30-86-38-d 3-57-76-52-d 3-61-76-52-d 3-66-76-52-d 9-44-75-0-d
+SpellCasterSpellC-Forest.mid 1-60-83-80-d 2-53-83-80-d 9-36-79-0-d wait-96 9-36-0-0-d
+Phantasy StarPStar1_Vehicle.mid 0-76-100-80-d 1-57-85-80-d 2-73-76-80-d 9-36-79-n-d wait-96
+Mega Man 318-WilyIntro.mid 0-65-110-25-d 1-60-110-25-d 2-53-110-n-d 9-42-110-n-d wait-48
+Monsterworld IVMW4-Entrance2.mid 0-44-83-35-d 2-74-83-12-d 3-72-51-12-d 9-44-79-0-d wait-76
+EarthBoundBlueStone_ToScaraba.mid 4-45-108-32-d wait-197 3-60-92-48-d 3-64-92-48-d wait-50
+Super Mario WorldSMW-Donut-Grunge.mid wait-384 wait-14 wait-13 wait-1235 5-74-127-93-d
+Pokémon (HeartGold, SoulSilver)rival_encouter_hg_beta.mid 0-78-0-17-d 0-78-84-17-d 1-84-0-29-d 1-84-58-29-d 9-40-0-0-d
+Psychic WorldPWorld-Round4.mid 0-65-100-80-d 1-53-83-80-d 2-77-53-80-d 9-44-79-0-d wait-64
+Columns IIIColumns3_BGM11_v1_1.mid 0-27-127-33-d 1-74-102-69-d 4-39-95-26-d 6-51-84-80-d 9-35-107-0-d
+Breath of FireBOFJoin.mid 9-49-87-1-d 9-52-87-1-d 1-60-87-48-d 3-67-100-61-d 5-36-85-38-d
+Legend of Zelda, The: Oracle of AgesA-tomb.mid 2-45-87-71-d 9-38-78-0-d 9-44-78-0-d wait-252 9-44-0-0-d
+Fortress of FearLevel_1.mid 0-62-72-6-d 8-62-60-33-d wait-192 0-62-0-6-d 0-58-72-6-d
+Sonic 3D BlastS3DB_Gene_Gadget_1-KMv1-1.mid 0-24-102-34-d 1-24-102-34-d wait-200 0-24-0-34-d 0-24-102-34-d
+Pokémon (Gold, Silver)pkmn_gsc_Ecruteak_Night.mid 0-48-110-12-d wait-564 0-48-0-12-d wait-12 0-55-110-12-d
+Golden Sun: The Lost AgeGoldenSun2_JennaBattle_XGv3.mid 9-57-80-8-d 9-40-63-8-d 9-31-63-8-d 10-34-71-25-d wait-107
+Glory of Hercules 4 (Japan)hercules4_bt.mid wait-1234 0-60-97-56-d 0-72-97-56-d 1-79-79-48-d 2-77-79-71-d
+Pokémon (X, Y)PXYSnowbelleCity.mid wait-433 0-100-100-10-d 0-88-100-10-d 1-88-100-49-d wait-289
+Final Fightff_boss2.mid 0-71-81-30-d 4-40-75-48-d wait-10 1-71-83-30-d 3-52-92-33-d
+Legend Of Zelda, The: A Link To The Pastz3lightw.mid 0-70-94-61-d 0-58-94-61-d 0-65-94-61-d 1-48-94-58-d 9-38-79-n-d
+California GamesCGames_Skating.mid 0-69-100-80-d 1-45-87-80-d 2-69-71-80-d 9-35-94-0-d wait-102
+Ghosts 'n GoblinsGhosts_N_Goblins-Start.mid 0-79-127-6-d 1-75-127-6-d 2-60-102-4-d wait-60 0-79-0-6-d
+Donkey Kong Land 3dkl3mnts.mid 9-36-110-n-d wait-176 9-36-0-n-d wait-4 9-46-110-n-d
+Paper MarioPM64StarWay.mid 0-76-100-11-d 2-60-100-44-d wait-240 1-76-100-5-d wait-364
+RastanRastnS-Ending.mid 0-62-0-75-d 1-62-1-75-d wait-2560 0-62-0-75-d 0-64-55-75-d
+TombaTomba_bg.mid wait-7 1-51-99-12-d 1-63-95-12-d 3-51-94-32-d 10-73-95-115-d
+Legend of Zelda, The: The Minish CapB1L_minishcap_cloudtops.mid wait-1 wait-1 wait-1 wait-306 3-36-80-47-d
+Tom SawyerTomSawyer-L1.mid 1-81-110-n-d 0-43-110-n-d 9-42-45-n-d wait-32 1-81-0-n-d
+Banjo-Kazooieccwlair.mid 0-72-110-72-d 1-72-87-74-d 1-75-87-74-d 1-79-87-74-d wait-400
+Alchemist's Secret, Thealchemest_main_theme.mid 2-38-50-50-d 3-50-65-94-d 9-84-45-n-d 9-52-35-n-d 4-116-45-9-d
+Fantasy Zone: The MazeOpaOpa-Pocarius.mid 0-48-87-35-d 1-72-87-26-d 2-67-79-74-d 9-35-100-0-d 9-41-100-0-d
+Donkey Kong Country 3dkc3lakeside.mid 0-61-127-60-d 9-76-127-n-d 1-49-110-36-d wait-115 9-76-0-n-d
+Super Street Fighter II: The New ChallengersSuperSF2-Cammy.mid 0-39-100-37-d 3-39-79-30-d 4-54-83-27-d 5-58-83-27-d 9-35-94-0-d
+Legend of Zelda, The: Twilight Princesswolf1songofhealingseq.mid 2-44-15-49-d 2-51-15-49-d 2-56-15-49-d wait-2160 0-56-35-0-d
+Mega Man VCrystal_Man.mid wait-270 9-40-64-0-d wait-29 9-40-0-0-d wait-1
+Alex Kidd in Shinobi WorldAKSW-Continue.mid 0-65-100-80-d 1-72-85-80-d 2-46-76-80-d wait-96 0-65-0-80-d
+Soul Calibur 2raisethysword_final.mid 0-65-47-19-d 0-68-47-19-d 0-41-47-19-d 4-41-59-48-d 15-41-59-47-d
+Legend Of Zelda, The: A Link To The Pastxgz3c.mid wait-431 wait-11 wait-11 wait-11 wait-12
+House Of the Dead 2, Thehotd2_end.mid 0-69-64-68-d wait-768 0-76-64-68-d 0-69-0-68-d 2-45-76-0-d
+XenogearsShip_of_Regret_and_Sleep.mid 0-73-110-9-d 1-49-69-9-d wait-160 0-73-0-9-d 1-49-0-9-d
+OutrunSW.mid wait-2880 1-33-64-35-d 9-35-71-0-d 9-42-71-0-d 9-49-71-0-d
+Perfect Darkjrlepage_-_XG_-_perfect_dark_-_training.mid wait-426 wait-4 wait-3 wait-4 wait-3
+Gradius IIIgra3scra.mid 0-75-127-29-d 1-75-127-29-d 2-75-100-30-d 3-67-80-30-d 4-67-100-30-d
+Mega Man 10mm10_shop_bass.mid 0-33-61-36-d 1-45-65-87-d 1-33-65-87-d 3-52-58-84-d 3-45-58-84-d
+Legend of Zelda, The: Ocarina of Timez5zeldaad.mid wait-700 wait-39 wait-19 wait-19 wait-58
+Super BombermanSBomb1-Over.mid 0-38-100-37-d 1-81-79-73-d 9-35-94-0-d wait-80 9-35-0-0-d
+Sonic Advance 3SA3_Ocean_Base_Map--KM-GS.mid 0-32-61-39-d 1-32-102-81-d 3-78-89-16-d 3-73-89-16-d 4-63-38-80-d
+Rush'n Attackra-fboss.mid 0-81-101-81-d 1-74-101-81-d 2-81-120-48-d 3-74-120-48-d 4-81-101-6-d
+Legend of Zelda, The: Phantom Hourglassprelude1.mid 0-68-79-73-d 0-77-77-73-d wait-12 0-61-77-73-d wait-36
+Sonic CDXkyUfos.mid 0-31-70-33-d 1-43-60-24-d 9-46-46-16-d 9-68-35-16-d 9-85-32-16-d
+Legend of Zelda, The: Ocarina of Timenocturneofshadow.mid 0-71-64-46-d 2-59-64-48-d 2-54-64-48-d 2-49-64-48-d wait-720
+Sonic the Hedgehog 2Sonic2_Start.mid wait-904 0-48-100-80-d 1-60-71-80-d 2-55-83-80-d 9-38-79-n-d
+Sonic the HedgehogGG_Sonic_Greenhill.mid 0-81-96-80-d 1-69-96-80-d 9-44-80-0-d wait-97 0-81-0-80-d
+ReversiReversi-Victory.mid 0-72-100-81-d 1-72-79-81-d 2-72-63-81-d wait-256 0-72-0-81-d
+Sonic ManiaRuby_Illusions_Midi.mid 0-65-79-56-d 1-72-79-42-d 1-77-79-42-d 9-44-79-0-d wait-51
+Mega Man 9MM9_SplashwomanV2.mid wait-384 0-41-91-80-d 1-65-91-65-d 3-53-63-80-d 7-65-71-11-d
+Super Robot Taisen KT_SuperRobotTaisenK_Mist.mid wait-306 9-36-99-8-d wait-77 9-36-0-8-d wait-43
+Mega Man ZXMMZX_Area_A-KM.mid 2-65-76-50-d 2-60-76-50-d 2-57-76-50-d 2-53-76-50-d 2-41-76-50-d
+Mega Man Zero 2MMZ2_Power_Room-KM.mid 0-40-102-27-d wait-88 1-40-56-27-d 5-83-0-43-d 5-83-0-43-d
+Adventures of Bayou BillyABBBGM-B.mid wait-960 9-36-55-0-d wait-120 9-36-0-0-d wait-120
+Buzz BombersBuzz-Title.mid 0-71-100-80-d 1-62-79-81-d 2-55-63-81-d wait-80 0-71-0-80-d
+Battle of Olympuspalace3.mid wait-3 wait-194 1-69-104-48-d 3-69-94-0-d wait-2
+Castle of Illusion Starring Mickey Mousecoi27.mid wait-277 0-64-68-58-d 1-62-80-58-d 2-57-80-58-d wait-554
+ActRaiserBloodpool.mid wait-375 wait-187 wait-2498 0-79-47-48-d 2-67-57-55-d
+Legend of Zelda, The: Majora's Maskrockvaletemple3.mid 9-61-64-0-d wait-576 9-61-0-0-d 9-61-95-0-d wait-864
+Thunder Force Vtf5188.mid wait-1578 wait-789 9-36-120-16-d 12-63-128-119-d 12-75-128-119-d
+Balloon FightBalloon_Fight-Complete.mid 9-48-127-25-d 1-78-127-80-d 2-75-127-4-d wait-60 9-48-0-25-d
+Front Mission: Gun Hazard (Japan)LFMGH-202ARunningFight.mid 0-74-92-55-d 5-50-84-47-d 9-57-100-0-d wait-185 9-57-0-0-d
+Lunar: Silver Star Story CompleteLuntrans.mid wait-53 3-55-87-2-d 3-59-87-2-d 3-60-87-2-d 3-64-95-2-d
+Chrono Triggerctrobo.mid 9-38-60-24-d 9-44-60-24-d 9-36-60-24-d 9-35-60-24-d wait-123
+Legend of Zelda, The: Link's Awakeninglalev3.mid 0-59-127-30-d 0-47-127-30-d 1-59-92-6-d 4-65-0-n-d 5-67-0-n-d
+Super Mario World 2: Yoshi's Islandsmw218e.mid 0-79-88-60-d 1-74-88-60-d 3-55-99-60-d 4-58-60-50-d 5-67-63-60-d
+Shining ForceShF1-Town.mid 5-79-59-80-d 6-76-55-80-d wait-116 5-79-0-80-d 5-78-59-80-d
+Super SoccerSuperSoccerTitles.mid 4-52-63-30-d 4-59-63-30-d 4-64-63-30-d 7-33-87-81-d 9-46-79-0-d
+World Heroes 2T_WorldHeroes2_PlayerSelectTheme.mid 2-38-78-37-d 3-38-78-34-d 4-62-66-48-d 4-57-66-48-d 5-74-54-44-d
+Fighter Makerfighter_maker_-_seafloor.mid 0-69-30-50-d 2-57-30-50-d 7-45-22-100-d wait-2304 3-38-60-38-d
+RastanRastan_Story.mid 0-76-100-80-d 1-76-85-80-d 2-86-80-80-d wait-144 1-76-0-80-d
+Q-bertQbert-Clear.mid 0-76-100-80-d 1-76-54-80-d 2-76-54-99-d wait-82 0-76-0-80-d
+Gourmet Sentai Bara Yarou (Japan)gourmet_sentai_bara_yarou_japan_-_stage_4-1.mid 0-69-127-38-d 1-69-127-44-d 2-35-127-37-d 3-81-89-11-d 9-38-89-0-d
+VigilanteVigilantJ-Round5.mid 0-35-50-39-d 1-75-47-63-d 2-87-35-6-d 3-66-47-6-d 4-78-35-63-d
+Super Mario LandSuper_Mario_Land-Level2_Stage1.mid 1-64-93-6-d 1-68-93-6-d 3-52-114-33-d 9-36-127-0-d 9-42-127-0-d
+Curse Of Kaumaha, Thekaumaha_ocean.mid 1-48-64-96-d 1-36-64-96-d 2-60-42-51-d 2-67-42-51-d 9-64-64-93-d
+Donkey Kong 64dk64_hideout_helm.mid 0-31-103-48-d 4-55-32-60-d wait-2039 0-31-0-48-d 0-32-103-48-d
+Fantasy ZoneOLfantzoneopaopa.mid 0-31-86-34-d 1-38-76-29-d 1-43-74-29-d 2-43-86-90-d 2-55-86-90-d
+Touhou 6: Embodiment of Scarlet Deviltouhou_6_stage2_boss.mid 9-42-76-25-d 9-35-76-25-d wait-47 9-35-0-25-d 9-42-0-25-d
+MetroidMetroid_-_KraidXG.mid wait-1571 0-40-99-80-d 1-64-99-98-d 9-42-86-24-d wait-131
+Radiant Silvergunrsg_stone_like.mid wait-18 0-63-67-52-d 1-58-65-52-d wait-1422 0-65-73-52-d
+Legend of Zelda, The: Majora's MaskMMSkullKid.mid 0-61-100-68-d 1-85-43-25-d 2-53-100-44-d 2-61-100-44-d wait-72
+Super Smash Bros  MeleeSSBMPFLT.mid 9-36-62-0-d 0-79-90-56-d 0-67-90-56-d 1-67-90-48-d 1-55-90-48-d
+CastlevaniaCastlevania_Game_Over.mid 1-47-127-48-d wait-131 1-47-0-48-d 1-47-127-48-d wait-131
+Sword of Hopesohshman.mid 0-62-100-81-d 1-43-97-80-d 9-46-72-1-d wait-119 9-46-0-1-d
+Dragon Ball Z Super Butouden (Japan)DBZ1-No18Battle.mid 0-42-127-81-d 0-30-127-81-d 2-54-127-55-d wait-77 1-30-64-81-d
+TimeSplitters 2Circus.mid wait-1682 0-31-63-45-d wait-105 0-31-0-45-d 0-31-49-45-d
+Dragon Warriordw1intro.mid 2-60-64-60-d 2-64-64-60-d wait-316 2-60-0-60-d 2-64-0-60-d
+Metroid: Zero MissionGBA__Metroid_Zero_Mission__Reflections_of_the_Past.mid 0-88-33-10-d 2-33-65-52-d 2-45-65-52-d 2-69-27-52-d wait-356
+Dragon Warriordw1over4.mid 1-71-127-73-d 13-59-100-46-d 14-35-92-47-d 7-59-127-60-d 2-71-80-49-d
+Dragon Ball Z: Super Gokuden - Totsugeki-Hen (Japan)dbth-encounter.mid 0-36-127-31-d 1-36-127-80-d 1-60-127-80-d wait-83 13-36-100-31-d
+Pokémon (X, Y)Pokemon_X_and_Y_-_Wild_Battle_Music.mid 9-46-95-8-d wait-339 9-46-0-8-d 9-46-95-8-d wait-339
+Ogre Battle 64: Person of Lordly Caliberogre6450.mid wait-1603 wait-98 wait-99 wait-99 wait-98
+Mega Man IVRM4-TitleTheme-X.mid 4-43-103-0-d 4-55-103-0-d 9-36-106-0-d wait-162 0-62-70-24-d
+Castlevania II: Belmont's RevengeCBRipeseeds.mid 0-62-127-81-d 0-50-127-81-d 9-36-107-0-d wait-29 0-62-0-81-d
+Legend of the Mystical Ninjagoemon02.mid 1-29-100-35-d 9-36-100-n-d 2-40-100-116-d wait-34 9-36-0-n-d
+Super Mario All-Starssmas17.mid 0-42-90-47-d wait-413 0-42-0-47-d wait-59 0-42-90-47-d
+Castlevania 2Castlevania2_Bloody_Tears_Arranged.mid wait-3 1-59-127-14-d 1-47-127-14-d wait-957 1-47-0-14-d
+Sonic RidersSonic_Riders_-_Start_Up_Your_Ex_Gear.mid wait-107 wait-1600 1-72-45-63-d 1-69-45-63-d 1-65-45-63-d
+Final Fantasy V (Japan)Baroque_de_Chocobo_(XG_Megamix).mid 0-69-110-56-d 0-73-110-56-d 2-57-110-45-d wait-182 2-57-0-45-d
+Diddy Kong RacingDKRDinoD.mid 9-41-100-n-d wait-128 9-41-0-n-d wait-50 9-50-100-n-d
+Lethal XcessLethal_1.mid 4-75-92-12-d 9-36-127-24-d 9-51-127-24-d wait-58 4-75-0-12-d
+Deep Duck TroubleDDuckT-Victory.mid 0-72-100-80-d 2-64-85-80-d wait-128 0-72-0-80-d 0-74-100-80-d
+Legend Of Zelda, The: A Link To The Pastlwoverworldtechno.mid 1-46-72-62-d 9-36-127-n-d 0-70-84-79-d 0-62-84-79-d 2-62-100-90-d
+Ghost HouseGhostH-Game.mid 1-51-94-80-d 9-35-79-0-d 9-44-79-0-d wait-48 9-44-0-0-d
+Gourmet Sentai Bara Yarou (Japan)gourmet_sentai_bara_yarou_japan_-_stage_2-1.mid 0-38-114-26-d 2-38-64-27-d 9-49-127-0-d 9-35-127-0-d wait-257
+Super Smash Bros Hyrule_Castle.mid 0-70-110-61-d 1-46-110-48-d 2-62-110-61-d wait-96 1-46-0-48-d
+Disney Sports Motocrossdsmdhssc.mid 0-37-99-34-d 9-36-100-0-d 9-42-100-0-d wait-9 9-57-100-0-d
+Super Mario All-StarsWorld1-1_Allstars.mid 1-31-100-36-d 3-67-100-56-d 3-55-100-56-d 4-67-100-61-d 4-55-100-61-d
+Out RunOutRnJ-End.mid 0-44-100-32-d 1-67-79-26-d 2-60-79-11-d wait-384 1-67-0-26-d
+Battlefield 2Battlefield_2_Menu_Music.mid 0-53-104-56-d 0-65-104-56-d 1-24-100-47-d 1-36-100-47-d 1-48-100-47-d
+Megumi Rescue (Japan)MegumiR-Perfect.mid 0-64-100-80-d 1-45-85-80-d 2-49-77-80-d wait-48 2-49-0-80-d
+Sonic Rsat_sonicr_sm01_2.mid wait-661 12-56-86-55-d wait-66 12-56-0-55-d wait-18
+DeflectorDeflector_-_JNK1.mid 1-72-99-17-d 1-79-99-17-d 1-75-99-17-d wait-96 1-75-0-17-d
+Brave Fencer MusashiPS1__Brave_Fencer_Musashi__Lets_Go_Bowling.mid wait-1350 9-40-20-48-d wait-75 9-40-0-48-d 9-40-30-48-d
+Gradius IIIgra3wind.mid 3-59-70-33-d 3-62-70-33-d 4-59-90-33-d 4-62-90-33-d 7-59-90-30-d
+Lufia and the Fortress of Doomluf1tower.mid wait-2335 0-62-127-4-d 3-50-48-47-d 9-38-60-0-d wait-195
+Rival Turfrivalt-hiscore.mid 0-31-99-33-d 1-79-83-17-d 3-67-102-5-d 9-35-99-0-d 9-59-89-0-d
+Mighty Morphin Power Rangers: The MovieMMPRTM_Beginstage_UAZ.mid 1-35-127-29-d 1-42-127-29-d 2-35-127-33-d 9-35-127-0-d wait-80
+Tales of SymphoniaKeen-edged_blade.mid wait-210 wait-110 0-43-115-24-d 0-55-115-24-d 1-55-127-66-d
+Wizards and WarriorsWwcave1.mid 1-36-110-1-d 2-24-108-26-d 3-24-90-8-d 4-38-98-62-d wait-14
+Tetris Attackmusic_1e(AWE).mid 0-67-100-57-d 2-74-100-56-d 5-43-100-47-d wait-52 2-74-0-56-d
+Ninja Warriorsninja_warriors_-_stage_4_parking_block.mid 5-31-79-37-d 9-36-127-16-d 9-42-102-16-d wait-97 9-42-0-16-d
+Banjo-Kazooiebanjoprologue1.mid 0-60-110-11-d 1-72-110-51-d wait-70 0-60-0-11-d wait-2
+Who Framed Roger Rabbit?rrabbitmap.mid 0-55-108-0-d 0-58-108-0-d 0-63-108-0-d 9-44-127-n-d wait-143
+Mother 3 (Japan)youthm3.mid wait-454 12-51-62-24-d 12-56-62-24-d 12-60-62-24-d 12-63-62-24-d
+Final Fantasy II12-IntoTheDarkness.mid wait-258 wait-15 wait-18 wait-14 wait-11
+Sonic the Hedgehogstarlite.mid wait-600 0-55-127-11-d wait-119 0-55-0-11-d wait-1
+Super Mario Kartsmk_koopabeach6.mid wait-120 wait-100 wait-100 wait-640 0-64-77-26-d
+Pac-PixPac_Pix_Level_Theme_A.mid 0-75-92-80-d 2-36-105-33-d 9-35-124-32-d 9-44-89-32-d 9-36-124-32-d
+Tom SawyerTs_intro.mid 0-55-100-0-d 0-71-100-0-d wait-111 0-71-0-0-d 0-74-100-0-d
+Star Fox 64sf64_main.mid 0-62-100-56-d 1-43-79-57-d 2-43-79-0-d 9-57-79-0-d wait-23
+Kirby's Dream Landkdlcandy.mid 0-46-100-25-d 2-70-94-13-d 9-46-100-0-d 9-57-100-0-d 9-40-100-0-d
+Crash TwinsanityCrash_twinsanity_ukaukaboss_Logan812.mid 0-34-127-34-d 1-34-51-29-d wait-250 0-34-0-34-d 0-34-127-34-d
+Shining Force 3Sf3synbb.mid 0-76-79-61-d 0-71-79-61-d 1-40-79-47-d 2-52-87-48-d 9-55-79-n-d
+Legend of DragoonLODCHPT2.mid 0-57-89-0-d 9-82-50-25-d 9-42-42-25-d 2-41-76-33-d wait-128
+Breath of Fire 2bof2fypuding-arrangement.mid wait-10 0-62-62-6-d 0-74-65-6-d 1-38-61-6-d 1-50-64-6-d
+Action 52Action52BitsandPieces.mid 0-36-64-3-d 1-67-45-0-d 3-84-19-48-d wait-96 1-67-0-0-d
+Mega Man VWaveman.mid 0-65-87-111-d 1-62-87-111-d 2-43-83-32-d 9-35-79-0-d wait-108
+Mega Man Vmm5wilybattle.mid 0-64-100-0-d 1-59-87-0-d 2-52-94-32-d 9-35-87-n-d 9-36-87-n-d
+Street Fighter Alpha 3SFA3karin.mid wait-1719 0-72-70-48-d 0-67-70-48-d 9-35-60-16-d 9-36-60-16-d
+Legacy of the WizardLegoWizSis2.mid 9-36-75-n-d wait-194 9-36-0-n-d wait-5 9-50-75-n-d
+Star WarsStarWars-Select.mid 0-38-87-81-d 2-55-75-80-d wait-70 2-55-0-80-d wait-70
+Chrono Triggerorgan.mid wait-650 0-63-77-19-d 1-59-82-19-d wait-23 2-54-73-19-d
+Rudora No Hihou (Japan)tm_rnh_ridethebreeze.mid 0-71-87-48-d 1-28-87-32-d 2-64-87-56-d 12-52-87-46-d 10-40-110-60-d
+Last Bible 3 (Japan)LB3_Prologue_Part_4.mid 0-85-85-10-d 2-78-79-10-d wait-277 1-74-79-10-d 4-78-47-10-d
+James Bond the DuelBond1_sc.mid wait-482 wait-5 wait-5 wait-5 wait-5
+Legend of Zelda, The: Twilight Princess2-36_kakariko_villageseq.mid wait-320 2-78-50-76-d wait-320 2-78-0-76-d 2-83-64-76-d
+Teenage Mutant Ninja Turtles: Tournament FightersTMNT-CharacterSelectStoryMode.mid 9-42-127-16-d 9-35-76-16-d 0-33-127-24-d 1-62-76-94-d 1-67-76-94-d
+Mega Man 7mm7mus.mid 7-48-69-33-d 9-46-64-0-d 9-42-64-16-d 9-38-64-0-d 9-36-63-16-d
+Castlevania 2WeDwell-SyniKal.mid 3-57-70-40-d 4-64-79-49-d 4-69-79-49-d 4-76-79-49-d 4-72-79-49-d
+Rockin' KatsRK-Boss.mid 0-55-110-28-d 1-50-110-28-d 2-43-60-33-d 9-42-110-n-d wait-48
+Sonic the HedgehogS1StarlightZoneByCryogen.mid wait-461 0-67-114-8-d 1-55-97-4-d wait-115 6-67-92-8-d
+Final Fantasy IIIff6-CrazyMan.mid 1-47-110-47-d 10-71-110-12-d 10-76-110-12-d wait-56 10-71-0-12-d
+Legend of DragoonLODMOON.mid 0-55-67-11-d 1-62-67-49-d wait-374 2-32-80-33-d 9-35-63-0-d
+Metroid: Zero Missionmzm_maintheme.mid 0-93-95-88-d 2-66-95-60-d wait-461 0-93-0-88-d 0-81-95-88-d
+Monty Python and the Holy GrailMPHG-Options.mid 0-72-100-73-d 1-41-94-58-d 2-41-81-47-d wait-139 1-41-0-58-d
+Lemmingslemmount.mid wait-606 1-52-74-65-d wait-299 1-52-0-65-d wait-4
+Alex Kidd in Miracle WorldAKiMW-Castle.mid 0-73-100-80-d 1-49-85-80-d 2-69-76-80-d 9-35-94-0-d wait-112
+Super SoccerSuperSoccerBelgium.mid 0-76-79-62-d 1-68-79-62-d 2-61-63-30-d 2-56-63-30-d 2-49-63-30-d
+Wrestlemania 2000austin3[1].mid wait-1324 4-86-84-31-d 4-87-84-31-d 4-88-84-31-d 4-89-84-31-d
+Mega Man IIIMM3_WilyFortress3.mid wait-384 0-48-81-35-d 1-56-67-81-d 2-56-71-49-d 2-53-71-49-d
+Final Fantasy IIIff352.mid 2-57-60-46-d 3-60-40-105-d 5-33-64-34-d wait-10 4-57-40-105-d
+Guilty GearBeyond_the_dark_life.mid wait-2304 1-74-79-0-d 2-43-79-25-d 3-43-79-93-d 4-74-79-89-d
+Chrono TriggerBelth2.mid wait-1711 0-79-127-0-d wait-267 0-79-0-0-d wait-18
+BatmanBatman_-_Intro.mid wait-2477 0-67-79-95-d 0-62-79-95-d 1-31-71-35-d wait-620
+Super Mario Bros  3sm3battl.mid 2-36-100-35-d 9-42-100-n-d 9-35-100-n-d wait-127 2-36-0-35-d
+Little Nemo: The Dream Masternemo4.mid 2-53-56-1-d wait-221 1-65-56-1-d 2-53-0-1-d 2-60-56-1-d
+Tetris AttackTetrisAtkFrogPanic2.mid 0-83-88-11-d 2-62-75-94-d 2-66-75-94-d 3-35-100-35-d 4-35-92-35-d
+Sonic the HedgehogSonic_1_-_Special_Stage.mid 0-76-72-63-d 0-64-72-63-d 0-88-72-63-d 0-100-72-63-d 2-88-56-80-d
+Diddy Kong RacingSpacedust_Alley.mid 9-40-47-0-d 9-48-47-0-d 9-50-47-0-d 9-36-59-0-d 9-61-47-0-d
+Undertaleundertale-menu_2.mid 0-67-79-80-d 3-48-79-80-d wait-80 0-67-0-80-d wait-40
+TerranigmaTN_-_Boss_v1.1.mid wait-177 9-38-1-0-d 15-44-18-47-d wait-88 9-38-0-0-d
+Final Fantasy 8ff8-premonition.mid wait-2425 0-81-120-48-d 0-69-120-48-d 1-62-120-48-d 1-50-120-48-d
+Teenage Mutant Ninja TurtlesT_TMNT_OverworldTheme.mid wait-968 9-42-99-0-d 9-36-99-0-d wait-120 9-42-0-0-d
+X-Men: Mutant ApocalypseCharacter_Select.mid 0-31-100-25-d 1-43-100-29-d 9-49-100-0-d 9-35-100-0-d 9-36-100-0-d
+Terminal Velocitytvmenu_fatalM4.mid 9-42-86-16-d 9-36-86-16-d 0-28-80-32-d 1-28-69-0-d wait-2
+Teenage Mutant Ninja Turtles: Hyperstone Heisttmntslct.mid 0-69-100-99-d 9-43-87-n-d 2-45-94-34-d 3-45-94-35-d 4-69-100-84-d
+Pebble Beach Golf LinksPebbleBeach-Menu_Music.mid wait-2128 0-63-126-5-d 9-36-114-0-d wait-16 2-59-94-5-d
+Sonic AdventureRedMountain.mid 9-38-75-n-d 9-87-75-n-d 9-35-75-n-d 9-36-75-n-d 9-40-75-n-d
+Dragon Warrior 3dw3dark.mid 0-74-100-73-d 2-50-96-19-d wait-175 2-50-0-19-d wait-7
+Double DragonDoubleDragon_Boss.mid 1-45-79-80-d wait-267 1-45-0-80-d 1-45-79-80-d wait-133
+LemmingsLemmings-Level11.mid 0-60-76-80-d 1-75-94-80-d 2-24-71-81-d wait-96 0-60-0-80-d
+Akumajou Dracula X: Nocturne in the Moonlight (Japan)Rich1792.mid 0-47-79-27-d 1-47-79-30-d 2-47-79-48-d 3-59-83-126-d 4-47-79-38-d
+Dragon ForceDF-Level-sc.mid wait-482 wait-5 wait-5 wait-35 wait-1434
+Final Fantasy V (Japan)FF5_logo.mid 7-52-115-46-d wait-48 6-55-110-46-d wait-58 2-60-0-48-d
+Deja Vudeja1rm.mid 9-44-100-1-d wait-144 9-44-0-1-d wait-144 9-44-100-1-d
+Mega Man IIISparkman.mid wait-16 0-62-113-63-d 1-69-75-80-d 2-50-113-38-d 3-55-113-38-d
+Action 52lollipop2.mid 0-72-127-80-d wait-96 1-72-127-80-d wait-288 0-72-0-80-d
+Donkey Kong 64dk64_lobby_aztec.mid 9-70-127-0-d 0-60-63-52-d 0-48-63-52-d 0-55-63-52-d wait-162
+Super Mario GalaxyHUNGRY.mid 0-64-100-13-d 0-76-100-13-d 9-69-100-0-d wait-99 0-76-0-13-d
+Super Smash Bros  Meleeballoon.mid wait-1232 wait-536 wait-664 1-71-124-80-d 2-68-107-80-d
+Tunnel B1Tunnel2-sc.mid wait-578 wait-6 wait-6 wait-6 wait-6
+Mega Man 10MM10_Blademan.mid wait-576 9-36-50-24-d wait-48 9-36-0-24-d wait-16
+Final Fantasy Xffx_harp.mid wait-3351 0-74-69-46-d wait-2 0-74-69-46-d wait-28
+Tales of Rebirth (Japan)TalesofRebirth_Dogfight.mid 0-64-34-18-d 0-52-34-18-d 2-28-20-33-d 4-64-35-61-d 5-64-20-50-d
+Street Fighter Alpha 2gouki.mid wait-51 wait-772 0-55-82-104-d 1-79-87-77-d 2-72-71-55-d
+Diddy Kong Racingdkr_options.mid 9-69-63-16-d 9-36-63-16-d 2-40-78-28-d 2-52-78-28-d 2-64-78-28-d
+Sunset Riderssunset_riders_-_stage_2_boss.mid 0-71-127-81-d 0-76-127-81-d 2-52-76-30-d 2-47-76-30-d 2-59-76-30-d
+Castlevania Dracula XCDXBloodyTears.mid 0-68-127-19-d 1-56-95-16-d 1-51-77-16-d 1-44-73-16-d wait-122
+Street Fighter AlphaoldQsnd.mid wait-37 0-74-54-11-d 3-74-31-5-d wait-116 1-74-62-11-d
+Secret of Manaopening.mid 0-88-83-1-d 1-57-51-51-d 1-60-51-51-d 1-64-51-51-d wait-300
+Mega Man: The Wily Warsmm2-qmww.mid 0-63-90-80-d 1-79-101-56-d 1-72-101-56-d 1-63-101-56-d 2-79-101-61-d
+Black Bass, TheBlackBassIntro.mid wait-1059 2-57-127-48-d wait-212 2-57-0-48-d 2-62-127-48-d
+Sim City 2000SC2000_sc.mid wait-463 wait-5 wait-4 wait-5 wait-5
+UninvitedUninMix.mid 0-67-110-0-d 2-38-110-0-d 9-42-80-n-d 9-28-34-n-d 9-35-80-n-d
+Radical Dreamers (Japan)rd-facing.mid 0-45-86-52-d 2-33-100-48-d wait-823 0-74-76-52-d wait-823
+Cave Storylastbtl.mid 0-67-127-80-d 1-55-100-70-d 1-51-100-70-d 2-60-90-83-d 3-36-90-34-d
+Star Ocean: Till the End of TimeSO3_The_Divine_Spirit_of_Language.mid wait-384 wait-3 wait-3 wait-4 wait-3
+Phantasy Star 4lm-ps4cave.mid 0-87-22-11-d 2-51-72-100-d 3-75-51-84-d 6-63-36-52-d 6-51-36-52-d
+Super Mario 64M64SLDMX.mid 2-75-127-80-d 2-70-127-80-d 2-77-127-80-d wait-53 2-75-0-80-d
+Tales of Phantasia (Japan)topawak.mid wait-2304 0-60-49-102-d 0-67-49-102-d 1-36-87-48-d 2-67-85-46-d
+Ufouria: The SagaHebereke-Under.mid 0-35-100-37-d 1-59-83-87-d 9-35-94-0-d 9-46-94-0-d wait-77
+Mega Man IIIProtoman.mid 0-91-66-78-d wait-222 0-91-0-78-d 0-94-66-78-d 3-91-43-78-d
+Nekketsu Kakutou Densetsu (Japan)nekkestukd-bg7.mid 0-70-98-30-d 1-65-90-80-d 2-34-108-34-d 9-35-102-0-d 9-42-85-0-d
+Final Fantasy Legendffl1_bt1.mid wait-720 9-36-79-0-d 9-51-91-0-d wait-144 9-36-0-0-d
+Jelly BoyTheDarkroom_DollsHouse.mid 0-73-127-25-d 1-33-127-2-d 9-35-127-0-d wait-111 9-35-0-0-d
+Chip 'n' Dale's Rescue Rangers 2cdrr2sy.mid 9-36-100-126-d 9-57-100-126-d 2-55-100-25-d 2-64-100-25-d 2-60-100-25-d
+Ogre Battle 64: Person of Lordly CaliberOverture_-_Ogre_Battle_64.mid wait-1 wait-1799 1-46-76-48-d 1-34-76-48-d 2-58-79-52-d
+Yoshi's SafariYS_Bowser's_Castle.mid 0-62-60-11-d 0-67-60-11-d 5-43-92-63-d 6-43-92-56-d 7-62-45-13-d
+Mystsirrustheme.mid wait-13 9-61-57-8-d wait-781 9-61-0-8-d wait-6
+Tokimeki Memorial (Japan)SNES_Toki_Memo_Saki.mid 0-68-96-62-d 1-56-96-62-d wait-185 0-68-0-62-d 0-77-96-62-d
+Final Fantasy: Crystal Chroniclesforet_des_champignon.mid wait-1080 5-52-127-13-d 5-57-127-13-d 6-52-60-11-d 6-57-60-11-d
+Fantasy Zone IIFZone2too-Sbardian.mid 1-48-87-38-d 9-44-120-0-d 9-41-120-0-d 9-35-120-0-d wait-72
+Metal Slug 2AssultTheme3forGS.mid wait-1468 0-66-79-61-d 0-54-79-61-d 6-42-100-80-d 7-42-100-47-d
+Dragon Spirit: The New Legendcave5.mid 0-65-110-0-d 2-41-110-43-d 3-65-110-40-d wait-22 0-65-0-0-d
+Jackaljack-st2.mid 0-51-101-81-d 1-60-101-81-d 2-51-120-0-d 3-60-120-0-d 8-31-120-36-d
+Dragonball Z Tenka'Ichi Budokai (Japan)Tenkai-Title_V2.mid 0-62-110-62-d 1-50-110-36-d wait-95 0-62-0-62-d 1-50-0-36-d
+Mega Man 8mm8lightlab.mid 0-66-98-26-d 0-66-127-26-d 1-37-31-34-d 2-73-10-54-d 9-45-92-109-d
+EarthBoundebwinter.mid 2-64-80-16-d 2-60-80-16-d 3-36-119-34-d 9-35-64-74-d 9-54-64-74-d
+Super Fantasy ZoneSuperFantasyZone-Shop_sc.mid wait-482 wait-5 wait-5 wait-5 wait-5
+Sonic the Hedgehog 3CompeteGM.mid 2-63-92-80-d 9-35-75-8-d wait-46 2-63-0-80-d wait-2
+Mega Man XSigma3-2.mid 0-59-80-48-d 2-35-104-38-d 5-34-85-10-d 6-63-45-118-d wait-110
+Mario Power TennisMario_Power_Tennis_Menu_Screen.mid wait-1256 9-40-124-16-d 9-38-52-16-d wait-86 9-40-0-16-d
+PaperboyC64-Paperboy.mid wait-118 1-60-100-28-d 2-36-100-32-d wait-140 1-60-0-28-d
+Conker's Bad Fur Daycbfd-itswar.mid 0-40-127-48-d 9-40-81-0-d wait-152 9-40-0-0-d wait-151
+Romance of the Three Kingdoms VIII (Japan)rtk8-05.mid 3-52-62-70-d wait-92 3-53-73-70-d wait-11 3-52-0-70-d
+Rockin' KatsRK-Death.mid 0-62-110-80-d 1-57-110-80-d wait-288 0-62-0-80-d 0-64-110-80-d
+Donkey Kong LandDKL_-_Temple_Ruins.mid 1-57-110-48-d 1-60-110-48-d 0-33-110-34-d 9-42-110-8-d 9-49-110-8-d
+Circus CaperCC-Level3.mid 0-65-110-0-d 1-41-110-33-d wait-62 0-65-0-0-d wait-2
+Shinobi LegionsShinobi-Legions.mid wait-578 wait-6 wait-6 wait-6 wait-6
+Caesar IIIROME4.mid wait-1986 0-43-97-48-d 1-55-79-60-d 4-31-71-47-d 4-43-71-47-d
+WingsWingsmedal.mid 0-67-100-61-d 1-55-100-48-d 9-38-100-0-d wait-960 1-55-0-48-d
+Final Fantasy III (Japan)Eureka2.mid wait-2752 9-50-107-56-d 9-50-107-56-d wait-112 9-50-0-56-d
+GameCube BIOSgamecube_menu_looped.mid 0-53-90-88-d 0-60-90-88-d 6-53-90-88-d 6-60-90-88-d 3-53-127-92-d
+Megumi Rescue (Japan)MegumiR-Bonus1.mid 0-74-100-80-d 1-62-85-80-d 2-74-77-80-d wait-110 1-62-0-80-d
+Gourmet Sentai Bara Yarou (Japan)gourmet_sentai_bara_yarou_japan_-_stage_1-Boss.mid 0-74-95-73-d wait-143 0-74-0-73-d 0-74-95-73-d wait-71
+Dragon Spirit: The New LegendDragonSpirit_level2.mid wait-372 0-42-91-34-d 1-42-79-30-d 1-49-79-30-d 3-66-87-81-d
+Legend of Zelda, The: Link's AwakeningZ4win.mid 0-76-110-56-d 1-68-110-56-d 2-59-110-56-d 9-44-78-0-d wait-90
+Sonic SpinballSS_Showdown-KM.mid 0-29-92-34-d 1-17-102-39-d 1-29-102-39-d 2-41-92-30-d 4-41-65-38-d
+Pokémon (X, Y)PXYSuperTraining.mid wait-192 wait-1102 0-73-100-61-d 0-66-100-61-d 0-61-100-61-d
+Killer InstinctKiller-Instinct---Jago.mid wait-1786 12-76-127-104-d wait-112 0-74-127-104-d 12-76-0-104-d
+Pokémon (Ruby, Sapphire)pokecenter.mid 0-67-51-1-d 0-76-51-1-d 1-67-51-73-d 1-76-51-73-d wait-205
+Secret of ManaSOM36.mid 1-69-50-73-d wait-358 1-69-0-73-d wait-32 1-76-50-73-d
+Donkey KongDK-07-Iceberg.mid 0-72-110-4-d 1-72-127-4-d 3-84-60-1-d 2-46-110-33-d wait-22
+Wonder Boy 3: The Dragon's TrapMW2-Boss.mid 0-45-100-32-d 1-77-110-63-d 2-71-100-63-d wait-80 0-45-0-32-d
+Metroid PrimePhendrenaDrifts.mid 1-41-37-54-d 0-53-80-8-d 0-75-78-8-d wait-270 0-74-78-8-d
+Tokimeki Memorial (Japan)SNES_Toki_Memo_Spring_Break.mid 0-78-96-73-d 1-42-96-37-d 2-73-96-0-d 3-70-96-0-d 9-36-96-0-d
+Gokujyo Parodius (Japan)GokujyoParodius_KidDracula.mid 9-40-88-n-d wait-157 9-40-0-n-d wait-105 9-40-88-n-d
+Mega Man ZeroMMZdesert.mid wait-96 0-74-110-7-d wait-94 0-74-0-7-d wait-2
+Sonic & KnucklesMetallix.mid 1-71-46-43-d 1-67-46-43-d 2-28-127-0-d 6-76-100-7-d 9-57-79-0-d
+Power Rangerspower1.mid 0-40-80-30-d 5-40-87-29-d wait-144 0-40-0-30-d 0-40-80-30-d
+Wario Landwl-invincibility.mid 0-107-75-80-d 1-56-110-26-d 2-32-110-35-d 9-42-110-n-d wait-58
+R-TypeRType-Stage3_v2.mid 0-74-100-80-d 1-69-87-80-d 2-48-94-80-d wait-119 2-48-0-80-d
+Golden SunSaturos.mid 9-47-102-n-d 9-49-127-n-d 0-64-86-48-d 0-76-86-48-d 3-40-127-33-d
+Final Fantasy V (Japan)FF5_a08.mid wait-1029 0-48-100-56-d wait-64 0-48-0-56-d wait-4
+Final Fantasy IIff2_Illusionary_World_mid.mid 0-76-100-74-d 1-53-84-46-d 4-41-100-24-d wait-250 1-53-0-46-d
+Tales of Destiny IITalesofEternia_MusicBox2.mid 1-72-89-n-d 1-60-89-8-d wait-9 wait-17 0-60-103-10-d
+Pokémon (HeartGold, SoulSilver)hgss_game_corner_sting.mid 9-36-94-16-d 9-40-71-16-d 9-58-103-16-d wait-65 9-40-0-16-d
+Wario Land 2Rooftop.mid 2-48-110-39-d 9-36-110-0-d 9-42-110-0-d 10-48-110-39-d wait-32
+Mega Man XMMX_-_Flame_Mammoth.mid 9-38-127-8-d 11-46-127-30-d 11-51-127-30-d 10-27-127-34-d wait-90
+Kirby's Block BallKBBBoss.mid 0-63-108-61-d 0-75-108-61-d 1-51-89-33-d 3-97-83-80-d 9-36-80-24-d
+Mega Man Battle Networkhm-mmbnpower.mid wait-96 0-63-125-55-d 0-51-125-55-d wait-96 0-63-0-55-d
+Kameo: Elements of PowerTheenas_Sorrow.mid 0-62-110-73-d wait-768 0-62-0-73-d 0-64-110-73-d wait-384
+Wario LandWARIO_LAND_LEVEL_THEME_from_Mt_Teapot.mid 0-72-110-12-d 9-81-110-n-d wait-120 0-72-0-12-d wait-240
+Mega Man IIAir1_2.mid wait-7 9-36-114-n-d wait-12 1-34-112-38-d wait-6
+Mega Man IIIshadow1-2a.mid 0-45-110-2-d 0-57-110-2-d wait-84 0-57-0-2-d 0-45-0-2-d
+Rockman X3 (Japan)MMX3-PSX-Password_Screen-KM.mid 1-25-102-34-d 2-73-102-61-d 2-61-102-61-d 4-68-87-61-d 4-56-87-61-d
+Ninja Gaiden 3ng3_into.mid wait-1600 0-63-115-43-d 1-67-127-43-d 2-48-90-32-d 9-42-88-0-d
+Chuck RockChuckRock-Title.mid wait-898 9-52-83-0-d wait-42 9-52-0-0-d wait-71
+Beyond the BeyondBtbover.mid wait-18 0-45-120-68-d 1-57-110-70-d 1-52-110-70-d 2-45-127-32-d
+Final Fantasy II (Japan)Fateaccepted.mid 9-36-100-0-d 9-42-76-0-d 2-63-100-29-d 2-67-100-29-d 10-63-100-87-d
+Mickey's Adventure in NumberlandFactory.mid 0-60-110-1-d 2-48-110-33-d 9-42-110-0-d wait-106 0-60-0-1-d
+Double Dragon 3Lv1dojo.mid wait-6 0-69-100-26-d 2-45-86-36-d 4-45-89-25-d 9-38-81-0-d
+Golden SunGolden_Sun_Menu_Screen.mid 2-59-81-25-d 2-64-81-25-d 3-47-76-33-d 4-59-60-0-d 4-64-68-0-d
+Gameboy Cameraruntitle.mid 9-55-83-n-d 9-33-83-n-d 0-36-83-32-d 1-60-83-24-d 1-55-83-24-d
+GolvelliusGolvellius-Cave2.mid 0-79-100-80-d 2-57-94-80-d wait-49 0-79-0-80-d 0-80-100-80-d
+ShatterhandShatterhand_Solbrain-Stage_Select.mid 0-60-78-38-d 1-48-84-17-d 0-72-78-38-d 9-36-74-n-d 9-42-74-n-d
+Sonic Drift 2sd2_gg_04.mid 3-79-100-80-d 5-91-100-80-d wait-96 3-79-0-80-d 3-72-100-80-d
+Metal Gear Solid 2: Sons of Libertyjpr-mgs2gm.mid wait-3291 9-42-45-127-d 9-36-48-127-d wait-103 9-42-0-127-d
+R-Typer-typeL6.mid 0-43-100-39-d 1-43-100-81-d 1-55-80-81-d 2-55-100-87-d 2-59-100-87-d
+Sonic & KnucklesS-K_Mushroom_Hill_1-KM.mid wait-1047 0-38-102-38-d 1-38-102-38-d 9-36-76-24-d 9-35-76-24-d
+XexyzXexyz_-_BossDefeated.mid 0-67-112-80-d 2-32-99-38-d 3-60-99-4-d 4-55-127-4-d 4-48-127-4-d
+Final Fantasy 7Ff7bossiw.mid wait-678 3-45-95-29-d 4-33-100-39-d 9-49-82-16-d 9-46-82-16-d
+Legend of Zelda, The: Link's Awakeninglamoblin.mid 0-71-127-29-d 1-56-99-29-d 3-65-0-n-d 4-65-0-n-d wait-54
+Bionic Commando: Elite ForcesBc-lev3.mid 0-66-127-81-d 1-42-92-87-d 9-38-108-n-d wait-284 0-66-0-81-d
+Legend of Zelda, The: Majora's MaskZeldaMM_SonataOfAwakening_TS.mid 2-83-61-48-d 4-43-78-46-d wait-320 1-74-80-59-d 4-55-78-46-d
+Gauntlet LegendsGauntletLegends.mid wait-10 1-28-50-47-d wait-2058 1-28-0-47-d wait-1
+Baten Kaitosbellflower.mid 0-57-100-25-d 2-40-100-25-d wait-327 0-57-0-25-d 0-59-100-25-d
+Streets of Rage 3StR3-Boss.mid 1-66-100-30-d 3-36-71-41-d wait-10 wait-86 1-66-0-30-d
+Arc the Lad IIIArc_the_Lad_3-Area_Change_Proteus2.mid wait-385 wait-2 wait-2 wait-2 wait-2
+Arc the Lad IIArc-10.mid wait-516 wait-6 wait-5 wait-5 wait-6
+Romancing SaGa 3 (Japan)RomancingSaga3_dkc.mid 0-69-87-48-d 1-69-87-46-d 2-45-110-47-d 3-45-78-48-d 4-57-78-48-d
+Mega Man: The Wily WarsMegaWaterSByCryogen.mid 4-57-64-26-d 5-45-51-39-d 5-57-51-39-d 9-44-64-0-d 9-36-64-0-d
+Super Mario 64SM64_-_Bowsers_Theme.mid 9-35-127-16-d 9-36-127-16-d 9-38-127-16-d wait-262 9-35-0-16-d
+Mario Kart: Double Dash!!MKDDRainbowRoad.mid wait-412 wait-2 wait-3 wait-2 wait-2
+Final Fantasy IIIdark.mid 0-61-120-16-d 0-38-120-16-d 0-54-120-16-d 0-50-120-16-d 1-81-127-122-d
+Animal Crossingtm_ac_kkballad.mid 0-65-87-48-d 0-68-87-48-d wait-352 0-65-0-48-d 0-68-0-48-d
+Fire Emblem 4 (Japan)FE4-Chapter2_v2.mid 0-30-75-32-d 2-66-67-28-d 9-35-71-0-d 9-44-71-0-d wait-58
+Flintstones, The: Surprise At Dinosaur PeakFS2-FinalStage.mid 0-92-110-7-d 1-72-75-7-d 2-48-110-33-d wait-189 0-92-0-7-d
+Final Fantasy V (Japan)FF5_over.mid 0-72-127-75-d 2-60-127-49-d 2-57-127-49-d 2-64-127-49-d wait-1619
+Mega Man: The Wily Warsmm2-w1ww.mid 9-35-120-0-d wait-79 9-35-0-0-d wait-237 9-38-120-0-d
+Killer InstinctKiller_Instinct_-_Jago's_Temple_(MWS_v1.0).mid 9-49-79-16-d 9-36-79-16-d 1-40-79-117-d 2-28-100-33-d 3-79-57-85-d
+Donkey Kong Landdkl-krool.mid 0-38-91-26-d 1-69-68-28-d 1-74-68-28-d 9-35-80-0-d 9-42-64-0-d
+Jazz JackrabbitJJSongCD5.mid 11-64-89-81-d 1-28-99-38-d 2-47-127-30-d 2-40-127-30-d 3-88-127-55-d
+Goonies 2Goonice.mid 1-79-52-0-d 2-55-75-43-d 3-74-71-49-d 3-70-41-49-d 3-79-56-49-d
+Mega Man: The Wily Warsmm2-amww.mid 1-61-90-80-d 1-65-90-80-d 2-73-101-56-d 2-77-101-56-d 3-73-101-61-d
+Lufia 2: Rise of the Sinistralsluf2grow.mid wait-1118 0-50-127-46-d 1-69-127-48-d 1-62-127-48-d 1-38-127-48-d
+Wonderboy In Monster WorldMW3-Victory.mid 0-33-100-34-d 1-67-79-63-d 2-91-71-12-d 3-88-71-12-d wait-90
+Mega Man Zero 3MMZ3_Sunken_Library-KM.mid 0-27-92-2-d 1-27-102-33-d 2-39-102-48-d 2-27-102-48-d 3-39-114-51-d
+Mega Man Battle Network 3mmbn3_Net-Areas_Blue-v2.mid wait-439 wait-110 wait-164 wait-55 wait-110
+EarthBoundeb_hotel.mid 0-43-100-19-d wait-206 0-43-0-19-d 0-51-100-19-d wait-205
+Super Mario Bros  3SMB3_The_Sky-KM.mid wait-195 9-65-102-8-d wait-64 9-65-0-8-d 9-65-102-8-d
+Atelier Iris: Eternal ManaFerocious_Drive.mid 9-31-80-0-d wait-282 9-31-0-0-d wait-57 9-31-80-0-d
+Final Fantasy Tacticsfft-AttackTeam-r4.mid 0-74-110-14-d 2-38-87-48-d 9-49-110-44-d 9-52-110-44-d wait-576
+Super Mario RPGSMRPG_Barrel_Volcano-KM.mid 0-36-102-34-d 1-36-87-33-d 2-36-102-94-d 2-24-102-94-d 8-36-77-90-d
+Donkey Kong Country 3dkc3_cliff.mid 10-58-58-75-d 10-65-58-75-d wait-2016 9-42-35-n-d wait-66
+Sonic the Hedgehog 3lbz.mid wait-1920 9-36-100-8-d 9-42-100-8-d wait-21 1-34-90-87-d
+Advance Wars 2: Black Hole RisingAW2_sensei_fixed.mid 9-41-120-0-d wait-262 9-39-100-0-d wait-131 9-41-0-0-d
+Front Mission (Japan)FM-CoaxialTown-X.mid 3-79-72-8-d 4-72-72-8-d 10-67-99-103-d 11-72-99-103-d 7-36-125-38-d
+Advance Wars 2: Black Hole RisingAW2_lash.mid 9-38-75-n-d wait-71 9-38-0-0-d wait-36 9-38-75-0-d
+Double DragonDDrJ-Boss1.mid 0-38-83-62-d 1-50-87-63-d wait-256 0-38-0-62-d 0-38-83-62-d
+Chrono Triggerchrono_trigger_battle1.mid 9-38-99-0-d wait-42 9-38-0-0-d wait-48 9-38-91-0-d
+Final Fantasy 8ff8-Movin.mid 2-60-104-n-d 11-48-104-n-d 12-36-104-n-d 14-43-104-n-d wait-1
+WillowW-zhenamuzh.mid wait-2039 0-73-90-74-d 3-73-60-72-d wait-64 1-73-90-79-d
+Kirby Super StarJun_1.mid wait-628 wait-1 wait-767 0-55-94-61-d 0-43-94-61-d
+Sailor Moon Super S Fighting (Japan)T_SuperS_AmiTsuRemix2.mid 9-51-76-32-d wait-38 9-51-0-32-d wait-243 9-51-60-32-d
+ActRaiser 2Actraiser2-forest.mid 0-69-72-48-d 7-57-65-48-d 1-45-100-43-d 6-45-91-47-d wait-228
+Street Fighter Alpha 2sfa2vega.mid wait-1707 2-64-55-29-d 2-57-55-29-d 4-71-51-86-d 5-48-71-38-d
+Live A Live (Japan)lal_megalomania.mid 2-43-45-30-d 3-50-45-30-d 4-43-45-30-d 4-50-45-30-d 4-55-45-30-d
+Super Mario Bros  3world3mapsmb3.mid 0-71-127-48-d 9-44-127-n-d 4-48-127-4-d wait-96 9-44-0-n-d
+Sneek'n PeekSneekPeek-Search.mid 0-72-100-80-d 1-72-55-80-d 2-72-47-82-d wait-785 0-72-0-80-d
+Super Castlevania IV11-The_Three_Friends.mid 7-59-68-6-d 10-52-87-48-d 10-47-87-48-d 10-40-87-48-d 10-35-87-48-d
+Sim Citysimcitct.mid wait-1271 0-66-91-79-d wait-211 0-66-0-79-d 0-67-91-79-d
+BrigandineBr-qust2.mid wait-34 9-36-94-118-d 9-46-76-118-d 0-41-69-33-d 1-65-38-49-d
+Legend of the Mystical Ninjamn-Lottery2.mid 0-50-80-107-d 1-45-80-107-d 2-38-80-107-d 3-74-80-77-d 4-62-80-77-d
+Sonic ManiaSonic_Mania_-_Invincibility.mid 0-79-79-55-d 0-67-79-55-d 4-43-127-39-d 9-35-127-8-d 9-42-127-8-d
+Pokémon (Gold, Silver)PkmGS-Menu.mid 0-62-24-87-d 1-67-94-87-d wait-240 0-62-0-87-d 0-61-100-87-d
+Final Fantasy Legend IIThe_Legacy_(March_Mix).mid 9-38-102-0-d wait-44 9-38-0-0-d wait-480 9-38-102-0-d
+Mega Man 2GBtitle2.mid 9-38-79-0-d wait-40 9-38-0-0-d 9-38-79-0-d wait-40
+Kung Fu HeroesKung-Fu_Heroes-Stage_Complete.mid 0-89-127-106-d 0-84-127-106-d 0-101-127-106-d 0-96-127-106-d 1-60-96-13-d
+Kirby & the Amazing Mirrormirror_mirrorshrine.mid wait-432 wait-48 wait-1056 0-89-63-8-d 1-29-79-33-d
+Chrono TriggerChrono_Trigger_-_Schalas_Theme_XG.mid wait-1405 1-94-76-98-d wait-175 1-94-0-98-d 1-94-39-98-d
+PlokPlok_BreezyBeach.mid wait-461 1-71-67-90-d 1-75-67-90-d 1-66-67-90-d 2-68-67-90-d
+Seiken Densetsu 3 (Japan)sd340.mid 2-69-33-75-d 3-66-33-75-d 4-62-64-48-d 5-66-64-48-d wait-70
+Block Kuzushi GB (Japan)bkgb_title_kio_7.mid 0-68-127-0-d 1-40-127-0-d 9-42-127-0-d wait-115 0-68-0-0-d
+Virtua Fighter 2ADVTIZE.mid wait-281 wait-116 wait-97 wait-106 wait-39
+Lord of the SwordLotS_Village.mid 0-74-100-80-d 1-50-85-80-d 2-66-76-80-d 9-35-79-0-d wait-192
+King of Fighters '96, TheKOF9612.mid 0-45-100-27-d 0-57-100-27-d 1-43-127-32-d 4-45-90-30-d 4-57-90-30-d
+Ninja Gaiden Shadowngshadow.mid wait-1557 0-71-115-43-d 3-40-90-39-d wait-2335 0-71-0-43-d
+Albert Odyssey (Japan)ao1_roar.mid wait-1986 0-76-100-48-d 1-68-100-48-d 4-30-100-34-d 9-36-100-29-d
+Legend of Zelda, The: Link's AwakeningZ4mambo.mid 1-50-110-0-d 2-66-110-71-d 3-74-110-68-d wait-161 1-50-0-0-d
+Torvak the Warriortorvak.mid 0-30-127-33-d wait-222 0-30-0-33-d 0-30-127-33-d wait-110
+Chrono Triggerct_burn_bobonga.mid 0-49-103-33-d 1-42-103-33-d 2-66-64-81-d 3-61-61-81-d 9-43-91-0-d
+Fighting Wars: Hiryu No Ken Special (Japan)T_HiryuNoKenFighting_TournamentTheme.mid 0-65-112-48-d 0-60-112-48-d 2-36-94-33-d 3-36-94-24-d 4-60-75-43-d
+Metal CombatMCGaram2.mid 1-40-92-38-d 2-40-108-26-d 3-40-92-28-d 9-36-108-16-d wait-118
+Super Metroidsmettour.mid 0-37-127-36-d 1-77-100-48-d 1-73-100-48-d 2-49-75-49-d 2-61-75-49-d
+Pokémon (Ruby, Sapphire)PkmRS-Enc5.mid 1-80-100-12-d 3-68-41-24-d wait-50 4-68-35-24-d wait-50
+Mega Man Vwily5v2_XG.mid wait-416 wait-10 wait-11 wait-11 wait-11
+Tokimeki MemorialAltWinterTokimekiByCryogen.mid 0-74-75-75-d 3-58-80-8-d 4-53-75-49-d 5-58-75-49-d 9-54-34-0-d
+Legend of Zelda, The: Ocarina of TimeMINIGA.mid wait-1245 1-71-100-75-d 1-74-100-75-d 3-55-100-48-d 3-50-100-48-d
+Soul Calibur 2jpr-unwavering_resolve.mid wait-3 wait-1341 6-45-114-47-d wait-96 6-45-0-47-d
+Animal CrossingAC_200_to_300.mid 9-67-96-0-d 9-43-96-0-d wait-24 9-67-0-0-d wait-168
+Alcahest (Japan)Alcahest_Track13.mid 0-75-76-59-d 1-44-99-39-d 9-36-126-0-d 9-42-126-0-d 9-43-126-0-d
+LifeSigns: Surgical Unit01_-_Title_Screen.mid 5-28-10-38-d wait-148 5-28-0-38-d 5-40-17-38-d wait-149
+Castle of IllusionCoI_Complete.mid 0-73-100-80-d wait-32 0-73-0-80-d 0-75-100-80-d wait-32
+Burger Time DeluxeGBBTime1.mid 0-84-100-80-d 1-76-74-80-d 2-48-83-32-d 9-44-79-0-d wait-131
+Golden AxeGoldenAxe-OldMap.mid 1-76-110-8-d 2-76-110-8-d 3-64-110-8-d 4-60-110-8-d 5-57-110-8-d
+Final Fantasy 71-11_Victory_Fanfare_XG.mid wait-441 wait-11 wait-12 wait-11 wait-11
+Soul Blazersbleolab.mid wait-1873 0-60-97-55-d 1-36-82-32-d 9-42-74-16-d wait-49
+Rockman EXE 4 5 Real Operation (Japan)hm-exe45shadowman.mid 9-42-77-24-d 9-36-97-24-d 2-33-100-28-d wait-64 9-42-0-24-d
+Dragon Warrior Monsters 205-Dragon_warrior_select.mid wait-288 1-78-90-6-d 3-78-111-93-d 5-78-84-7-d 6-78-88-48-d
+Super Punch OutGabbyJay.mid 9-44-110-n-d 9-50-110-n-d 10-33-110-34-d 11-33-110-33-d wait-64
+4 Nin Shogi (Japan)Menu.mid 0-70-71-11-d 1-53-100-35-d 2-53-112-58-d 4-72-127-119-d wait-123
+Kingdom Hearts 2Organisation_XIII.mid 1-36-110-0-d 1-48-110-0-d wait-640 0-51-110-0-d wait-80
+Secret of ManaSeikenDensetsu2PureNight.mid 1-56-110-4-d wait-144 2-60-110-4-d wait-144 3-65-110-4-d
+Secret of EvermoreSoE-_Ivor_Tower.mid wait-823 1-39-108-32-d 2-51-75-73-d 3-58-75-73-d 4-87-92-73-d
+YsYsJ-Palace2.mid 0-57-100-63-d 1-33-100-32-d 2-52-79-6-d 9-35-100-0-d 9-41-100-0-d
+BurgertimeBurgertime-Death.mid 0-65-100-80-d 1-65-79-80-d 2-65-63-80-d wait-20 1-65-0-80-d
+Castlevania: Portrait of RuinJDC_GoLHailv13.mid 4-69-40-108-d 4-62-40-108-d wait-231 4-69-0-108-d 4-62-0-108-d
+TerranigmaBerugasLab.mid 9-36-79-0-d 9-42-79-0-d 0-36-94-34-d 1-63-79-91-d 2-55-79-91-d
+Spyro the Dragon054.mid 0-24-1-47-d wait-60 0-26-2-47-d wait-54 0-24-0-47-d
+Donkey Kong Country 3snesDKC3_HotPersuit.mid 1-38-92-44-d wait-115 0-50-108-39-d wait-82 0-50-0-39-d
+ActRaiseractraiser_boss_battle_2.mid 0-73-87-56-d 1-73-87-56-d 2-78-103-56-d 4-49-127-50-d 5-73-84-48-d
+Final Fantasy IIItr.mid 4-72-96-46-d 4-53-96-46-d wait-347 4-53-0-46-d wait-27
+GolvelliusGoruberiasu-Boss7.mid 0-55-100-57-d 1-52-83-6-d 2-46-100-32-d 9-38-79-0-d 9-44-79-0-d
+Legend Of Zelda, The: A Link To The Pastalinktothecastle.mid 0-59-79-29-d 1-42-79-30-d 1-35-79-30-d 2-59-79-48-d 3-71-79-42-d
+Kirby's Dream LandKirbyDreamLand-Boss_Battle.mid 0-40-127-33-d 1-40-127-38-d 1-52-127-38-d 2-72-70-44-d 2-64-70-44-d
+Mario & Luigi: Bowser's Inside StoryTitle.mid 4-53-89-12-d 8-77-58-81-d wait-78 8-77-0-81-d wait-44
+Harvest Moon 64HM64MOUNTAIN.mid 9-69-100-16-d 1-60-100-110-d 4-48-127-18-d 4-60-127-18-d 9-36-127-16-d
+Excitebikeexcitetl.mid 2-48-87-32-d wait-196 2-48-0-32-d wait-66 0-64-87-87-d
+Mega Man Battle Network 5MMBN5ACDCXG.mid 1-52-100-80-d 2-40-80-38-d 3-66-90-5-d 3-62-90-5-d 3-55-90-5-d
+Who Framed Roger Rabbit?RogerPark.mid 1-62-62-71-d 4-62-48-26-d 3-46-71-26-d 3-58-51-26-d 2-58-68-0-d
+Crash BandicootCrash_Bandicoot_1_Hog_Wild_DW.mid 0-78-108-22-d 1-55-92-32-d 1-59-92-32-d 2-55-92-34-d 2-59-92-34-d
+Sonic the HedgehogSonic1_Labyrinth_GM.mid wait-461 4-77-79-12-d 5-72-65-62-d 5-81-65-62-d 9-38-127-8-d
+Final Fantasy IV AdvanceFFIV-Rosastheme.mid wait-720 0-71-89-73-d 6-71-89-60-d wait-720 0-71-0-73-d
+World Class Track Meetlongjumpwait.mid 0-62-64-80-d 1-62-64-80-d 2-50-64-80-d wait-256 0-62-0-80-d
+Pokémon (Ruby, Sapphire)PkmRS-Museum.mid 1-62-39-48-d wait-847 1-62-0-48-d 1-67-83-48-d 2-55-79-0-d
+Mega Man VWily5st.mid 0-67-87-80-d 1-58-87-25-d 2-43-87-32-d 9-36-75-0-d wait-86
+It Came From the DesertFortune_Teller.mid wait-262 1-52-104-15-d wait-235 1-52-0-15-d wait-177
+Secret of Manasom28.mid 2-41-60-34-d 4-67-67-12-d 5-64-67-12-d 9-36-113-0-d wait-138
+Final Fantasy IIRYDIA.mid wait-2810 1-48-75-2-d wait-351 0-91-72-2-d 1-55-75-2-d
+Arcus Odysseywickedflame.mid 0-44-99-27-d wait-13 3-44-99-0-d 4-56-99-73-d wait-77
+Mega Man IVCossack1.mid 0-71-105-81-d 1-68-80-81-d 2-51-105-80-d 9-55-105-n-d wait-90
+Sonic the Hedgehog 213-DeathEgg.mid wait-244 wait-1754 0-81-75-27-d 1-33-92-38-d 4-45-108-81-d
+Alex Kidd in High Tech WorldAKHTW-Ending.mid 0-76-100-80-d 1-57-85-80-d wait-128 1-57-0-80-d wait-256
+Dragon CrystalDCrystal_Over.mid 1-69-87-80-d 2-63-79-80-d 9-38-79-0-d wait-96 1-69-0-80-d
+Legend of Zelda, The: Twilight PrincesswiiEnemy_Fight.mid 0-46-57-48-d 9-40-52-0-d 5-35-64-47-d wait-40 9-40-0-0-d
+Sim City 2000Sc2k07.mid wait-14 9-44-72-118-d 9-36-127-118-d 0-28-126-4-d wait-108
+Mother 3 (Japan)mother3-sunflowers.mid 1-60-43-48-d 1-57-43-48-d 1-53-43-48-d 1-64-43-48-d 2-60-43-49-d
+Sonic Advance 3Sonic_Advance_3_-_Zone_7_-_Chaos_Angel_Act_1.mid wait-1536 2-38-64-81-d 4-38-72-47-d 5-38-72-55-d wait-92
+Sim Citysimcity.mid 0-88-0-100-d 4-69-0-14-d wait-218 0-88-0-100-d 7-76-2-100-d
+Lunar: The Silver Starlss-Mystic_Room.mid wait-2232 8-62-100-91-d wait-72 0-38-100-35-d 2-50-51-11-d
+Final Fantasy II (Japan)FF2Battle.mid wait-720 0-41-127-56-d wait-45 0-41-0-56-d 0-44-127-56-d
+Mega Man IIIMM3_HardMan.mid 0-72-127-80-d 1-33-127-35-d 2-33-127-38-d 3-57-127-81-d 9-35-102-0-d
+Sonic CDttempp1.mid 9-35-127-0-d 0-33-127-32-d 1-83-127-73-d 4-69-85-12-d 9-61-127-0-d
+Paper Mario: The Thousand-Year Doorpmttyd_cortezbattle.mid 0-79-88-70-d 0-67-88-70-d 0-55-88-70-d 1-43-97-81-d 9-49-115-0-d
+Metal Gear Solid: Portable OpsMGSPO--Destinys_Call.mid 7-36-100-47-d 7-40-100-47-d 9-42-100-n-d 9-36-100-n-d wait-263
+Ninja Gaidenng1_cs1.mid wait-1728 0-68-127-24-d wait-139 0-68-0-24-d wait-5
+Mystical Ninja Starring GoemonGourmetABC.mid 9-42-89-25-d 0-19-90-48-d wait-54 9-42-0-25-d wait-150
+Yuu Yuu Hakusho (Japan)yuu_yuu_hakusho_japan_-_kuramas_theme.mid wait-2619 7-77-0-79-d wait-187 0-79-0-79-d 7-77-0-79-d
+Pokémon (Diamond, Pearl)Dress_UpINSTR-ByDJ.mid wait-658 wait-659 5-48-125-33-d wait-157 5-48-0-33-d
+Fatal Furyffend.mid 0-48-87-34-d 1-60-87-0-d 1-55-87-0-d 9-41-87-n-d 3-72-87-50-d
+Ninja Gaiden 2ng2_asht.mid wait-1772 0-54-115-43-d 2-42-85-32-d 9-42-107-0-d 9-36-107-0-d
+Killer Instinct GoldKIMenu_Metal.mid 0-61-79-89-d 0-64-79-89-d 0-56-79-89-d 0-73-77-89-d wait-3287
+Sonic the Hedgehog 3S3_LAUNCH_BASE.mid 0-31-122-39-d 9-42-127-0-d wait-115 9-42-0-0-d 9-42-127-0-d
+Chrono TriggerChrono_Trigger_Dark_ages.mid 2-62-71-112-d wait-130 3-62-47-112-d wait-119 2-62-0-112-d
+Legend of Zelda, The: Ocarina of Timelzepona2.mid wait-1800 0-86-47-79-d wait-300 0-86-0-79-d 0-83-47-79-d
+Dragon CrystalDCrystal_Level2.mid 1-47-87-80-d 2-73-83-80-d 9-38-79-0-d wait-96 1-47-0-80-d
+Golden AxeRyan_Bury_Golden_Axe_Wilderness_Remix_(Melodia).mid 9-35-110-n-d 10-69-110-75-d 11-33-110-33-d 12-57-110-24-d wait-201
+HellfireHellfire-Beginning.mid 9-66-79-0-d 9-35-79-0-d 9-38-79-0-d wait-45 9-38-0-0-d
+SentinelSentinel.mid 0-60-100-80-d 1-60-59-80-d 9-35-100-0-d 9-42-100-0-d wait-50
+Mario Kart 64Rainbow_Road_Theme_Extended_Version_v2.mid 0-40-100-36-d wait-103 0-40-0-36-d wait-103 0-40-100-36-d
+Legend of Zelda, TheLegendofZelda_Title.mid wait-678 0-62-71-49-d 0-58-71-49-d 0-65-71-49-d 1-34-120-48-d
+Captain Tsubasa Volume 2 "Super Striker"T_Tsubasa2_NihonAllStarTheme.mid 0-75-124-40-d 2-39-109-33-d 3-51-109-24-d 4-70-109-40-d 9-36-99-0-d
+Mickey's Adventure in NumberlandSpaceCenter.mid 0-64-110-1-d 1-64-60-48-d 2-48-110-33-d 9-42-110-0-d wait-217
+Metroid Prime 3: CorruptionRescued_by_Rundas.mid 9-49-127-0-d 9-66-127-0-d wait-160 9-66-0-0-d 9-49-0-0-d
+Metroid Prime 3: CorruptionDark_Samus.mid 2-25-90-33-d 13-37-72-87-d 13-25-72-87-d 5-62-54-52-d 5-55-54-52-d
+Dragon Ball GT: Final Boutdbzgttrunks.mid wait-354 wait-36 wait-37 wait-36 wait-36
+Super Mario Bros  3Mario3_Hammerbrothers.mid 0-36-127-32-d 9-42-127-0-d 9-35-127-0-d wait-168 0-36-0-32-d
+Battletoads and Double DragonBDDStage1XGv1_1.mid 0-33-115-33-d 7-33-70-39-d 9-44-127-24-d 9-35-127-24-d wait-91
+Super Smash Bros  Brawlsmash_spear_pillar.mid 0-72-100-1-d 0-84-100-1-d 1-36-79-38-d 2-67-50-48-d 2-60-100-48-d
+Adventures of Lolo 2Lolo2pw.mid 0-38-87-111-d 2-38-83-32-d 9-42-71-25-d wait-64 0-38-0-111-d
+Sonic the HedgehogLabyrinth_Zone.mid 1-81-110-58-d 3-81-110-81-d 2-72-110-62-d 7-81-110-5-d 8-84-110-6-d
+Kingdom HeartsKairi1.mid 2-86-110-72-d 3-39-115-24-d 4-58-70-54-d 4-67-70-54-d 4-62-70-54-d
+Resident Evilresevil.mid 0-33-100-42-d 1-69-100-44-d 1-81-70-44-d wait-1280 0-33-0-42-d
+Battle of OlympusCrete_-_The_Island_Maze.mid 10-33-90-43-d 2-33-90-32-d 11-69-127-46-d 11-69-127-46-d 15-69-66-46-d
+ToeJam & Earlrapmaster.mid 0-28-127-38-d 2-40-127-7-d 3-52-127-6-d 9-35-113-16-d wait-138
+Mega Man Battle Network 5 DS: Double TeamMMBN5DSBattleBN3XG.mid 0-61-80-39-d 0-73-60-39-d 1-66-81-39-d 1-78-60-39-d 2-47-91-38-d
+Mega Man VGMM5napalmman.mid 2-44-127-33-d 9-49-127-0-d 9-35-127-0-d 9-36-127-0-d 9-38-127-0-d
+Captain Tsubasa Volume 2 "Super Striker"T_Tsuba1.mid wait-698 0-65-94-40-d 4-65-99-43-d 9-36-78-8-d 9-36-78-8-d
+Wonder Boy 3: The Dragon's TrapWB3_Lstdung.mid 0-43-120-87-d 1-82-120-80-d 9-36-127-0-d wait-232 0-43-0-87-d
+Final Fantasy 8FF8_The_Landing_Xg.mid wait-289 wait-3 wait-3 wait-3 wait-3
+Castlevania 3c3d3rd.mid 0-59-120-61-d 1-63-120-48-d 2-51-83-32-d 9-35-99-0-d wait-20
+Sonic the HedgehogSTH-Marble_GoodFutureRemix.mid 0-57-90-46-d 2-33-100-39-d 3-33-100-34-d 4-69-55-50-d 4-64-55-50-d
+Kingdom HeartsKH_DEARLY.mid wait-210 wait-217 0-84-120-0-d 2-44-90-0-d 3-72-40-53-d
+Pokémon (Gold, Silver)PkmGS-Den.mid 0-70-63-87-d 1-75-79-87-d 2-61-47-81-d wait-322 2-61-0-81-d
+Angelique (Japan)aiwokatarautoki_2.mid wait-1819 0-71-110-48-d 6-59-75-50-d wait-297 6-59-0-50-d
+Mega Man 10mm10_specialstage3-DS.mid 0-52-70-25-d 2-33-95-34-d 5-33-96-33-d 6-33-81-87-d 9-36-78-24-d
+Super Mario 64TheFinalBattle_Flute_sextet.mid wait-10 0-86-81-73-d 1-86-76-73-d 2-86-76-73-d 3-86-74-73-d
+Castlevania: The AdventureCVA-Stage2.mid 0-38-42-32-d 1-69-64-104-d 9-46-64-71-d wait-240 9-46-0-71-d
+Sonic Advance 2duo_sadv2_musicplant1.mid 0-53-64-3-d wait-230 0-53-0-3-d 0-63-64-3-d wait-116
+Seiken Densetsu 3 (Japan)sd349.mid 1-47-72-27-d 1-49-72-27-d 1-52-72-27-d 1-56-72-27-d 2-52-67-48-d
+Captain Tsubasa Volume 2 "Super Striker"T_Tsuba5.mid 9-36-78-16-d 9-35-78-16-d 9-40-78-16-d 9-38-78-16-d wait-85
+Final Fantasy 8PS1__Final_Fantasy_8__Liberi_Fatali__7.mid 8-21-64-73-d wait-96 8-21-0-73-d wait-2976 0-45-103-48-d
+Legend of Legaiallsnowdrift.mid wait-979 wait-62 wait-347 wait-1388 0-41-78-45-d
+Death Come 4DC4boss.mid wait-168 0-28-64-33-d 5-28-64-118-d wait-165 0-35-64-33-d
+Final Fantasy IIIff371.mid 5-60-120-127-d 9-35-119-0-d wait-648 5-60-0-127-d 9-35-0-0-d
+Phoenix Wright: Ace AttorneyPWAA_-_Objection.mid 0-62-127-48-d 1-43-127-48-d 1-55-127-48-d wait-48 0-62-0-48-d
+Disgaea: Hour of DarknessDisgaea.mid 0-68-99-10-d 0-83-99-10-d 1-83-65-8-d wait-407 0-68-0-10-d
+Vampire Saviorvsdem.mid wait-1686 wait-844 wait-778 0-62-63-48-d 0-68-71-48-d
+Mother 3 (Japan)Zombeat.mid 9-36-110-0-d 9-44-60-0-d wait-46 9-36-0-0-d wait-2
+Legend of Zelda, The: Ocarina of TimeGerudoValley2.mid wait-484 0-49-127-24-d wait-121 0-56-82-24-d wait-121
+Kirby Super Stargrmusic1.mid 3-79-100-56-d 3-75-100-56-d wait-1 0-29-97-34-d wait-13
+King Of Fighters '97, Thekof97ost_still_green.mid wait-192 0-47-110-30-d 0-35-110-30-d 1-47-110-29-d 2-35-110-38-d
+Super Mario Bros  3sm3underwater.mid 1-67-72-22-d 2-59-59-22-d wait-271 2-59-0-22-d wait-3
+Castlevania LegendsCVL_Stage3_v2.mid 2-41-63-34-d 9-35-87-n-d wait-112 9-35-0-n-d wait-112
+Fantasy Zone IIFZone2-Over.mid 0-85-100-80-d 1-57-85-80-d 2-90-76-80-d 9-35-94-0-d wait-128
+Land of IllusionLaoI-Boss2.mid 0-92-100-80-d 1-56-90-80-d 2-88-82-80-d 9-44-79-0-d wait-48
+Legend of Zelda, The: Twilight Princesssave_iliaseq.mid wait-2033 1-84-46-8-d wait-339 1-84-0-8-d 1-83-50-8-d
+Mega Man: The Wily Warsmm2-cmww.mid 0-79-101-62-d 0-74-101-62-d 0-67-101-62-d 4-79-90-80-d 9-35-120-0-d
+GoldenEye 007ge64faci.mid 0-36-100-30-d 9-35-100-0-d wait-15 9-35-0-0-d wait-45
+Mega Man 9MM9_intro3.mid wait-411 9-45-79-24-d 9-33-79-24-d 9-36-79-24-d wait-52
+V  G  NeoT_VariableGeoNEO_MyHome.mid 0-67-127-26-d 2-51-127-25-d 3-51-109-24-d 4-82-109-77-d 4-75-109-77-d
+Tales of DestinyTOD_BTL1.mid wait-768 wait-768 0-56-65-73-d 1-47-104-39-d 6-59-89-68-d
+Mario GolfMG_Ring_Shot.mid 0-60-110-48-d 0-67-110-48-d 1-72-110-48-d 2-60-78-3-d 3-48-108-0-d
+Rick DangerousRickDangerous.mid wait-533 0-54-78-62-d 0-49-78-62-d wait-107 0-49-0-62-d
+Mega Man IIIMM3_WilyBattle.mid 0-73-104-80-d 1-61-104-81-d 3-75-104-124-d 3-91-104-124-d wait-27
+Tales of Destiny IITOE_BTL1.mid wait-768 wait-768 0-56-113-56-d 0-62-113-56-d 1-27-99-33-d
+Phantasy Star 4ps405.mid 2-43-63-35-d wait-346 1-62-57-26-d 3-59-54-26-d wait-58
+Gauntletgauntlet.mid 2-76-127-16-d 1-52-127-16-d 0-40-127-16-d wait-87 2-76-0-16-d
+Jak 2Jak_2_Battle.mid 0-72-99-48-d 0-77-99-48-d 2-77-99-49-d 2-72-99-49-d 9-42-99-n-d
+Mega Man 717-ShadeManSpecialIntro.mid 4-66-75-44-d 5-69-75-44-d 6-42-75-44-d 7-78-92-44-d wait-332
+Super Mario RPGmrpg_batl_z.mid 9-25-62-25-d wait-1290 2-33-86-38-d 9-25-0-25-d 9-39-100-25-d
+Legend of Zelda, TheLoZ-Triforce_Arranged.mid 0-67-100-48-d 2-55-100-55-d 3-41-100-47-d wait-222 1-50-100-61-d
+Pinball DreamsPinballDreams-NightmareGM.mid wait-623 wait-26 wait-25 wait-26 wait-76
+Vandal Heartsvh_ending.mid 1-53-40-24-d 2-65-70-1-d 3-41-110-32-d 4-65-74-73-d wait-375
+Shinseiki Odysselya 2 (Japan)odysselya2_world.mid wait-823 wait-1440 0-67-91-48-d wait-82 0-67-0-48-d
+Aleste 2aleste2.mid wait-53 2-71-96-5-d 3-74-96-5-d wait-307 2-71-0-5-d
+Secret of Manasomfield.mid wait-108 wait-298 0-50-79-25-d 0-62-84-25-d 0-55-78-25-d
+Super Mario RPGinsidefactory.mid 9-75-127-0-d 9-36-127-0-d 1-55-81-74-d 5-32-67-83-d 6-34-60-31-d
+PacManPacman-Intro.mid 0-75-100-80-d 1-70-71-80-d 2-75-47-82-d wait-256 0-75-0-80-d
+Mega Man V5-2.mid 3-42-47-87-d 4-42-35-89-d 5-42-46-89-d 9-36-66-36-d wait-104
+Double Dragon 3dd3boss4.mid 0-37-100-34-d 1-37-86-36-d 2-61-76-32-d 2-56-76-32-d wait-9
+Lemmings 3DLemmings3D-Theme.mid 0-60-100-0-d 1-60-127-12-d 3-48-109-33-d 5-60-100-50-d 9-60-100-0-d
+Pokémon (Gold, Silver)Pokesurf.mid 0-46-121-0-d 1-65-120-71-d 2-70-121-71-d 6-70-55-66-d wait-85
+Mega Man XMMXFortA.mid 3-70-67-50-d 3-63-67-50-d 7-39-91-37-d 8-39-67-35-d 9-42-50-16-d
+Resident Evil Code: VeronicaResident_Evil_-_Code_Veronica_-_The_Code_Is_Veronica_(Piano_Version).mid 1-73-100-49-d wait-53 0-73-127-0-d wait-1089 1-73-0-49-d
+Burger TimeBurgertimeAt-Game.mid 0-52-100-80-d 1-52-63-80-d 2-52-47-82-d wait-30 0-52-0-80-d
+Sonic Advance 2SAdv2_Final_Boss.mid 0-72-52-55-d 1-36-44-33-d 9-35-45-0-d 9-57-28-0-d 6-36-36-80-d
+Paper Mariogoomvillage.mid 4-48-75-70-d wait-480 1-79-56-48-d 1-76-56-48-d 3-76-100-68-d
+Sonic the HedgehogSTHGG-Bridge.mid 0-41-80-39-d 1-53-85-34-d 8-69-55-48-d 8-65-55-48-d 8-60-55-48-d
+Jak 2Jak2_Haven_City.mid wait-800 0-60-127-0-d 1-48-127-48-d wait-400 0-60-0-0-d
+Double Dragon 3dd3level4.mid 0-61-80-60-d 1-61-80-n-d 9-82-50-n-d wait-3 2-37-57-33-d
+SuikodenSu1dwarf.mid 9-64-100-n-d 9-67-100-n-d wait-173 9-64-0-n-d wait-81
+Mega Man Zero 4MMZ4_Straight_Ahead-Right_System-KM.mid 0-27-102-38-d 1-27-102-38-d 2-63-102-30-d 2-58-102-30-d 2-51-102-30-d
+Pocky & RockyEnchanted_Forest.mid 2-72-95-72-d 6-48-95-34-d 8-67-60-87-d 11-64-60-87-d 9-36-78-0-d
+Pokémon PinballBlueTableMain.mid wait-577 wait-3 wait-3 wait-21 wait-2852
+Super Smash Bros  MeleeSSBM_Hammer_V2.mid 0-60-100-76-d wait-80 0-60-0-76-d wait-80 0-60-100-76-d
+Rival Turfrivalt-lvl6.mid 0-36-102-33-d 4-55-81-26-d 4-48-81-26-d 9-35-85-0-d 9-49-71-0-d
+Yuu Yuu Hakusho 2: Kakutou no Sho (Japan)yuu_yuu_hakusho_kakutou_no_syo_japan_-_theme_7.mid 9-46-127-16-d 9-36-127-16-d 0-55-108-38-d 0-43-108-38-d 1-79-96-7-d
+Suikoden 2s2mfort.mid wait-52 wait-11 wait-8 wait-1932 1-38-118-32-d
+Wonder Boy in Monster LandWB2_Town.mid 0-81-100-80-d 1-53-87-80-d wait-96 1-53-0-80-d wait-96
+LagoonPhilips-Castle.mid 0-38-110-34-d wait-226 0-38-0-34-d wait-4 0-38-110-34-d
+Alchemist's Secret, Thealchemest_opening_theme.mid 1-55-24-52-d 2-67-37-89-d 2-55-37-89-d 2-64-37-89-d 3-55-55-50-d
+EquinoxAtlena.mid 0-62-31-46-d 5-62-31-14-d wait-206 0-65-31-46-d 5-65-31-14-d
+GolvelliusGoruberiasu-Cave3.mid 0-58-100-62-d 1-70-55-63-d 2-36-100-32-d 3-60-100-28-d 9-44-79-0-d
+Final Fantasy 9ff9castl.mid 0-45-44-47-d 1-64-57-48-d 1-69-57-48-d 1-72-57-48-d 2-33-44-48-d
+Double Dragon 2dd2-boss-1.mid 0-45-102-33-d 1-57-66-80-d 2-45-89-87-d 9-46-58-0-d 9-35-93-0-d
+Flying WarriorsFw02.mid wait-240 0-69-0-77-d 1-60-0-48-d 3-60-0-52-d wait-336
+Jazz JackrabbitJazzJackrabbit_6-2_GM.mid 3-84-110-1-d wait-16 10-84-71-2-d wait-77 3-84-0-1-d
+Star Foxsfxslots.mid 8-36-112-36-d 9-36-112-n-d wait-160 8-36-0-36-d wait-32
+Rudora No Hihou (Japan)rh_ttgar.mid wait-1029 wait-1542 0-57-100-70-d wait-232 0-57-0-70-d
+CastlevaniaT_AkumajouDraculaMSX_PoisonMind.mid 0-48-94-7-d 1-36-78-0-d 2-36-78-24-d 3-36-70-32-d 4-43-78-48-d
+Adventure Island 2Adventure_Island_II-Island_Boss.mid 0-54-24-80-d 2-48-20-81-d 8-33-100-33-d 9-35-100-n-d wait-72
+Final Fantasy 9FF_IX_Steiner_to_the_Rescue_DW.mid wait-384 9-38-24-48-d wait-44 9-38-0-48-d wait-4
+Sonic 3D Blasts3db_fboss.mid 3-70-50-19-d 3-63-50-19-d 9-36-127-0-d 9-35-127-0-d 6-39-120-50-d
+Teenage Mutant Ninja Turtles 2tmnt2-stg1stk.mid 0-60-102-30-d 1-55-90-29-d 9-35-102-0-d 9-46-66-0-d 4-36-104-33-d
+Hiryu No Ken II: Ryuu No Tsubasa (Japan)T_HiryuNoKenII_Tenyou.mid wait-1792 0-70-112-48-d 0-58-112-48-d 4-58-94-41-d 4-70-94-41-d
+Yuu Yuu Hakusho (Japan)yuu_yuu_hakusho_japan_-_arena_battle_theme.mid 9-44-102-0-d 9-36-102-0-d 1-38-127-32-d 2-77-83-6-d 3-84-83-6-d
+Castlevania BloodlinesG_CvBloodlines_ThemeofSimon.mid wait-1019 0-87-127-16-d 2-68-84-16-d 2-75-84-16-d 2-63-84-16-d
+Zelda II: The Adventure of Linkz2title.mid 0-84-80-99-d wait-131 1-84-76-99-d wait-125 0-84-0-99-d
+Mario Kart DSnds-mkds-bowsercastle.mid 4-34-120-19-d 9-42-89-0-d 9-57-98-0-d wait-78 9-42-0-0-d
+SimCoptertknomx3_final.mid 0-60-127-30-d 0-55-127-30-d wait-193 0-55-0-30-d 0-60-0-30-d
+Castlevania: Symphony of the Nightdx-wall.mid 2-26-100-46-d wait-244 1-53-100-48-d 1-57-100-48-d wait-122
+Mario Golfmg64BooValley.mid 0-80-81-75-d 1-71-63-79-d 9-44-70-0-d 9-86-72-0-d 2-59-63-24-d
+Final Fantasy 7ff7seven.mid wait-3326 wait-3257 0-81-113-79-d 1-81-51-75-d 2-59-90-49-d
+Elemental MasterElemental_Master-Continue.mid wait-1763 0-0-0-82-d 0-0-0-82-d 0-0-0-82-d 0-0-0-82-d
+Wonderboy In Monster WorldMW3-GameOver.mid 0-81-79-71-d 1-67-79-26-d 2-50-79-26-d 3-62-79-26-d wait-103
+ColumnsColumns_Over.mid 0-70-100-80-d 1-65-85-80-d 2-74-76-80-d wait-427 0-70-0-80-d
+Sonic the Hedgehog 2smd-sonicthehedgehog2-aquaticruin.mid wait-1493 9-39-127-24-d 12-36-127-87-d 13-36-127-37-d wait-27
+Robo WarriorT_RoboWarrior_TitleTheme.mid wait-93 4-48-126-62-d 4-60-126-62-d wait-99 4-60-0-62-d
+Super SwivSUPERSWIV_Level_4.mid 0-27-127-87-d 1-39-95-n-d 9-43-110-0-d 9-36-110-0-d wait-13
+Captain Rainbow (Japan)Captain_Rainbow_-_Good_Tidings_-_Hirofumi_Taniguchi.mid 0-84-34-48-d 3-81-24-48-d 1-77-34-48-d 2-58-34-48-d wait-3838
+Beyond the BeyondBtabyss1.mid wait-45 wait-23 0-57-120-0-d 1-64-116-2-d 2-45-127-7-d
+Super Mario WorldSMW_-_Sub-Castle_Remix.mid 0-73-0-48-d 0-79-0-48-d wait-3456 1-41-10-47-d wait-72
+Wario Land 2wl2-cellar.mid 1-43-110-85-d 1-50-110-85-d 9-42-110-n-d wait-282 1-43-0-85-d
+Sonic the Hedgehog 3Launch.mid 2-31-110-39-d 9-44-110-24-d wait-46 9-44-0-24-d wait-2
+Sonic & KnuckleslavareefA1.mid 1-33-100-39-d 1-21-100-39-d 2-21-98-36-d 2-33-98-36-d 4-69-95-13-d
+Dr  Mariodrmending.mid 0-91-42-30-d 1-90-45-30-d wait-32 0-91-0-30-d wait-62
+Street Fighter Alpha 2sfa2rose.mid 1-71-100-17-d 1-67-100-17-d 1-64-100-17-d 3-64-44-29-d 4-40-100-32-d
+King of Fighters '95, Thekof95end.mid 0-63-92-0-d 0-75-92-0-d 1-39-79-34-d 9-43-79-n-d 9-49-79-n-d
+Star Control II: The Ur-Quan Mastersillwrath.mid 0-48-127-102-d wait-115 0-48-0-102-d wait-115 0-60-127-102-d
+Vandal Heartsvh-vicissitudes.mid 0-80-96-79-d wait-96 1-80-40-79-d wait-192 2-80-19-79-d
+Sonic the HedgehogSonic1_SpringYardZone.mid wait-576 0-33-100-38-d 1-33-110-80-d 6-64-87-62-d 6-69-87-62-d
+Pokémon (Red, Blue, Yellow)PkmRB-Battle4.mid 0-66-79-87-d 1-84-94-87-d 2-64-55-81-d wait-84 0-66-0-87-d
+Chrono TriggerEnhasa.mid 3-62-87-11-d 4-62-80-11-d wait-127 3-62-0-11-d wait-4
+Super Mario LandSuperMarioLand_Ruins.mid wait-461 9-49-3-24-d wait-38 9-49-0-24-d 9-49-5-24-d
+Mega Man X2MMX2_-_Intro_Stage_-Remix-.mid 9-46-110-8-d 9-49-110-8-d 9-38-110-8-d 3-62-110-48-d 3-69-110-48-d
+Sonic CDscd-US-Introduction(Sonic_Boom).mid 0-52-100-95-d 0-40-100-95-d 8-28-100-52-d 8-40-100-52-d 8-52-100-52-d
+Mega Man 4GBsel4a.mid 0-45-87-111-d 2-33-83-32-d 9-38-59-0-d wait-48 0-45-0-111-d
+Ghosts 'n Goblinsghostgob.mid wait-463 wait-6 wait-6 wait-6 wait-6
+Super Mario Bros mariotechno2.mid 0-36-64-81-d 1-24-54-38-d 3-36-64-39-d 9-35-62-24-d 9-49-62-24-d
+Final Fantasy 7wutai.mid wait-731 3-64-63-49-d wait-7 4-59-40-49-d wait-46
+GoldenEye 007goldeneye_statue.mid 0-52-61-49-d 0-59-87-49-d 0-55-61-49-d 0-63-87-49-d wait-1152
+Top Gear 3000topgear3000fristrace.mid 0-32-84-33-d 9-35-95-0-d wait-206 0-32-0-33-d 9-35-0-0-d
+VigilanteVigilante-Round2.mid 0-73-100-80-d 1-63-88-80-d 2-67-88-80-d 9-35-79-0-d wait-115
+Mario GolfmggbcDormie.mid wait-763 9-28-99-0-d 9-44-99-0-d wait-95 9-28-0-0-d
+MetroidMetroidRemix2-MoBass.mid 9-35-80-7-d 9-40-80-7-d 14-55-100-57-d 14-48-100-57-d 15-36-100-33-d
+Final Fantasy IIILockes_Theme.mid 0-67-110-44-d 2-59-110-44-d 3-55-110-44-d 4-43-110-61-d 5-55-110-58-d
+Rayman 2sanctuary_of_water_and_ice_part1.mid wait-5 9-64-88-0-d wait-257 9-69-88-0-d wait-244
+Galaxy ForceGalaxyJ-Clear.mid 9-41-100-0-d 9-35-100-0-d wait-48 9-35-0-0-d 9-41-0-0-d
+Final Fantasy IIIFf3title.mid 0-40-100-19-d wait-3032 0-45-100-19-d wait-2952 0-50-100-19-d
+Tsubasa Chronicle (Japan)Blaze.mid 0-75-127-15-d 12-75-50-10-d 13-75-112-79-d wait-111 11-75-70-79-d
+Mega Man IISkull_castle.mid 1-49-127-32-d 9-36-127-0-d 9-46-100-0-d 4-49-127-30-d wait-161
+Rudora No Hihou (Japan)rudora_no_hihou_japan_-_evil_in_the_deep.mid 0-82-83-102-d 1-28-115-1-d 2-70-76-50-d 3-64-76-50-d wait-48
+Mega Man X4MMX4_Boss-KM.mid 0-36-102-39-d 1-36-71-37-d 2-60-67-27-d 3-60-44-107-d 5-48-71-30-d
+Castlevania: Order of EcclesiaOrder_of_the_Demon.mid 0-52-81-46-d wait-84 0-52-0-46-d 0-53-82-46-d 11-52-37-46-d
+Crystaliscrysover.mid wait-1611 0-58-127-3-d 1-58-127-79-d 9-44-96-0-d 9-35-96-0-d
+Psycho FoxPFox_ItemUsed.mid 0-87-100-80-d 1-82-85-80-d wait-256 0-87-0-80-d 0-89-100-80-d
+Final Fantasy 9rocco_-_ff9-towards_that_gate.mid wait-980 0-55-26-46-d wait-37 0-55-0-46-d 0-57-26-46-d
+Castlevania: Symphony of the Nightolrox.mid wait-2107 0-91-79-0-d 1-91-55-9-d 3-55-79-49-d wait-176
+Donkey Kong Country 2DKC2_-_Hot-Head_Bop.mid 9-49-110-8-d 0-33-110-34-d 2-72-75-49-d 1-33-75-49-d 1-45-75-49-d
+Mega Man X2MMX2VolcanoByCryogen.mid 0-47-92-30-d 1-47-102-30-d 2-35-92-34-d 9-36-102-0-d 8-59-57-30-d
+7th Saga7thsaga_guntz.mid wait-2304 0-65-100-75-d 1-53-43-4-d 2-60-43-4-d 3-65-43-4-d
+Mario & Luigi: Partners in TimeMLFTVillagedeHolijoli.mid 7-75-12-48-d 7-82-12-48-d 8-75-12-50-d 8-82-12-50-d wait-2146
+Black Lampblacklamp.mid 0-48-100-0-d 1-36-65-35-d 2-81-100-1-d 2-89-100-1-d wait-137
+7th Saga7thsaga_melenam.mid wait-1477 0-74-100-19-d 1-62-100-17-d wait-314 0-74-0-19-d
+Sonic & KnucklesSonic_and_Knuckles_-_Mini_Boss.mid wait-1536 1-76-80-62-d 1-64-80-62-d 4-28-127-7-d 9-38-127-n-d
+Nightmare CreaturesNightmareCreatures-Boss3.mid 0-72-64-52-d 0-66-64-52-d 0-65-64-52-d wait-864 0-72-0-52-d
+Breath of Fire 2bof2cris.mid 0-41-100-37-d 1-65-100-62-d 9-36-100-0-d 9-49-100-0-d 2-62-100-62-d
+Flashback: Quest for Identityfb-End.mid wait-2021 2-43-112-38-d 3-55-99-35-d 3-59-112-35-d 9-38-85-0-d
+Sonic the Hedgehog 2STH2-Chemical_Plant.mid 0-69-95-65-d 0-66-60-65-d 0-61-60-65-d 2-69-97-64-d 2-66-61-64-d
+Clash at Demonheaddemonhead_map.mid 0-41-127-42-d 1-60-127-42-d wait-117 0-41-0-42-d 1-60-0-42-d
+Hiryu No Ken: Ougi No Shou (Japan)T_HiryuNoKenOugi_Roster.mid 0-67-122-44-d 0-58-122-44-d 2-31-119-33-d 3-31-114-26-d 4-67-79-48-d
+StarTropicsstropics-whale.mid 0-35-94-39-d 1-67-100-45-d 1-70-100-45-d 2-35-74-89-d wait-75
+Wizards and Warriors 2: IronswordWizardsandWarriors2FinalBattle.mid wait-384 0-43-110-34-d 1-62-60-94-d 1-59-60-94-d 1-55-60-94-d
+Cookie Monster Munchcmmingame.mid 0-54-127-21-d wait-180 0-54-0-21-d 0-56-127-21-d wait-180
+Ys VYs_V_Lost_Kingdom_Remix_dw.mid 13-64-75-48-d 14-45-75-48-d 15-33-75-48-d wait-2711 12-71-75-48-d
+Silent Hill 2overdose_fatalM4.mid 9-57-82-16-d 9-46-82-16-d 9-49-66-16-d 9-36-66-16-d 0-28-117-34-d
+Mega Man XBossStage2.mid 1-62-92-29-d 1-65-92-29-d 4-38-92-36-d 9-35-92-24-d 9-46-92-24-d
+Blood Omen: Legacy of KainBlood_Omen_-_Maleks_Bastion.mid 1-44-64-52-d 1-56-64-52-d 2-44-71-48-d 9-40-46-7-d wait-5
+Mega Man VIMM6-Flame_Man.mid 0-56-95-1-d 3-44-70-7-d 3-56-70-7-d 4-44-60-39-d 4-56-60-39-d
+IkarugaStoneLike.mid 1-64-127-48-d 1-76-94-48-d 2-50-64-48-d 2-45-64-48-d 4-64-108-88-d
+EarthBoundEB_File_Select.mid 11-81-75-80-d 9-38-92-25-d 9-43-110-25-d wait-69 11-81-0-80-d
+Phantasy Star 2PS2-Town2.mid 0-44-100-32-d 1-56-87-65-d 2-75-67-59-d 3-72-67-59-d 4-68-67-59-d
+E V O : Search for Edenevodeath.mid 2-33-110-87-d 6-67-110-55-d 6-72-110-55-d 6-74-110-55-d 9-38-110-16-d
+Phoenix Wright: Ace AttorneyPhoenix_Wright_-_Ace_Attourney_-_Suspense.mid 0-48-25-1-d 4-36-25-36-d 5-48-25-67-d wait-99 0-48-0-1-d
+Kirby's Dream Land 3Ripple_Field_Stage_Select.mid 0-69-64-77-d 0-41-64-77-d wait-133 0-41-0-77-d wait-134
+Legend of Zelda, The: Link's Awakening DXZelda_IV_DX_-_Color_Dungeon.mid 0-67-92-48-d 1-31-127-49-d 1-43-127-49-d wait-206 0-67-0-48-d
+Mega Man 719-TurboMan.mid 1-63-92-81-d 1-68-92-81-d 2-75-92-81-d 3-80-92-81-d 4-32-92-33-d
+Mega Man X311-ToxicSeahorse.mid 0-39-92-38-d 1-58-92-29-d 1-63-92-29-d 2-70-60-90-d 2-75-60-90-d
+ChaotixTake-A-Nap.mid wait-1623 9-36-70-0-d wait-202 9-38-90-0-d wait-16
+Legend of Zelda, The: Ocarina of Timelztime.mid wait-2400 0-81-46-79-d wait-600 0-81-0-79-d 0-74-46-79-d
+Battletoads and Double DragonBTDD-LevelIntro.mid 0-55-127-116-d wait-41 0-55-0-116-d wait-3 0-55-127-116-d
+Metroid Primedata_selection_screen.mid 0-43-64-52-d 0-55-64-52-d wait-163 0-43-0-52-d 0-55-0-52-d
+Sonic RSuperSonicRacing.mid wait-344 9-73-96-53-d wait-217 6-43-100-62-d wait-3
+Virtua CopVcop_Sel.mid 3-74-100-55-d 6-74-66-55-d 9-35-94-26-d 9-49-53-26-d wait-65
+Lightening ForceTF4-omake8.mid wait-1969 0-55-69-83-d 1-31-121-36-d 2-65-83-63-d 2-58-83-63-d
+Castlevania 2T_Akumajou2_Night.mid wait-1584 3-42-70-32-d wait-720 2-42-78-33-d 3-42-70-32-d
+Sonic Advance 2Sonic_Advance_2_-_Sky_Canyon_Zone_1.mid wait-1772 0-57-40-80-d 2-33-56-81-d 3-85-40-18-d 3-81-48-18-d
+Rudora No Hihou (Japan)rudora_no_hihou_japan_-_king_of_the_mountain.mid 9-36-127-0-d wait-131 9-36-0-0-d 9-40-127-0-d wait-65
+Think Twice 3thinktwice3.mid 2-69-76-23-d 2-70-76-23-d 2-74-76-23-d wait-736 2-69-0-23-d
+Street Fighter IIsf2Honda456.mid 9-31-100-0-d wait-120 9-31-0-0-d wait-180 9-31-24-0-d
+Legend of Zelda, The: Link's AwakeningZgbmouet.mid wait-10 wait-4 0-86-100-80-d 1-67-100-80-d wait-144
+Legend of Heroes 4LegendofHeroes4_TheOneWhoHauntsInTheDark_GM.mid 0-33-87-34-d 1-60-87-79-d 1-64-87-79-d 2-81-109-78-d 7-33-73-38-d
+KenseidenKenseidnJ-Victory.mid wait-96 0-77-100-6-d 2-48-94-6-d 3-77-75-6-d wait-96
+Last Bible 3 (Japan)lb3_megalopolis.mid wait-1080 0-51-74-25-d 1-39-105-34-d 2-39-105-0-d 9-3-100-0-d
+Xenogearsshevat_V1.0.2.mid 0-100-127-12-d 4-71-0-52-d 4-69-0-52-d 4-76-0-52-d wait-206
+Pokémon Mystery Dungeon: Explorers of Time Darkness Skypmd_eosopening.mid 0-78-110-119-d wait-106 0-78-0-119-d wait-5 0-78-110-119-d
+Final Fantasy IIIfinal_fantasy_iii_-_terra_-_ff6_generic_soundfont.mid 9-38-34-0-d 0-63-35-104-d 1-68-90-49-d 5-59-71-49-d wait-180
+Mega Man Zero 3MMZ3_Snowy_Plains-KM.mid 0-24-82-34-d 1-24-102-33-d 2-81-102-54-d 6-36-102-5-d 7-81-82-88-d
+Lufia 2: Rise of the Sinistralsluf2sea.mid wait-1630 0-67-127-48-d 3-48-96-47-d wait-68 3-48-0-47-d
+Tokimeki Memorial 3 (Japan)PS2_Toki_Memo_3_Title.mid 0-79-96-8-d wait-369 0-79-0-8-d 0-91-96-8-d wait-369
+Perfect DarkPerfectMenu.mid 0-48-127-n-d 1-48-127-n-d 9-36-127-n-d 9-42-127-n-d wait-150
+Sailor Moon: Another Story (Japan)SMAS-Ark.mid 0-40-100-33-d 2-55-71-28-d 9-35-94-0-d 9-44-66-0-d wait-50
+Pokémon (Red, Blue, Yellow)PkmRB-Credits.mid 0-76-75-87-d 1-81-94-87-d 2-73-55-81-d wait-617 0-76-0-87-d
+Final Fantasy XSutikeDaNe_Orchestrated.mid wait-3072 0-50-64-0-d wait-384 0-50-0-0-d 0-57-64-0-d
+Golden SunGS_VenusLighthouse.mid wait-1800 0-30-127-33-d 1-57-82-52-d 1-61-82-52-d 2-73-49-52-d
+Sonic the Hedgehog 3STH3-Ice_Cap.mid 0-36-85-2-d 1-48-80-37-d 1-36-80-37-d 2-79-75-11-d 2-75-75-11-d
+Legend of Zelda, The: The Wind WakerTower_of_the_Gods.mid 0-67-127-14-d 1-31-64-49-d 1-43-64-49-d 6-43-127-55-d 6-31-127-55-d
+Secret of EvermoreSoE-_The_Hall_of_Collosia.mid wait-914 1-52-92-46-d 3-76-0-73-d wait-229 1-52-0-46-d
+Dragon Ball Z Super Butouden 3 (Japan)Dragonball_Z_-_Trunks'_Theme.mid wait-12 wait-19 wait-50 wait-2 wait-25
+Bubble BobbleBbremiv2.mid wait-2992 4-77-90-84-d 4-74-90-84-d 4-82-90-84-d 5-34-94-114-d
+Super Paper MarioSamkingdom.mid 0-72-70-46-d 1-41-51-2-d wait-130 0-72-0-46-d 0-70-71-46-d
+Fire SharkFireShark-Continue.mid 0-45-100-35-d 1-57-87-39-d 2-52-87-39-d 9-35-100-0-d wait-53
+Super Mario RPGValentina_Beta.mid 2-52-100-6-d 3-40-100-6-d 6-40-100-24-d wait-111 2-52-0-6-d
+Dragon Slayer: The Legend of HeroesPC-88__Dragon_Slayer_The_Legend_of_Heroes__Battle.mid 0-60-1-n-d 1-60-1-56-d 2-60-1-n-d wait-128 0-60-0-29-d
+New Super Mario Bros New_Super_Mario_Bros_-_Stage_Clear.mid wait-415 3-62-51-57-d 3-50-51-57-d wait-5 0-62-51-61-d
+F-Zero GXgx_story2.mid wait-504 wait-1166 0-29-79-36-d 3-65-79-126-d 3-60-79-126-d
+Ninja Gaiden 3ngaiden3.mid 0-64-100-27-d wait-137 1-64-100-27-d wait-46 0-64-0-27-d
+Super SoccerSuperSoccerHolland.mid 4-43-87-34-d 9-36-79-0-d wait-143 9-36-0-0-d wait-142
+Ninja Gaiden ShadowNinjaGaidenShadowStage1.mid 0-40-99-33-d 5-47-87-80-d 6-64-87-84-d 7-71-71-48-d 7-64-71-48-d
+Mega Man IIMm2weap.mid 2-52-83-117-d 2-52-83-117-d wait-160 2-52-0-117-d 2-52-0-117-d
+Final FantasyT_FinalFantasy_MatoyaTheme_ShiningRemix.mid 2-30-109-35-d 3-30-99-34-d 5-66-107-49-d 6-78-107-48-d 7-78-99-48-d
+Pokémon CrystalGSCSuicuneBattle.mid 0-81-61-44-d 1-81-56-50-d 2-100-46-4-d 3-81-51-8-d 4-67-54-92-d
+Mega Man Battle Network 3mmbn3_BeachStreet_Blue-v2.mid wait-119 wait-358 3-81-110-11-d wait-149 4-81-52-11-d
+Astro Boy: Omega FactorAstroboyTOF_title_GS.mid wait-1646 5-56-100-4-d wait-51 5-56-0-4-d wait-52
+Tunnel B1Tunnel-gs.mid wait-402 wait-4 wait-4 wait-4 wait-25
+Star Foxsftitania.mid 1-36-98-34-d 2-72-94-94-d 3-67-94-48-d 4-63-94-57-d 5-72-94-44-d
+Demon's CrestDemonsCrest-Level1.mid 8-40-127-16-d 8-28-127-16-d wait-96 0-72-76-16-d 0-84-76-16-d
+Legend of Zelda, The: Ocarina of TimeZOOT64LostWood.mid 9-54-100-0-d wait-103 9-54-0-0-d wait-103 9-54-100-0-d
+Super Double Dragon(SDDstg2).mid 2-33-98-37-d 4-57-71-26-d 9-35-105-0-d wait-41 9-35-0-0-d
+Pokémon (Gold, Silver)PkmGS-Gym.mid 0-78-79-87-d 1-50-94-87-d 2-86-71-81-d 9-40-50-0-d 9-46-71-0-d
+Dual Orb (Japan)do1_underworld.mid wait-1843 0-72-94-50-d 1-29-100-33-d 2-60-59-58-d 3-56-59-58-d
+Final Fantasy IIoverture.mid 1-60-100-46-d wait-160 1-60-0-46-d 1-62-100-46-d wait-160
+Mario & Sonic at the Olympic GamesMnSATOG.mid wait-147 9-36-87-82-d wait-147 9-38-87-82-d 9-36-0-82-d
+Mega Man VGMM5finalboss.mid 0-52-119-80-d 1-64-127-81-d 1-55-127-81-d 9-42-127-0-d wait-131
+Mother 3 (Japan)PiggyGuysv3.mid 0-63-75-60-d 1-48-60-47-d 9-38-30-n-d 9-49-60-n-d 9-52-60-n-d
+Half-LifeHL_Credits_Closing_Theme.mid 0-63-118-26-d 0-63-71-26-d 0-63-127-26-d 2-65-46-26-d 2-65-64-26-d
+Sonic the Hedgehoglabryint.mid wait-192 0-69-110-0-d 1-72-110-0-d wait-188 0-69-0-0-d
+Wario Land 4WL4_Hall_of_Hieroglyphs.mid wait-1280 9-36-100-0-d wait-87 9-36-0-0-d wait-29
+Ninja GaidenNG_-_Act_1-1_-Remix-.mid 9-42-127-8-d 9-36-127-8-d 3-47-92-27-d 1-42-127-30-d 1-47-127-30-d
+Last Ninja 2ninja2-4.mid wait-404 wait-2774 0-81-110-90-d 9-82-100-24-d wait-199
+BurgertimeBurgertime-Game.mid 0-76-100-80-d 1-65-79-80-d 2-76-63-80-d wait-96 0-76-0-80-d
+King Of Fighters '98, The: Dream Match Never EndsRumbling.mid 9-46-88-0-d wait-360 9-46-0-0-d 9-46-88-0-d wait-360
+Seiken Densetsu 3 (Japan)Nuclear_Fusion.mid 9-35-66-n-d 9-35-80-n-d wait-58 9-35-0-n-d 9-35-0-n-d
+Romancing SaGa(RS)_Hurry_Out.mid 0-33-47-37-d 1-33-79-34-d 2-64-79-0-d 3-81-79-48-d 4-72-79-48-d
+Sanxionsanxion2.mid 1-28-90-1-d 2-28-85-1-d wait-499 1-28-0-1-d 1-59-90-1-d
+Super Mario World 2: Yoshi's Islandyoshi-boss.mid 0-67-48-24-d 1-62-47-24-d wait-103 0-67-0-24-d 0-67-48-24-d
+Tetristetrisgo.mid 0-83-127-80-d 1-71-127-80-d wait-12 0-83-0-80-d 0-82-127-80-d
+Super Bomberman 3SBomb3-Death.mid 0-35-100-35-d 1-71-79-80-d 2-71-79-80-d 3-59-79-81-d wait-50
+Dragon CrystalDCrystal_Level3.mid 0-61-100-80-d 1-49-87-80-d 2-58-83-80-d 9-35-94-0-d wait-144
+Gokujyo Parodius (Japan)GokujyoParodius_Upa.mid 9-40-88-n-d 0-33-88-34-d 1-81-101-61-d 2-69-101-61-d 3-76-101-61-d
+Kirby & the Amazing Mirrormirror_miniboss.mid wait-497 wait-297 9-36-79-0-d 9-38-94-0-d wait-1
+Star Ocean (Japan)StarOcean_Innocence.mid wait-914 0-73-94-70-d 3-33-63-43-d wait-153 0-73-0-70-d
+Kirby's Dream Land 2Cloudy_Park.mid 2-91-100-80-d 4-63-100-29-d 4-51-100-29-d 5-51-100-33-d wait-64
+ColumnsColumnsMD-Clotho.mid 0-57-100-16-d 4-93-55-6-d wait-64 2-93-33-6-d 3-57-55-16-d
+CybersledCybersled-Select.mid wait-815 wait-8 wait-9 wait-8 wait-8
+Rudora No Hihou (Japan)rudora_clockwork_steeple.mid 0-64-94-48-d 1-64-71-50-d 2-57-79-60-d 5-64-94-56-d 6-33-47-43-d
+Suikodendragonknights.mid 1-65-49-46-d 3-65-27-34-d wait-171 1-65-0-46-d 3-65-0-34-d
+Spider-ManSpidervs-Hideout.mid 0-49-100-80-d 1-49-79-80-d wait-93 1-49-0-80-d wait-19
+Mega Man XMMXPswrd.mid 0-66-79-65-d 6-85-67-48-d 7-78-67-48-d 8-46-71-38-d 9-36-79-16-d
+Cloud MasterChukaT-Start.mid 0-49-100-32-d 1-75-87-24-d wait-96 1-75-0-24-d 1-78-87-24-d
+Sonic the Hedgehog 2OilOceanZone.mid 0-67-102-80-d 9-63-115-24-d wait-118 9-63-0-24-d 9-63-115-24-d
+Pokémon (Gold, Silver)TM_Mt_Moon_v1_1.mid 9-75-87-0-d wait-343 9-75-0-0-d wait-68 9-75-87-0-d
+Archonarchon_battle.mid 0-64-127-48-d 1-76-127-40-d 2-45-127-43-d 9-35-127-0-d wait-96
+Metal Gear Solid: VR MissionsMGSvr_Advmode.mid 0-72-95-48-d 0-67-95-48-d 1-72-1-74-d 1-67-1-74-d 2-72-66-49-d
+Legend Of Zelda, The: A Link To The PastTitle476.mid 1-87-73-46-d wait-26 0-85-73-46-d wait-17 0-85-0-46-d
+Sonic the Hedgehog 2s2_gg_11.mid 0-55-127-80-d 3-79-110-80-d 5-67-110-80-d 9-40-127-0-d 9-42-127-0-d
+Jazz JackrabbitJJSongCD0.mid 0-38-127-35-d 1-65-127-28-d 1-62-79-28-d 1-69-79-28-d 3-65-127-4-d
+Fire SharkFireShark-Ending.mid 0-36-100-32-d 2-52-63-22-d 3-48-63-22-d 4-43-63-22-d 9-41-79-0-d
+GrandiaGrandia_-_Battle_3.mid 1-64-127-74-d 1-76-127-74-d wait-55 1-64-0-74-d 1-76-0-74-d
+Mario PartywinMP_Power_of_StarsV1.1.mid 0-78-45-103-d 1-90-60-12-d 2-74-75-14-d wait-125 0-78-0-103-d
+Ninja Gaiden TrilogyT_NinjaGaidenTri_UnlimitedMoment.mid 0-76-94-62-d 2-40-78-24-d 3-40-78-33-d 6-71-78-61-d 6-59-78-61-d
+Atelier Iris: Eternal ManaAIEM_Travelling_Companion.mid 0-65-87-21-d 2-65-80-24-d wait-172 0-65-0-21-d 2-65-0-24-d
+Terranigmater50.mid 1-38-82-35-d 2-69-101-68-d 3-67-89-69-d 4-62-89-69-d 9-38-101-0-d
+Sailor Moon Super S Fighting (Japan)Tsms_min.mid 9-41-77-16-d 9-35-77-16-d wait-55 9-35-0-16-d wait-52
+Super Mario KartSMK_Ghost_Valley-KM.mid 2-67-102-30-d 2-62-102-30-d 2-57-102-30-d wait-129 3-67-35-30-d
+Ninja Gaiden 2T_GoingGetsTough.mid 1-45-86-40-d 2-45-94-35-d 2-33-94-35-d 3-45-97-25-d 3-33-97-25-d
+Mega Man Battle Network 4hm-exe4battle.mid 9-38-93-16-d wait-186 9-38-0-16-d wait-186 0-77-65-85-d
+Marble Madnessmarblem5.mid 2-46-44-25-d wait-133 2-46-0-25-d wait-67 2-46-54-25-d
+Guilty Gear IsukaHurry_somebody_up.mid wait-1468 1-45-78-29-d wait-27 1-45-0-29-d 1-46-78-29-d
+Mega Man Battle Network 5MMBN5Nebula.mid 0-55-127-80-d 9-46-127-24-d wait-288 0-55-0-80-d 0-67-127-80-d
+Yoshi's Storyys64ending_credits.mid wait-6 0-61-55-24-d 0-45-45-24-d 0-57-56-24-d wait-316
+Chrono TriggerLavosCore(V1-1).mid 0-40-103-81-d 1-40-87-87-d 9-42-119-0-d 9-36-119-0-d 9-49-119-0-d
+Super Mario Land 2Sml2th.mid 0-73-100-0-d 0-81-100-0-d wait-202 0-81-0-0-d 0-73-0-0-d
+MetroidMetroid_-_BeginningXG.mid wait-1589 0-51-99-80-d 1-51-99-87-d 2-67-127-81-d 3-62-124-81-d
+Final Fantasy III3-07-SearchingForFriendsXG-v1.1.mid wait-250 wait-1589 wait-4 0-69-75-52-d 1-69-75-48-d
+Mega Man 9MM9-GalaxyMan-TS.mid 2-40-110-33-d 9-35-110-n-d wait-171 2-40-0-33-d 9-35-0-n-d
+Mega Man IVSkull_Castle_2.mid 10-79-92-61-d 11-70-108-64-d 12-43-108-33-d 9-46-75-n-d 15-79-92-81-d
+F-Zero: GP LegendFZGP_Mutecity.mid 9-40-127-16-d 9-38-127-16-d 9-35-127-16-d 9-36-99-16-d wait-69
+Radical Dreamers (Japan)rd-gale.mid 4-36-117-47-d wait-104 4-36-0-47-d wait-65 0-88-81-40-d
+Super Smash Bros  BrawlBrambleBlastSSBBv4.mid wait-702 8-60-91-119-d wait-703 9-52-72-16-d 9-44-72-16-d
+Final Fantasy Crystal Chronicles: Ring of FatesFight.mid 0-61-80-61-d 0-65-80-61-d 0-70-94-61-d 1-58-76-48-d 1-65-76-48-d
+Mega Man X3tiger1.mid 9-42-63-0-d wait-144 9-42-0-0-d wait-432 9-42-63-0-d
+Final Fantasy Mystic Questffmqboss.mid 0-31-127-30-d 0-43-127-30-d 1-59-127-57-d 1-71-127-57-d 2-71-127-63-d
+Legend of Zelda, The: Link's Awakeninglafaerie.mid 0-59-127-46-d 4-65-0-n-d 4-67-0-n-d wait-64 4-65-0-n-d
+Legend of Zelda, The: Twilight Princesstp_arbitergrounds.mid 0-35-127-126-d 2-26-45-18-d 9-52-40-0-d 10-40-27-47-d 11-34-0-104-d
+Final Fantasy 8sdollet.mid wait-65 2-88-75-0-d 2-95-75-0-d wait-92 2-88-0-0-d
+Wario LandWario_Land_A_Level.mid 3-48-87-87-d 9-42-87-25-d wait-107 3-48-0-87-d 9-42-0-25-d
+Life Forcelf-st5.mid 9-42-120-0-d 9-35-120-0-d 0-63-101-81-d 1-63-120-48-d 2-72-101-81-d
+Donkey Kong Country 2Donkey_Kong_Country_2_-_Bonus_Win.mid 9-40-110-n-d 11-77-110-56-d 14-65-110-66-d wait-138 9-40-0-n-d
+Sonic & KnucklesSTH3K-Lava_Reef_Act2.mid 0-77-95-5-d 3-77-71-8-d 4-72-97-17-d 6-84-61-11-d 7-81-95-75-d
+Fantasy ZoneFZone_Boss2.mid 0-73-100-80-d 1-61-83-80-d 9-35-94-0-d wait-64 9-35-0-0-d
+Monster RancherPre-Battle_Fanfare_E.mid 0-70-100-56-d wait-109 1-70-56-56-d wait-109 0-70-0-56-d
+Sonic the Hedgehog 2s2_chemplant.mid 0-81-91-90-d 2-78-91-90-d 9-36-79-0-d 9-42-79-0-d wait-108
+Kyoraku Sanyo Toyomaru Okumura Daiichi Maruhon Parlor Parlor! 4 CR (Japan)kyoraku_sanyo_4_cr_-_in_pachinko_parlors.mid 0-74-114-7-d 0-86-114-7-d 6-31-121-37-d 9-49-127-0-d 9-35-127-0-d
+Pokémon (Red, Blue, Yellow)PkmRB-Around.mid 0-71-79-80-d 1-76-94-80-d wait-97 0-71-0-80-d 1-76-0-80-d
+Final Fantasy V (Japan)FF5_lena.mid 1-53-127-92-d wait-243 1-53-0-92-d wait-122 1-60-127-92-d
+Donkey Kong Country 2Islandmap_1.mid wait-1753 0-45-127-48-d 0-45-127-48-d 0-40-110-48-d 0-28-110-48-d
+F-Zero Xfzxredcanyon.mid 9-35-127-8-d 9-40-127-8-d 9-38-127-8-d 9-44-127-8-d wait-85
+Pokémon (Ruby, Sapphire)PkmRS_103.mid 1-81-79-73-d wait-128 1-81-0-73-d 1-83-79-73-d wait-128
+Super Mario Bros Stars_of_the_Sound.mid 0-38-127-38-d wait-160 0-38-0-38-d wait-267 0-45-127-38-d
+Final Fantasy IIIFF6-Battle.mid wait-762 2-51-100-44-d 2-57-100-44-d 2-63-100-44-d wait-85
+Mario Golfmg64YoshiChampionship.mid 0-79-79-75-d 2-60-57-79-d 2-67-57-79-d 9-69-58-0-d 9-44-72-0-d
+PinobeePinobee_End_Credits.mid 1-48-120-80-d 2-83-120-80-d wait-300 1-48-0-80-d wait-180
+Secret of ManaHidden.mid 0-86-79-0-d 1-50-47-42-d 2-38-63-43-d 4-50-47-48-d 5-62-47-73-d
+Shining Forcesfhq.mid 9-38-110-n-d 10-62-110-55-d 11-86-110-72-d 9-38-110-n-d wait-369
+Lupin Sansei Pandora No Hihou (Japan)Lupin_III_Title.mid 0-74-110-81-d wait-222 0-74-0-81-d 0-77-110-81-d wait-110
+Mario & Luigi: Bowser's Inside StoryBig_Boss_Battle.mid 6-23-69-49-d 6-35-69-49-d 14-23-69-49-d 14-35-69-49-d wait-363
+Mega Man Battle Chip ChallengeMMBCC-FinalBattle_XG.mid 0-79-127-17-d 0-74-127-17-d 0-69-127-17-d 6-45-105-37-d 7-45-100-38-d
+Lufia and the Fortress of Doomluf1title.mid wait-944 1-57-112-48-d 1-50-112-48-d 1-54-112-48-d 3-45-127-47-d
+Snowboard KidsSBKsilverMT.mid 0-69-75-0-d 0-72-75-0-d 2-81-92-99-d 3-33-79-35-d 9-36-127-n-d
+Mega Man 302-MM3Password.mid 0-66-110-25-d 1-71-110-25-d 2-47-110-25-d 9-42-110-n-d wait-226
+BeetlejuiceBEETLEJUICE.mid 0-64-79-81-d 1-60-63-81-d 2-43-73-87-d wait-178 0-64-0-81-d
+Power StrikePStrike-Round2.mid 0-67-100-80-d 1-64-83-80-d 2-45-91-80-d 9-38-79-0-d wait-55
+Mario GolfMarioGolfFailure.mid 0-65-127-114-d 0-68-127-114-d 2-32-127-36-d 9-42-127-n-d 9-40-127-n-d
+Final Fantasy IIIFF6_Locke_Xg.mid wait-418 wait-17 wait-18 wait-17 wait-17
+Sonic CD (Japan)SuperSneakers.mid wait-260 wait-1095 0-76-92-81-d 1-64-75-81-d 3-72-59-46-d
+Wild ArmsMoments_Of_Tension.mid 0-66-115-81-d 1-45-90-99-d 1-42-110-99-d 2-42-100-38-d 4-54-100-48-d
+Treasure Hunter Gthg-Forest2.mid 0-85-79-46-d 1-54-100-32-d 1-50-100-32-d 1-38-100-32-d wait-9
+Strider HiryuTrain.mid 1-75-83-48-d 2-42-91-33-d 9-38-92-25-d wait-12 9-38-0-25-d
+Final Fantasyff1Castlecorneria11.mid 3-43-51-38-d 14-76-101-19-d wait-403 3-43-0-38-d wait-8
+GoldenEye 007ge64silo-rr.mid 0-26-100-35-d 5-57-100-63-d 8-57-100-90-d 8-69-100-90-d 9-36-100-n-d
+Final Fantasy TacticsRun_Past_Through_The_Plain.mid wait-3545 0-92-70-72-d 1-37-127-48-d 2-44-100-48-d 3-68-110-48-d
+Castlevania BloodlinesCalling_From_Heaven3.mid 0-37-113-19-d 0-49-113-19-d wait-206 0-49-0-19-d 0-68-113-19-d
+Mega Man 5gbmm5_mars.mid 0-61-108-69-d 1-66-110-69-d 2-42-110-33-d 9-36-110-n-d 9-44-110-n-d
+Chrono Crossccross_Pathetic.mid wait-2021 0-76-100-52-d wait-1011 0-69-100-52-d wait-1010
+Final Fantasy IIcecil.mid wait-1694 1-62-127-48-d 1-55-16-48-d 8-43-127-32-d 9-40-16-48-d
+Mega Man 2Gb2weap.mid 0-85-100-80-d 2-54-100-34-d 9-36-100-0-d wait-121 9-36-0-0-d
+Zelda II: The Adventure of LinkZelda.mid 0-58-83-69-d 0-61-83-69-d 0-66-83-69-d 1-42-105-26-d 1-54-105-26-d
+Wonder BoyWB-BossDefeated.mid 0-67-100-80-d 1-55-85-80-d 2-74-76-80-d wait-256 0-67-0-80-d
+Mega Man IImm2_wilystage1_ds.mid 0-56-127-81-d 0-61-127-81-d 2-25-127-38-d 2-37-127-38-d 3-37-127-87-d
+Disney's Herculesdhgbboss.mid 0-52-105-34-d wait-6 9-36-102-126-d wait-134 9-36-0-126-d
+Banjo-Tooiebt64_ggm_race.mid 0-59-116-105-d 0-55-116-105-d 1-31-94-35-d 9-38-73-0-d 9-44-73-0-d
+Phantasy Star 4PS4-TheBlackBlood.mid 1-33-110-47-d 1-45-110-47-d 2-33-110-30-d 2-45-110-30-d 3-33-110-93-d
+Rygarrygar-2a.mid 0-60-87-81-d 1-48-75-38-d wait-212 1-48-0-38-d 1-48-75-38-d
+Legend of ManaManacalm.mid 0-75-80-75-d 0-72-80-75-d 1-44-80-46-d 2-68-80-12-d 2-80-80-12-d
+Yoshi's SafariYS_Start_Level.mid 0-67-127-5-d 0-71-127-5-d 0-74-127-5-d 1-67-108-99-d 1-71-108-99-d
+Sonic 3D BlastSonic_3D_Blast_-_Saturn_-_Gene_Gadget_Zone_2_V11.mid wait-397 5-65-48-119-d wait-1184 5-65-0-119-d wait-8
+StarTropicsStarTropics-chapter_intro.mid 0-45-87-80-d 1-61-78-26-d 2-69-78-26-d 3-61-87-80-d 5-69-87-80-d
+Breath of FireBoF-_Castle_Theme.mid 15-75-92-48-d 13-68-92-48-d 11-65-92-48-d 7-41-108-48-d 9-40-92-n-d
+Mega Man X2X-Hunter_Stage_1&2.mid 0-54-108-30-d 0-66-108-30-d 5-42-108-105-d 9-55-108-n-d wait-58
+Volleyfirehm-vfmusica.mid 0-52-95-81-d 1-59-76-80-d wait-95 0-52-0-81-d 1-59-0-80-d
+Ys IV: The Dawn of Ysys4liza.mid wait-55 wait-3 wait-2 wait-2 wait-3
+Wonder Boy 3: The Dragon's TrapWB3_Mouseman.mid 0-55-100-80-d 1-67-91-80-d 2-79-82-80-d 9-36-79-n-d wait-96
+Legend of Zelda, The: Link's AwakeningTaltal.mid 0-50-100-48-d 0-43-100-48-d 1-31-100-33-d wait-98 0-43-0-48-d
+Cloud MasterChukaT-Round3.mid 0-61-87-24-d 1-68-87-70-d 2-63-87-24-d 3-68-100-24-d 3-73-100-24-d
+Legend of Heroes 4LegendofHeroes4_LeavingtheNest_XG.mid 0-62-87-81-d 0-70-87-81-d 6-67-64-80-d 7-67-46-80-d wait-3072
+Mega Man X8MMX8_Stage_Select_1-KM.mid wait-1440 10-40-102-47-d wait-103 9-38-102-48-d 10-40-0-47-d
+Adventures in the Magic KingdomMKPIRATE.mid 0-72-80-0-d 1-64-80-0-d 2-33-80-33-d wait-109 1-64-0-0-d
+Mega Man VICentaurm.mid 0-72-87-111-d 2-48-83-32-d 9-35-79-0-d wait-18 2-48-0-32-d
+Final Fantasy XFfxbat2.mid wait-7 wait-3484 0-68-115-56-d 1-68-100-57-d 3-76-103-48-d
+Kingdom Hearts 2Axelrepeat2.mid wait-3 2-91-57-9-d 5-79-29-52-d 6-62-31-52-d 7-55-34-52-d
+Final Fantasy 9notalone.mid 0-57-112-77-d 2-57-80-29-d 4-33-112-35-d 5-69-80-89-d 6-64-80-89-d
+WWF No MercyOLkurtangle.mid 0-65-76-62-d 0-72-76-62-d 0-77-76-62-d 5-77-76-62-d 5-72-76-62-d
+Sonic Rushvelanova.mid 0-48-116-35-d 0-36-116-35-d 1-48-121-1-d 9-63-98-16-d 9-59-98-16-d
+Paper MarioP-kammy.mid 0-85-43-79-d 1-73-26-79-d 3-85-52-0-d wait-65 1-73-0-79-d
+Castlevania 3c3stg4.mid 0-59-100-48-d 1-64-100-48-d 2-45-94-32-d wait-80 2-45-0-32-d
+Mario & Luigi: Partners in TimeML2_ShroobPre.mid 0-55-127-39-d 5-43-64-52-d 8-45-127-47-d wait-160 8-45-0-47-d
+Castlevania BloodlinesVampkill-lv5.mid wait-356 1-91-95-30-d 2-79-75-81-d 3-71-73-81-d 0-67-106-30-d
+TetrisTtrisrmx.mid 4-40-127-81-d wait-186 4-40-0-81-d 4-40-127-81-d wait-93
+Kingdom HeartsHollowBastion.mid 0-66-85-46-d 1-35-125-1-d 3-61-100-26-d 5-78-80-91-d 5-50-60-91-d
+Final Fantasy IIImagitek3.mid wait-70 4-9-79-118-d wait-91 9-24-127-0-d wait-57
+Pop'n TwinbeeBL_popntwin_level7.mid 2-76-127-n-d 4-28-127-38-d 6-59-100-52-d 6-64-100-52-d 9-36-100-16-d
+Final Fantasy V (Japan)FF5_b16.mid wait-1422 0-33-100-50-d 0-45-100-50-d 1-45-76-33-d 9-49-76-0-d
+Mighty Final Fightlevel1b.mid 2-46-76-35-d 9-44-100-24-d 9-45-100-24-d wait-13 2-46-0-35-d
+Wario Ware Touched!WarioWareTouched-BigHurl.mid 0-48-110-32-d 9-35-110-24-d wait-64 1-70-110-18-d 1-76-110-18-d
+Super Mario 64jtSM64PeachSlide.mid 0-76-108-40-d 1-69-75-40-d 9-54-75-n-d wait-296 9-54-0-n-d
+Mario Golf: Advance TourMarioGolfAdvance_BirdieShot.mid 1-28-127-33-d 3-40-51-87-d 4-28-87-38-d 9-35-127-0-d 9-49-127-0-d
+StarTropicsstartropicsmiracola.mid 1-43-63-35-d 9-35-62-n-d 9-36-62-n-d 3-93-81-83-d 2-81-100-45-d
+Star Ocean: Till the End of Timeso3_-_battle.mid wait-250 0-57-100-16-d 1-57-100-30-d 2-63-100-16-d 2-60-100-16-d
+Front Mission 5: Scars of the Warfm5_ferita.mid 0-65-94-52-d 1-62-87-52-d 2-57-79-52-d 3-50-57-52-d wait-1654
+Tiny Toons Adventures: Buster's Hidden TreasureTinyToonsBHT-Cave2.mid 0-85-80-40-d 1-85-69-41-d 3-92-87-73-d wait-53 3-92-0-73-d
+Klonoa: Door To Phantomilephantom.mid wait-1280 0-69-112-1-d 1-48-79-0-d 3-69-81-96-d 4-69-74-101-d
+Super Mario 64SM64Water-3.mid 0-67-0-5-d 0-43-63-5-d 1-43-63-99-d wait-209 0-50-63-5-d
+Fighter's History: Mizoguchi No Kiki Ippatsu (Japan)T_FightersHistoryMizouguchi_Yungmie.mid 2-39-109-n-d 3-39-118-n-d 4-63-59-n-d 7-70-89-n-d 7-75-89-n-d
+King of Fighters '96, TheKamikirimushi.mid 0-55-79-25-d 0-67-79-25-d 0-62-79-25-d 1-43-94-25-d 1-31-94-25-d
+Super Mario Land 2SuperMarioLand2-SpaceZone2.mid 0-36-127-38-d 1-36-127-82-d 4-83-78-99-d 5-83-78-7-d 9-35-108-24-d
+Chrono CrossAnother_World.mid wait-234 wait-36 wait-43 wait-36 wait-93
+Sailor Moon Super S Fighting (Japan)sms_mich.mid 0-71-73-5-d 2-28-75-38-d 3-40-69-48-d 9-36-79-26-d 9-42-64-26-d
+Final Fantasy 7FF7CosmoCanyon.mid 1-33-127-47-d 3-31-127-47-d 9-83-127-0-d wait-443 1-33-0-47-d
+EarthBoundebthreed2.mid wait-1763 0-78-79-99-d wait-235 0-78-0-99-d wait-59
+Mystic Ark (Japan)MysticArk_Mta_38.mid wait-1016 3-60-81-56-d 3-64-81-56-d 6-67-91-48-d 6-79-91-48-d
+Legend of the Mystical Ninjamn-Ghosts.mid 0-52-80-73-d 2-59-72-77-d 4-47-63-73-d 3-28-80-35-d 5-52-52-48-d
+King of Fighters '94, TheKOF94Clear.mid 9-38-127-0-d 9-40-127-0-d wait-72 9-40-0-0-d 9-38-0-0-d
+Yoshi's Island DSyshislandmuseum.mid 0-62-100-12-d 0-74-100-12-d 1-50-100-56-d 9-69-100-n-d wait-240
+Shining ForceShiningForce.mid wait-1486 0-72-74-48-d 2-84-74-46-d wait-89 0-72-0-48-d
+Kingdom Hearts 2Twinkle_in_the_sky.mid 0-58-64-10-d 2-58-60-72-d 6-58-46-49-d wait-160 0-58-0-10-d
+Star Wars Galaxiescantina.mid wait-480 wait-1440 5-81-81-64-d 2-65-99-65-d 2-62-99-65-d
+Pokémon Mystery Dungeon: Blue Rescue TeamPokemon_Mystery_Dungeon_Blue_Credits.mid 1-67-74-52-d 5-57-74-48-d 5-62-74-48-d 5-69-74-48-d 7-31-74-80-d
+Front Mission (Japan)front_mission_-_field_hospital_horn.mid 0-61-127-85-d 1-30-108-3-d 2-81-102-45-d 3-42-127-19-d 5-69-76-12-d
+Super Mario All-StarsSMAS_-_SMB3_-_World_7_Map.mid 9-36-79-0-d 9-42-79-0-d wait-117 9-42-0-0-d 9-36-0-0-d
+Dream TVDreamTVCastle.mid 0-36-100-34-d 1-67-100-56-d 1-72-100-56-d 3-67-100-61-d 3-72-100-61-d
+Sims, Thethesims_buy1_v2.mid 0-62-75-40-d 0-65-75-40-d 0-69-75-40-d 0-72-75-40-d wait-162
+Mike Tyson's PunchoutPunch_Out_-_1st_Match.mid wait-1191 1-62-100-56-d 9-40-100-0-d wait-189 9-40-0-0-d
+Out of This WorldOUT_OF_THIS_WORLD_-_FATALITY.mid 0-73-76-44-d 1-78-76-50-d 4-73-64-44-d wait-987 0-73-0-44-d
+Castlevania 3stream.mid 0-69-63-29-d 0-60-63-29-d 3-33-79-33-d 4-69-63-30-d 4-60-63-30-d
+Sonic the HedgehogBonusRoundFestivalCityReemix.mid 2-35-127-38-d 9-57-100-0-d 9-35-100-0-d 4-59-127-10-d 4-71-127-10-d
+Pokémon CrystalPkmnCrystal_Raikou,Entei,Suicune.mid 4-81-71-11-d 4-79-71-11-d 5-79-1-112-d 5-81-1-112-d 8-79-127-80-d
+Front Mission: Gun Hazard (Japan)FrontMissionGunHazard_Resistence.mid 0-86-50-87-d wait-69 0-86-0-87-d wait-4 0-86-28-87-d
+Mario Party 3MarioParty3_RulesGMXG.mid wait-278 wait-1258 0-38-127-38-d 3-38-127-38-d 9-49-127-16-d
+Perfect Darkcinstitute.mid 9-36-110-n-d wait-526 9-36-0-n-d wait-7 9-36-110-n-d
+Yuu Yuu Hakusho FinalYuuYuuFinalYusukeThemeSNES.mid 0-65-114-55-d 2-29-114-33-d 9-35-116-0-d 9-42-116-0-d 4-57-114-4-d
+Legend of Zelda, The: Twilight PrincessLoZTP_-_Against_Ganondorf_-_By_Nova.mid 0-58-95-48-d 1-58-43-42-d 4-36-95-48-d 5-36-61-42-d wait-1920
+Dr  Robotnik's Mean Bean MachineDRMBM_Exercise_Mode-KM.mid 0-38-102-36-d 1-38-102-36-d 2-72-102-66-d 4-69-56-62-d 4-65-56-62-d
+Legend of Zelda, The: Oracle of AgesA-tune2.mid 0-63-110-46-d 1-81-50-46-d wait-86 0-63-0-46-d wait-4
+Kirby Super StarKSS_Halberd_1_V2_2_GM.mid 0-74-79-54-d 1-69-79-54-d 2-63-79-54-d 3-35-79-89-d 9-38-39-25-d
+Sonic CD (Japan)smcdmmgdftv2.mid 9-84-100-8-d 1-26-91-39-d 2-57-100-49-d 2-62-100-49-d 2-66-100-49-d
+Secret of Manasom-icecasGM.mid wait-771 wait-31 wait-32 wait-31 wait-32
+KnightmareKnight.mid 9-38-59-0-d 9-36-59-0-d 1-36-71-35-d 2-72-71-48-d 3-75-87-82-d
+FlashFlash-Start.mid 1-76-87-80-d 2-57-91-80-d 9-44-79-0-d wait-11 wait-8
+River City Ransomrcrstatus.mid 0-74-80-30-d 1-71-80-30-d 2-35-80-37-d 9-42-80-25-d 9-35-80-25-d
+RamboJDC_RPass.mid 2-76-105-71-d 6-33-109-34-d 7-33-108-39-d 9-55-104-16-d 9-52-104-16-d
+Jurassic ParkJPark-Boss.mid 0-70-100-80-d 1-65-100-80-d 2-63-94-80-d wait-96 0-70-0-80-d
+Pokémon (Red, Blue, Yellow)PkmRB-Vermilion.mid 0-64-79-87-d 1-69-94-87-d 2-69-55-81-d 9-42-79-0-d wait-57
+Metroid Primeget_item_jingle.mid 0-65-79-48-d 1-46-63-58-d 1-34-63-58-d 2-46-63-40-d 2-34-63-40-d
+Donkey Kong CountryDKCMine-GM.mid wait-103 wait-1543 0-36-105-92-d 3-68-100-50-d 4-63-100-51-d
+Super Mario Land 2SML2Turtle.mid 0-55-110-n-d wait-64 0-55-0-n-d wait-5 0-56-110-n-d
+Final Fantasy 9ffixstringquartet.mid 1-74-50-49-d 4-74-64-40-d wait-609 1-74-0-49-d 4-74-0-40-d
+Wild Arms: 2nd Ignitionwa2_op2.mid wait-444 wait-18 wait-18 wait-18 wait-18
+Attack of the Killer TomatoesAotKT_-_The_Secret_Stage.mid 0-51-93-6-d 1-70-93-4-d 2-75-93-20-d 9-35-79-0-d wait-97
+Phantasy Star 2Mystery2.mid 0-79-127-51-d 1-34-127-39-d 2-65-100-4-d 3-70-100-4-d 4-74-100-4-d
+Super Mario RPGsmrpg_letsplaygeno.mid 2-63-71-12-d 6-60-71-12-d wait-136 2-63-0-12-d 6-60-0-12-d
+Final Fantasy 8finfan8julia.mid 1-38-100-32-d 2-38-100-34-d wait-500 0-61-66-24-d 0-69-88-24-d
+Mother 3 (Japan)M3TimeRoom.mid 5-67-28-4-d 6-67-35-78-d 8-55-54-89-d 8-59-54-89-d 8-62-54-89-d
+Final Fantasy 9Uematsu-HillofDespair-Short.mid 6-60-84-49-d 8-36-82-39-d 9-35-79-24-d 9-42-93-24-d wait-121
+Mario Kart Wiimariokart_star1.mid wait-397 0-66-127-32-d 1-70-127-32-d 2-63-127-32-d 3-63-127-49-d
+Sonic HeroesSH_Bingo_Highway-KM-GS.mid 4-35-67-81-d 9-46-102-8-d 0-36-102-24-d 0-35-102-24-d wait-24
+Legend of Zelda, The: Phantom Hourglasslinebeck3.mid 2-67-98-48-d wait-1 0-67-102-56-d 4-55-102-60-d wait-7
+Legend of DragoonLODCASTL.mid 9-69-54-0-d 9-64-53-0-d 0-68-54-48-d 0-49-54-48-d 0-75-54-48-d
+Mike Tyson's Punchoutmike_tyson's_punch-out_-_loss.mid 0-60-127-25-d 0-55-127-25-d 2-43-95-33-d wait-180 2-43-0-33-d
+Streets of Rage 3StR3-Select.mid 0-53-100-81-d 3-41-63-81-d 4-65-79-80-d 9-35-100-0-d 9-59-100-0-d
+Paper Mario: The Thousand-Year DoorPMTTYD-chap3boss.mid 0-40-127-26-d 9-68-127-0-d 9-70-127-0-d 9-73-127-0-d 9-42-127-0-d
+Chrono Triggerctad600a.mid wait-1355 0-86-63-45-d wait-678 0-86-0-45-d 0-88-63-45-d
+Sonic the HedgehogGHZxgmix.mid wait-250 wait-4 wait-13 wait-15 wait-11
+Star FoxSF_Macbeth-KM.mid 0-31-71-38-d 1-31-102-34-d 2-103-51-5-d 3-55-67-28-d 9-36-71-16-d
+Mario Golfmg64BooClasic.mid 9-44-67-0-d 9-86-87-0-d 9-57-68-0-d 2-33-125-33-d 3-76-41-48-d
+Final Fantasyff1matoyaRMX.mid 0-71-100-0-d 1-47-75-0-d 2-35-100-4-d 2-47-100-4-d wait-288
+ApidyaApidya2.mid 0-68-100-83-d wait-192 0-75-100-83-d 1-68-65-51-d wait-192
+Pokémon (Gold, Silver)pk2orch.mid wait-1245 3-77-80-45-d 1-61-89-68-d 6-53-86-32-d 8-77-71-73-d
+Sonic the Hedgehog 2Sonic2_AquaticRuin.mid wait-461 0-36-115-33-d 9-39-95-24-d wait-115 0-36-0-33-d
+Tecmo World Cup '92goal!.mid 0-46-82-33-d 1-65-100-80-d 3-53-87-87-d 9-42-95-n-d wait-48
+Blackthornesarlac.mid 9-27-126-48-d 9-43-126-48-d 0-36-103-28-d 0-31-103-28-d 1-48-46-48-d
+Time Warp Of Dr  Brain, TheCavePuzz32.mid 9-46-127-16-d 9-56-64-16-d 0-64-127-21-d 2-36-127-35-d wait-129
+Gokujyo Parodius (Japan)GokujyoParodius_Opening.mid 9-35-88-n-d 9-36-88-n-d 0-50-101-47-d 1-34-88-34-d 2-74-101-48-d
+Pokémon (Black, White)Pokemon_black_and_white_low_hp_midi_version.mid 0-71-79-55-d 0-59-79-55-d wait-79 0-71-0-55-d 0-59-0-55-d
+Astro WarriorAstroW-Zone1.mid 0-85-100-80-d 1-54-89-80-d 2-81-83-80-d 9-44-94-0-d wait-128
+HybrisHybris.mid 0-65-100-62-d 0-67-100-62-d 0-72-100-62-d 1-60-95-81-d 3-36-87-81-d
+Final Fantasy Xmacalaniaforestmidi3.mid 0-84-3-48-d 1-77-79-8-d 1-77-79-8-d 1-65-90-8-d 2-79-50-48-d
+Final Fantasy 8Ff8bos88.mid wait-1269 10-91-63-48-d 10-79-63-48-d wait-28 10-79-0-48-d
+Banjo-Tooieold_king_coal_lthh.mid 0-72-88-48-d 3-48-101-58-d 7-60-101-56-d 7-72-101-56-d 8-36-90-47-d
+Gameboy CameraGBC-31.mid 1-71-44-46-d 0-59-64-74-d 3-83-44-46-d 4-59-44-46-d 5-59-49-89-d
+Super SidekicksSsktitle.mid 0-44-87-33-d 1-44-87-30-d 2-63-87-99-d 9-43-87-n-d 9-49-87-n-d
+Sonic the Hedgehog 2Sonic2-Unused2.mid 0-77-100-80-d 1-74-71-80-d 2-60-88-80-d 9-44-79-0-d wait-55
+Kingdom Hearts: 358 2 DaysXion_Battle.mid 9-38-110-48-d 15-65-86-119-d 15-72-86-119-d 15-77-86-119-d wait-76
+Sonic ChaosSonicChaos_SleepingEgg.mid 1-53-91-80-d 2-70-85-80-d 9-42-87-n-d wait-103 1-53-0-80-d
+Super Street Fighter II: Turbo RevivalT_SuperStreetFighterIITurboRevival_PlayerSelect.mid 9-44-99-16-d 9-53-99-16-d wait-175 9-51-99-16-d wait-87
+Mega Man X3Mmx3intr.mid 0-58-79-61-d 0-62-79-61-d 0-55-79-61-d 2-81-94-63-d 4-43-94-34-d
+Pokémon CrystalSuicune_CrystalVer.mid 1-88-79-81-d 4-81-79-81-d wait-54 1-88-0-81-d wait-13
+Castlevania Legendscvl-Meeting_with_Dracula.mid 0-51-110-40-d 1-58-127-40-d 2-27-110-42-d 2-39-110-42-d 9-36-110-n-d
+Mega Man IIheatmm2.mid 0-38-100-87-d 1-62-100-80-d 3-64-101-118-d 9-46-100-16-d wait-16
+Soul Calibur 2SC2Confrontation.mid wait-5 wait-1563 9-40-100-48-d wait-36 9-40-0-48-d
+Star Fox 2 (Unreleased)eladard_1.mid 0-61-61-81-d 1-56-60-81-d 2-37-102-33-d 3-85-69-8-d 9-35-95-0-d
+BS Zelda (Japan)bszeldatitle.mid 0-58-79-n-d 2-58-79-n-d 3-34-127-n-d wait-2 wait-1
+Ninja GaidenT_Galesburg.mid 2-35-118-7-d 3-35-113-34-d 9-42-109-8-d 9-44-109-8-d wait-74
+Megumi Rescue (Japan)MegumiR-Bonus2.mid 0-77-100-80-d 1-61-85-80-d 2-61-77-80-d 9-42-79-0-d wait-96
+Bionic CommandoT_BionicCommando_Prologue3.mid 2-32-114-35-d 3-32-114-26-d 4-56-79-99-d 4-51-79-99-d 4-68-79-99-d
+Mario Golfgbc_mg_sm01.mid wait-10 0-72-82-7-d 9-36-71-25-d 1-60-48-80-d 2-48-71-80-d
+Mega Man 10MM10_-_Get_The_Punk_Out.mid 9-36-127-8-d 9-50-127-8-d wait-90 9-36-0-8-d 9-50-0-8-d
+Sonic the Hedgehog 2STH2-Emerald_Hill_EDITED.mid 0-77-70-99-d 0-74-70-99-d 0-70-70-99-d 1-77-45-107-d 1-74-45-107-d
+Jurassic ParkJurassicpark_lvl1_jannee.mid 0-53-100-81-d 9-36-84-0-d 9-46-67-0-d wait-121 0-53-0-81-d
+Legend of Zelda, The: Twilight Princesszeldatp_snowpeak_ruins.mid 0-52-42-102-d 1-52-42-52-d wait-250 0-52-0-102-d 1-52-0-52-d
+Final Fantasy 9ff9_-_Wall_of_Sacred_Beasts.mid 0-62-63-88-d 2-50-79-88-d wait-360 2-53-43-88-d wait-9
+Last Ninja 2ninja2-6.mid wait-386 wait-4 wait-4 wait-4 wait-4
+Mega Man X3MMX3-_Zero's_Theme.mid wait-384 9-49-110-n-d 0-78-92-29-d 2-71-92-29-d 4-35-108-36-d
+CastlevaniaCV1-_Vampire_Killer.mid 10-69-92-84-d 11-74-92-84-d 12-38-92-33-d 9-36-92-n-d 9-42-92-n-d
+Castlevania II: Belmont's RevengeT_CastleVania2Revenge_BossLevel.mid 2-40-119-26-d 4-40-79-30-d 4-35-79-30-d 5-40-99-35-d 9-49-89-24-d
+Legend of Zelda, The: Oracle of SeasonsHVillage_GBC_ZELDAOOS.mid 0-42-79-26-d 0-70-79-26-d 0-54-79-26-d wait-172 0-42-0-26-d
+Super Csupercend.mid 0-72-81-62-d 1-67-68-62-d 2-48-76-38-d 3-72-88-55-d 9-46-100-23-d
+Sonic the Hedgehog 2smd-sonicthehedgehog2-emeraldhillzone-v2.mid 0-74-108-62-d 0-77-108-62-d 6-65-81-87-d 9-35-119-24-d 9-35-119-24-d
+Gradius IIIgra3title.mid 0-73-95-62-d 1-57-69-63-d 2-52-69-63-d 3-73-69-53-d 4-69-69-53-d
+Legend of ManaAid.mid 0-48-0-n-d 1-41-0-n-d wait-287 0-48-0-n-d 1-41-0-n-d
+Mega Man X5MMX5_Squid_Adler-KM.mid 2-72-15-87-d 4-84-8-98-d 7-72-14-5-d wait-85 2-72-0-87-d
+Ghostbusters 2Ghostbusters2-StatueOfLibertyStage.mid 9-56-41-0-d wait-3 9-56-0-0-d wait-259 9-56-41-0-d
+Ski or DieSkiOrDie-DownhillBlitz.mid 3-35-100-33-d wait-2 9-49-100-n-d 9-36-100-n-d 9-56-79-n-d
+Ogre Battle 64: Person of Lordly CaliberHomage.mid 2-33-127-57-d 3-45-127-48-d 3-33-127-48-d 9-45-127-48-d 9-38-127-48-d
+Sword of Manassd_strangeworld.mid 2-56-92-80-d 4-41-108-80-d 5-41-110-47-d wait-85 3-56-60-80-d
+GoldenEye 007K25Depot.mid wait-4 4-71-53-12-d 4-76-61-12-d wait-195 4-71-0-12-d
+Kirby Super Starkss_savecottages.mid wait-900 wait-1980 0-76-110-46-d 1-60-113-46-d 2-72-94-46-d
+Jr  Pac-ManJrPacman-Start3.mid wait-256 1-57-91-80-d wait-128 1-57-0-80-d 1-59-91-80-d
+SpellCasterSpellC-Death.mid 0-64-100-80-d 1-64-80-80-d 2-76-80-80-d wait-96 0-64-0-80-d
+F-Zero: Maximum VelocityF-Zero_MV_-_Crater_Land.mid 9-42-110-25-d 9-49-110-25-d 9-35-110-25-d 1-40-110-30-d 1-47-110-30-d
+AsterixAsterix-Bonus.mid wait-120 0-67-79-80-d 1-76-87-80-d wait-30 2-76-58-80-d
+China WarriorTG16__China_Warrior__Death.mid 0-69-79-106-d wait-96 1-65-79-106-d wait-96 2-64-79-106-d
+Lufia 2: Rise of the Sinistralsluf2mapB.mid wait-1029 0-56-127-46-d 1-56-96-48-d 9-61-127-0-d wait-128
+Deja Vudejavu2.mid 9-42-110-n-d wait-453 9-42-0-n-d wait-90 9-46-110-n-d
+Aztec Challenge_aztec_.mid 9-35-100-n-d 9-42-100-n-d wait-144 9-42-0-n-d 9-35-0-n-d
+Power StrikePStrike-Round5.mid 0-74-100-80-d 1-74-83-80-d 2-50-91-80-d 9-35-79-0-d 9-44-79-0-d
+Donkey KongDKhammer.mid 0-60-110-80-d 1-60-52-0-d wait-148 0-60-0-80-d 1-60-0-0-d
+U N  SquadronUNSquadProj4Fortress.mid wait-186 0-69-102-4-d wait-139 1-69-70-4-d wait-47
+Eien No Filena (Japan)FILENA.mid 0-69-64-73-d 1-65-64-0-d 2-69-64-44-d 3-72-64-48-d 4-69-64-48-d
+Lemmingslembuild.mid 0-67-79-4-d 1-63-64-46-d 2-39-87-33-d 9-42-59-7-d 9-36-79-7-d
+Mega Man IIIRM3-HardMan-X.mid 0-69-123-81-d 1-69-54-90-d 2-69-75-95-d 3-72-69-29-d 4-72-89-93-d
+Legend of Zelda, The: Majora's Maskintune.mid 9-86-127-n-d wait-81 9-86-0-n-d wait-134 9-54-127-n-d
+Journey to Siliusjts-st3.mid 0-70-120-49-d 1-67-120-49-d 6-31-112-37-d 7-31-94-36-d 9-35-120-0-d
+After BurnerAfterJ-Ending.mid 9-35-100-0-d 9-44-100-0-d 9-38-100-0-d 9-41-100-0-d wait-32
+Ecco 2: Tides of Timeecco_the_tides_of_time_title_screen.mid 6-56-58-46-d 8-32-68-34-d 3-56-55-48-d 3-59-55-48-d 3-63-55-48-d
+Justice League Task ForceSupermanv1_1.mid 9-38-83-48-d 0-84-114-48-d 4-48-127-48-d 5-63-127-56-d 6-67-71-60-d
+Gokujyo Parodius (Japan)GokujyoParodius_Koitsu.mid 9-35-101-n-d 9-36-101-n-d 0-33-101-34-d 1-81-101-85-d 2-81-101-48-d
+Legend of the Mystical Ninjamn-NinjaCastle.mid 0-47-57-27-d 1-66-80-77-d 2-60-72-77-d 3-64-72-77-d 6-35-80-35-d
+Ghouls 'n GhostsGhouls'nGhostsStage3.mid 0-43-112-91-d 2-31-72-99-d 4-67-96-88-d wait-83 4-67-0-88-d
+Street Fighter IIsf2vega.mid 3-74-120-47-d 4-70-110-30-d 5-43-110-11-d 6-36-110-47-d 7-61-78-117-d
+Mega Man IIIMega_Man_3_-_Magnet_Man.mid 0-73-94-44-d 1-71-79-29-d 2-54-94-35-d 9-40-94-4-d wait-210
+Dr  Robotnik's Mean Bean MachineDrrmed.mid 0-61-100-10-d 1-49-100-34-d 9-45-100-n-d 3-73-100-51-d 4-61-100-24-d
+Final Fantasy II (Japan)FF2magiciantower11.mid 0-62-78-19-d 0-74-78-19-d 1-62-70-10-d 2-50-78-52-d wait-24
+Mario & Luigi: Partners in TimeML2_BossBattle1_5.mid 0-55-127-107-d 1-36-127-58-d 2-48-127-47-d 4-55-61-29-d 9-57-76-0-d
+Final Fantasy 7ff7d2-9.mid 1-57-68-11-d 2-57-64-92-d 3-84-84-89-d 13-57-61-17-d wait-306
+Stingerstingpow.mid 0-55-79-24-d 1-59-87-2-d 2-62-87-2-d wait-61 0-55-0-24-d
+Legend of the Mystical Ninjadiarya.mid wait-162 9-35-60-n-d 5-36-59-68-d 15-62-50-84-d 0-79-50-80-d
+PatlaborPatlabor-Enging.mid 3-71-127-n-d 4-35-127-55-d 9-36-127-n-d 9-51-127-n-d wait-1
+Mario Golf: Toadstool TourMGTT_Skins_Match-KM-GM.mid 0-36-82-36-d 1-36-92-34-d 2-64-77-62-d 2-60-77-62-d 2-55-77-62-d
+Dragon Ball Z: The Legend of Super Son Goku (Japan)Freeza1.mid 0-68-127-48-d 9-35-127-n-d 2-68-127-56-d 3-48-127-90-d 4-80-127-46-d
+Pokémon (Ruby, Sapphire)PkmRS-AquaE.mid 0-34-100-32-d 1-65-79-58-d 2-61-44-58-d 6-34-79-36-d 9-42-75-0-d
+Wonder Boy 3: The Dragon's TrapWB3_Its_a_treasue_box.mid wait-92 0-91-83-3-d 2-91-86-4-d 3-55-85-34-d 9-44-44-n-d
+Mega Man X5MMX5_Izzy_Glow-KM.mid 0-52-102-30-d 0-45-102-30-d 1-33-102-34-d 9-36-102-16-d 9-42-102-16-d
+Super MetroidSMtrd_Boss_Controntation-MGSRMX-KM.mid 0-36-102-33-d 1-48-82-38-d 4-60-97-48-d 4-58-97-48-d 4-53-97-48-d
+Bubsy the Bobcatbubshad.mid 1-36-90-32-d 2-63-71-15-d 9-36-127-n-d wait-56 9-36-0-n-d
+Metal Gear Solid 2: Sons of LibertyT_MetalGearSolid2_SnakesTheme.mid 0-66-62-16-d 1-54-100-4-d 2-30-100-33-d wait-51 1-54-0-4-d
+Star WarsStarWars-Title.mid 0-45-87-81-d 1-69-100-80-d wait-106 2-69-67-80-d wait-36
+Space Harrierspaceharrier.mid wait-23 0-71-88-11-d wait-1 1-67-100-24-d wait-1
+Brainlordbltower.mid wait-1043 0-72-112-12-d 2-36-85-80-d 9-44-112-0-d 9-35-112-0-d
+Spyro the Dragonspyro_lofty_castle.mid wait-240 9-58-49-0-d wait-240 9-58-0-0-d 9-38-49-0-d
+Super Royal BloodCB_RBRed.mid 9-39-87-0-d 9-40-87-0-d 9-36-87-0-d 2-48-107-35-d 3-76-107-24-d
+Street Surferstreet-surfer.mid 1-60-100-0-d 2-84-100-84-d 4-36-100-35-d wait-44 1-60-0-0-d
+Final Fantasy 7jpr-ff7theme.mid 9-54-100-0-d 9-51-74-0-d 1-48-38-49-d 1-43-39-49-d wait-144
+Donkey Kong 64dk64frfaV3.mid wait-2099 9-37-69-n-d wait-33 9-37-0-n-d wait-33
+Super Mario KartSMKLose.mid 0-40-127-35-d 1-72-127-63-d 1-67-127-63-d 1-62-127-63-d 3-40-45-0-d
+Super Mario Bros  3da_smb3-overworld.mid 0-55-110-80-d 1-47-110-80-d 2-55-110-80-d 9-36-110-n-d wait-122
+GolvelliusGolvellius-Password.mid 0-50-100-80-d 2-74-94-80-d wait-192 0-50-0-80-d 0-62-100-80-d
+Super Mario 64Jolly_Roger_Bay_Guitar.mid 2-43-52-24-d wait-180 2-43-0-24-d 2-50-61-24-d wait-180
+Super Mario World 2: Yoshi's IslandSMW2CBOX.mid 1-60-71-8-d wait-148 4-60-35-8-d wait-458 1-63-71-8-d
+Final Fantasy 9FF_IX_Breaking_Through_South_Gate_DW.mid wait-900 0-74-92-48-d 1-62-92-48-d 2-62-92-48-d wait-86
+Crash Bandicoot: The Wrath of Cortexweathering_heights_midi.mid 0-72-127-38-d 0-67-127-38-d 0-60-127-38-d 3-60-91-90-d 4-60-78-95-d
+Final Fantasy 9FF9-Normal_Battle.mid 0-50-62-11-d 2-50-30-18-d 3-50-34-12-d 8-62-31-48-d 8-50-58-48-d
+Kingdom Hearts: Chain of MemoriesTitle_Screen.mid 0-44-127-0-d 2-80-127-46-d 3-32-127-0-d 4-68-45-52-d 5-68-127-52-d
+Super Bomberman 2SuperBomberman2-Password_Screen.mid 0-29-75-38-d 1-29-75-38-d 2-29-90-36-d 9-27-127-8-d 9-35-127-8-d
+Mega Man 416-BossTheme2.mid 1-47-110-80-d 0-35-110-80-d wait-384 1-47-0-80-d 1-50-110-80-d
