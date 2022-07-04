@@ -23,3 +23,5 @@ https://drive.google.com/file/d/1HccziZkT3A_6PFW_7lRcqwkv6ZbXJROH/view?usp=shari
 https://drive.google.com/file/d/14bGsH7MxTKydOdOxNM4sU8XnLr6Rdk77/view?usp=sharing -> on this link are images for testing
 
 https://drive.google.com/file/d/1MECXvMhtc5b8hkMqBRibt4Yc0jEr_6U5/view?usp=sharing -> link for model for generating music from image
+
+Za pokretanje generatora muzike na osnovu par nota pokrenuti generate.py iz gpt-2simple, input staviti u "tekst" varijablu, da bi produzili pesmu povecati broj iteracija
